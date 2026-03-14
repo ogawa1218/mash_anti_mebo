@@ -1,15 +1,47 @@
-# 一時ファイル
-_tmp_*.html
+# APIキー（重要：絶対にコミットしない）
+.env
+
+# Pythonキャッシュ
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
 
-# 大きな画像は除外（任意）
-# images/**/*.png
-
-# Python仮想環境
-.venv/
+# 仮想環境
 venv/
+env/
+ENV/
 
-# OS
+# IDEファイル
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS
 .DS_Store
+
+# Windows
 Thumbs.db
+desktop.ini
+
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
+*.temp
+_tmp_*.html
+
+# 画像（サイズが大きいためgit管理外）
+note/images/
+note/Image/
+
+# embedded git repos（サブモジュールではないため除外）
+note/longevity-dashboard/
+note/note-project/
+
+# Playwright一時ファイル
+debug_*.html

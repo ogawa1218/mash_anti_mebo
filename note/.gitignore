@@ -1,0 +1,15 @@
+# 一時ファイル
+_tmp_*.html
+__pycache__/
+*.pyc
+
+# 大きな画像は除外（任意）
+# images/**/*.png
+
+# Python仮想環境
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
