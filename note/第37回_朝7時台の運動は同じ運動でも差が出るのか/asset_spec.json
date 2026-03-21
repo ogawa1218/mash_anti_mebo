@@ -1,0 +1,208 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "朝7時台の",
+      "line2": "運動は",
+      "line3": "得かも",
+      "eyebrow": "MORNING EXERCISE",
+      "badge": "第37回｜朝習慣",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "忙しい会社員が最速で整う朝習慣"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "同じ運動でも",
+      "line2": "朝に寄せると",
+      "line3": "差が出る？",
+      "eyebrow": "MORNING EXERCISE",
+      "badge": "第37回｜朝習慣",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "理想より、続く時間を決める"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "朝10分で",
+      "line2": "1日の整い方は",
+      "line3": "変わる",
+      "eyebrow": "MORNING EXERCISE",
+      "badge": "第37回｜朝習慣",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "短く固定する人が勝つ"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_朝運動の位置づけ",
+      "title": "朝運動は上乗せ候補。でも最優先は総量確保",
+      "bodyHtml": "<div style='position:absolute;left:95px;top:190px;display:flex;gap:24px;align-items:center;'><div class='panel' style='width:300px;height:240px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>最優先</div><div style='font-size:34px;font-weight:900;line-height:1.45;margin-top:18px;'>やらない\nより\nまずやる</div></div><div style='font-size:56px;font-weight:900;color:#38bdf8;'>+</div><div class='panel' style='width:300px;height:240px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>上乗せ候補</div><div style='font-size:34px;font-weight:900;line-height:1.45;margin-top:18px;'>朝に寄せる\n代謝\n血圧\n継続</div></div><div style='font-size:56px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:280px;height:240px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>現実解</div><div style='font-size:34px;font-weight:900;line-height:1.45;margin-top:18px;'>続く時間を\n固定する</div></div></div>"
+    },
+    {
+      "name": "figure_02_朝運動の連鎖",
+      "title": "朝に動くと、その日の後半が崩れにくくなる",
+      "bodyHtml": "<div style='position:absolute;left:95px;top:205px;display:flex;gap:20px;align-items:center;'><div class='panel' style='width:220px;height:170px;padding:20px;border-color:#ff6d0055;'><div class='orange' style='font-size:20px;font-weight:900;'>朝に動く</div><div style='font-size:26px;font-weight:900;line-height:1.5;margin-top:16px;'>光を浴びる\n血流が上がる</div></div><div style='font-size:46px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:220px;height:170px;padding:20px;border-color:#38bdf855;'><div class='blue' style='font-size:20px;font-weight:900;'>気分が整う</div><div style='font-size:26px;font-weight:900;line-height:1.5;margin-top:16px;'>判断が\nぶれにくい</div></div><div style='font-size:46px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:220px;height:170px;padding:20px;border-color:#4ade8055;'><div class='green' style='font-size:20px;font-weight:900;'>食事が整う</div><div style='font-size:26px;font-weight:900;line-height:1.5;margin-top:16px;'>夜の崩れ\n減少</div></div><div style='font-size:46px;font-weight:900;color:#facc15;'>→</div><div class='panel' style='width:220px;height:170px;padding:20px;border-color:#facc1555;'><div class='yellow' style='font-size:20px;font-weight:900;color:#facc15;'>継続しやすい</div><div style='font-size:26px;font-weight:900;line-height:1.5;margin-top:16px;'>翌日も\n戻りやすい</div></div></div>"
+    },
+    {
+      "name": "figure_03_夜ループと朝固定",
+      "title": "100kg時代の夜ループと、今の朝固定ループ",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:175px;width:470px;height:300px;padding:28px;border-color:#ff6d0055;'><div class='orange' style='font-size:28px;font-weight:900;'>夜に回す</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>仕事で遅れる\n↓\n疲れてやめる\n↓\n自己嫌悪</div></div><div class='panel' style='position:absolute;right:90px;top:175px;width:470px;height:300px;padding:28px;border-color:#4ade8055;box-shadow:0 0 34px #4ade8022;'><div class='green' style='font-size:28px;font-weight:900;'>朝に固定する</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>短くても実行\n↓\n運動日が増える\n↓\n体も気分も整う</div></div>"
+    },
+    {
+      "name": "figure_04_朝運動3レベル",
+      "title": "忙しい会社員向け、朝運動の最小設計は3段階",
+      "bodyHtml": "<div style='position:absolute;left:110px;top:190px;display:flex;gap:22px;'><div class='panel' style='width:290px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>Level1 3分</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>外に出るだけ\n光を浴びる\nゼロを防ぐ</div></div><div class='panel' style='width:290px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>Level2 10分</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>速歩10分\n会話できる強度\n朝を立ち上げる</div></div><div class='panel' style='width:290px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>Level3 20分</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>速歩＋階段\n週2回で十分\n盛りすぎない</div></div></div>"
+    },
+    {
+      "name": "figure_05_明日の朝10分",
+      "title": "今日の1歩は、明日の朝10分を先に決めること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:180px;top:175px;width:920px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:50px;font-weight:900;line-height:1.28;margin-top:18px;'>明日の朝、起きたら外に出て\n10分だけ速歩する</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>10分が重ければ3分でもいい。朝に動く型を1回作る。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "朝運動は強い。\nでも最優先は総量確保です。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "energy", "color": "#ff6d00", "label": "まずやる" },
+        { "icon": "graph", "color": "#38bdf8", "label": "朝は上乗せ候補" },
+        { "icon": "check", "color": "#4ade80", "label": "続く時間を固定" }
+      ],
+      "footer": "時間帯論で止まらない。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "差",
+      "title": "朝に動くと、その日の後半が\n崩れにくい。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "朝に動く", "icon": "energy", "color": "#ff6d00", "text": "光と血流" },
+        { "label": "気分が整う", "icon": "graph", "color": "#38bdf8", "text": "判断がぶれにくい" },
+        { "label": "食事も整う", "icon": "check", "color": "#4ade80", "text": "夜が崩れにくい" }
+      ],
+      "footer": "行動が次の行動を引っ張る。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "実体験",
+      "title": "100kg時代の僕は、\n夜運動で何度も崩れました。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "夜に回す",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": ["仕事で遅れる", "疲れてやめる", "自己嫌悪が残る"],
+      "rightTitle": "朝に固定",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": ["短くても実行", "運動日が増える", "整う日が増える"],
+      "footer": "差は継続の構造。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "実務",
+      "title": "朝7時台が強いのは、\n理想と現実のバランスがいいから。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "早すぎない", "text": "睡眠を削りにくい" },
+        { "icon": "check", "color": "#38bdf8", "title": "出勤前に入る", "text": "仕事前に完了しやすい" },
+        { "icon": "check", "color": "#4ade80", "title": "夜が軽い", "text": "追加できたらプラス" }
+      ],
+      "footer": "実務で回しやすい。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "設計",
+      "title": "朝運動の最小設計は、\n3分→10分→20分。",
+      "layout": "checklist",
+      "accent": "#ff6d00",
+      "items": [
+        { "label": "Level1 3分", "note": "外に出るだけ", "color": "#ff6d00" },
+        { "label": "Level2 10分", "note": "速歩10分", "color": "#38bdf8" },
+        { "label": "Level3 20分", "note": "階段は週2回で十分", "color": "#4ade80" }
+      ],
+      "footer": "ゼロを作らない。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "本質",
+      "title": "レベル3を毎日やることより、\nレベル1を切らさないこと。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        { "icon": "check", "color": "#ff6d00", "label": "3分で接触" },
+        { "icon": "graph", "color": "#38bdf8", "label": "ゼロを防ぐ" },
+        { "icon": "energy", "color": "#4ade80", "label": "継続が積み上がる" }
+      ],
+      "footer": "すごい日より、切らさない日。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "if-then",
+      "title": "朝運動が続く人は、\n迷いを先に消しています。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "目覚まし", "icon": "check", "color": "#ff6d00", "text": "カーテンを開ける" },
+        { "label": "歯磨き後", "icon": "check", "color": "#38bdf8", "text": "外に出る" },
+        { "label": "雨の日", "icon": "check", "color": "#4ade80", "text": "足踏み3分" }
+      ],
+      "footer": "意志より設計。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "不安",
+      "title": "朝が無理でも、\n最初は3分でいい。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "3分", "text": "外に出るだけ" },
+        { "icon": "check", "color": "#38bdf8", "title": "10分", "text": "速歩で十分" },
+        { "icon": "check", "color": "#4ade80", "title": "固定", "text": "朝の型を作る" }
+      ],
+      "footer": "長さより固定。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "現実解",
+      "title": "夜しか時間がないなら、\n夜でもいい。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "止まる人",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": ["朝が理想", "できない", "ゼロになる"],
+      "rightTitle": "進む人",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": ["夜でもやる", "朝に寄せられる日は寄せる", "ゼロを減らす"],
+      "footer": "理想より前進。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "明日の朝、起きたら外に出て\n10分だけ速歩する。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "完璧不要", "text": "長くなくていい" },
+        { "icon": "check", "color": "#38bdf8", "title": "朝に動く", "text": "1回型を作る" },
+        { "icon": "check", "color": "#4ade80", "title": "そこから回る", "text": "食事も気分も整いやすい" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}

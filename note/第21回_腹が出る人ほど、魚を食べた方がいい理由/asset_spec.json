@@ -1,0 +1,347 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "腹が出る人ほど",
+      "line2": "魚を食べた方が",
+      "line3": "いい理由",
+      "eyebrow": "FISH & METABOLIC HEALTH",
+      "badge": "第21回｜魚と代謝",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "サバ缶で始めるE判定メタボ脱出食"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "サバ缶は",
+      "line2": "妥協じゃない",
+      "line3": "実装です",
+      "eyebrow": "FISH & METABOLIC HEALTH",
+      "badge": "第21回｜魚と代謝",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "疲れた日でも回る食事設計"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "魚は魔法じゃない",
+      "line2": "でも置き換えで",
+      "line3": "かなり変わる",
+      "eyebrow": "FISH & METABOLIC HEALTH",
+      "badge": "第21回｜魚と代謝",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "高たんぱく×脂質の質×再現性"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_魚が効く3つの理由",
+      "title": "魚が効きやすい理由は、この3つで整理できる",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:170px;width:300px;height:280px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>理由1</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:18px;'>高たんぱくを<br>取りやすい</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>筋肉維持の材料を確保しやすい</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:280px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>理由2</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:18px;'>脂質の質を<br>整えやすい</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>青魚ならEPA・DHAも入れやすい</div></div><div class='panel' style='position:absolute;right:90px;top:170px;width:300px;height:280px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>理由3</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:18px;'>置き換えで<br>全体が整う</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>加工肉や揚げ物の頻度を下げやすい</div></div>"
+    },
+    {
+      "name": "figure_02_魚で変わる1日の流れ",
+      "title": "魚は1食品の魔法ではなく、1日の流れを整える起点",
+      "bodyHtml": "<div style='position:absolute;left:72px;top:180px;display:flex;gap:18px;align-items:center;'><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>昼</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>丼・麺に偏る</div></div><div style='font-size:44px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>置き換え</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>魚を1品入れる</div></div><div style='font-size:44px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>結果</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>たんぱく質と<br>脂質の質が整う</div></div><div style='font-size:44px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>崩れにくくなる</div></div></div>"
+    },
+    {
+      "name": "figure_03_実装しやすい魚の選択肢",
+      "title": "忙しい会社員が回しやすい魚の選択肢はこの3つ",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:92px;top:170px;width:300px;height:260px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>最強の実装</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:16px;'>サバ缶</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>保存できる・包丁いらない・火を使わない</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:260px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>外でも強い</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:16px;'>刺身</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>買ってすぐ食べられる。満足感も作りやすい</div></div><div class='panel' style='position:absolute;right:92px;top:170px;width:300px;height:260px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>外食で強い</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:16px;'>焼き魚定食</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>揚げ物定食の頻度を下げる置き換え先</div></div>"
+    },
+    {
+      "name": "figure_04_実装3段階",
+      "title": "魚習慣は、3段階で作ると続きやすい",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>LEVEL 1</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>週1回<br>サバ缶夕食</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>サバ缶＋味噌汁＋ごはん小</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>LEVEL 2</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>週2〜3回<br>魚を入れる</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>サバ缶・刺身・焼き魚定食を混ぜる</div></div><div class='panel' style='position:absolute;right:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>LEVEL 3</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>曜日で<br>固定する</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>火曜はサバ缶、金曜は焼き魚定食</div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩",
+      "title": "今日の1歩は、今夜の夕食を1回だけ置き換えること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:170px;width:840px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.3;margin-top:20px;'>サバ缶1つ<br>＋味噌汁<br>＋ごはん小</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>まず1回やる。その1回で導入障壁を壊す。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "導入",
+      "title": "腹が出る人ほど、\n魚を食べた方がいい理由。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "title": "肉中心",
+          "text": "揚げ物や丼が増えやすい"
+        },
+        {
+          "icon": "warning",
+          "color": "#38bdf8",
+          "title": "たんぱく質不足",
+          "text": "食べているのに足りない日がある"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "title": "置き換え先",
+          "text": "魚はかなり実務的"
+        }
+      ],
+      "footer": "魚は若返りの魔法ではない。でも土台を強くしやすい。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "結論",
+      "title": "魚の価値は、\nEPA・DHAだけじゃない。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "title": "高たんぱく",
+          "text": "筋肉維持の材料を入れやすい"
+        },
+        {
+          "icon": "graph",
+          "color": "#38bdf8",
+          "title": "脂質の質",
+          "text": "青魚ならEPA・DHAも入りやすい"
+        },
+        {
+          "icon": "plate",
+          "color": "#4ade80",
+          "title": "置き換え",
+          "text": "揚げ物や加工肉の頻度を下げやすい"
+        }
+      ],
+      "footer": "魚の本質は、単品の神格化ではなく食事全体の改善。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "本質",
+      "title": "魚を増やすと、\n何かが減る。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "減らしたいもの",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "加工肉",
+        "揚げ物",
+        "脂質過多なおかず"
+      ],
+      "rightTitle": "置き換え先",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "サバ缶",
+        "刺身",
+        "焼き魚定食"
+      ],
+      "footer": "魚そのものより、置き換え設計が効く。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "実務",
+      "title": "E判定メタボ男性で多いのは、\nこの3つの崩れ。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "昼が丼や麺に偏る",
+          "note": "主食中心で終わりやすい。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "夜が遅く脂質過多",
+          "note": "揚げ物や濃いおかずに寄りやすい。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "たんぱく質が足りない日がある",
+          "note": "総カロリーは多くても材料が不足する。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "魚はこの3つに刺さりやすい",
+          "note": "たんぱく質と脂質の質を同時に整えやすい。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "理論より、どの崩れを止めるかで考える。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "サバ缶",
+      "title": "サバ缶は妥協じゃない。\nむしろ実装向きです。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "買える"
+        },
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "label": "保存できる"
+        },
+        {
+          "icon": "plate",
+          "color": "#4ade80",
+          "label": "すぐ食べられる"
+        },
+        {
+          "icon": "graph",
+          "color": "#ff6d00",
+          "label": "疲れた日でも回る"
+        }
+      ],
+      "footer": "健康習慣は、疲れている日でも実行できて初めて強い。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "誤解1",
+      "title": "魚を食べれば、\n何を食べてもOK。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "違う",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "魚は1ピースにすぎない",
+        "全体の摂取カロリー管理は別",
+        "夜中のラーメンやお菓子は普通に効く"
+      ],
+      "rightTitle": "正しい理解",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "土台を強くする",
+        "食事全体を整えやすくする",
+        "置き換えで価値が出る"
+      ],
+      "footer": "魚を神格化しない。ここが大事。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "誤解2",
+      "title": "サバ缶は塩分があるから\n全部NG。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "titleSize": 46,
+      "contentTop": 300,
+      "leftTitle": "極端すぎる",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "塩分は注意点ではある",
+        "でも一発退場ではない",
+        "使い方で調整できる"
+      ],
+      "rightTitle": "実務ではこうする",
+      "rightIcon": "check",
+      "rightColor": "#38bdf8",
+      "rightItems": [
+        "汁を全部飲まない",
+        "他の食事を薄味にする",
+        "味噌汁や漬物を重ねすぎない"
+      ],
+      "footer": "1食ではなく、1日全体で調整する。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "誤解3",
+      "title": "毎日高い魚を買わないと\n意味がない。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "titleSize": 44,
+      "contentTop": 318,
+      "cards": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "title": "サバ缶",
+          "text": "保存できる"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "title": "冷凍魚",
+          "text": "すぐ使いやすい"
+        },
+        {
+          "icon": "clock",
+          "color": "#4ade80",
+          "title": "定食・刺身",
+          "text": "外でも再現しやすい"
+        }
+      ],
+      "footer": "高級な魚ではなく、続く魚を持つ。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "実装",
+      "title": "忙しい人向け実装は、\nこの3段階で十分。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        {
+          "label": "LEVEL 1",
+          "icon": "plate",
+          "color": "#ff6d00",
+          "text": "週1回サバ缶夕食"
+        },
+        {
+          "label": "LEVEL 2",
+          "icon": "check",
+          "color": "#38bdf8",
+          "text": "週2〜3回魚を入れる"
+        },
+        {
+          "label": "LEVEL 3",
+          "icon": "clock",
+          "color": "#4ade80",
+          "text": "曜日で固定する"
+        }
+      ],
+      "footer": "迷わない運用ができると、続きやすさが一気に上がる。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "今夜の夕食を、\n1回だけ魚に置き換える。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "label": "サバ缶1つ"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "味噌汁"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "label": "ごはん小"
+        }
+      ],
+      "footer": "まず1回。その1回で導入障壁を壊す。"
+    }
+  ]
+}
+
+

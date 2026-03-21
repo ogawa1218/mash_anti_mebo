@@ -1,0 +1,225 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "もう手遅れ",
+      "line2": "なんて",
+      "line3": "言わせない",
+      "eyebrow": "LONGEVITY ROADMAP",
+      "badge": "第35回｜再設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "E判定は終わりじゃない。立て直しの開始だ"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "未来は追う",
+      "line2": "でも今日を",
+      "line3": "整える",
+      "eyebrow": "LONGEVITY ROADMAP",
+      "badge": "第35回｜再設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "運動・栄養・回復の3本柱が本丸"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "E判定から",
+      "line2": "圧倒的な未来へ",
+      "line3": "進め",
+      "eyebrow": "LONGEVITY ROADMAP",
+      "badge": "第35回｜再設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "最強なのは戻れる設計"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_不老長寿の3本柱",
+      "title": "不老長寿の本丸は「運動・栄養・回復」",
+      "bodyHtml": "<div style='position:absolute;left:100px;top:195px;display:flex;gap:22px;'><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>運動</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>30分速歩\n筋トレ\n食後10分歩行</div></div><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>栄養</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>腹八分目\n夜遅い食事を減らす\n野菜・豆・魚</div></div><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>回復</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>起床時刻固定\n刺激を減らす\n入浴</div></div></div>"
+    },
+    {
+      "name": "figure_02_火水金土日30分速歩",
+      "title": "E判定層向けの運動設計は「火水金土日30分速歩」",
+      "bodyHtml": "<div style='position:absolute;left:90px;top:200px;display:flex;gap:18px;'><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#66666655;'><div class='muted' style='font-size:20px;font-weight:900;'>月</div><div style='font-size:34px;font-weight:900;margin-top:48px;'>OFF</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#38bdf855;'><div class='blue' style='font-size:20px;font-weight:900;'>火</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分\n速歩</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#38bdf855;'><div class='blue' style='font-size:20px;font-weight:900;'>水</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分\n速歩</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#66666655;'><div class='muted' style='font-size:20px;font-weight:900;'>木</div><div style='font-size:34px;font-weight:900;margin-top:48px;'>OFF</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#ff6d0055;'><div class='orange' style='font-size:20px;font-weight:900;'>金</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分\n速歩</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#4ade8055;'><div class='green' style='font-size:20px;font-weight:900;'>土</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分\n速歩</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#4ade8055;'><div class='green' style='font-size:20px;font-weight:900;'>日</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分\n速歩</div></div></div>"
+    },
+    {
+      "name": "figure_03_回復が土台になる",
+      "title": "回復が崩れると、運動も食事も連鎖で崩れる",
+      "bodyHtml": "<div style='position:absolute;left:120px;top:200px;display:flex;gap:24px;align-items:center;'><div class='panel' style='width:260px;height:180px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>睡眠不足</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>だるい\n判断が鈍る</div></div><div style='font-size:52px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:260px;height:180px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>食欲暴走</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>間食\n夜食\nドカ食い</div></div><div style='font-size:52px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:320px;height:180px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>全部崩れる</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>運動も食事も\n戻りにくい</div></div></div>"
+    },
+    {
+      "name": "figure_04_30日ロードマップ",
+      "title": "30日ロードマップは「土台→定着→質→固定化」の順で進める",
+      "bodyHtml": "<div style='position:absolute;left:100px;top:195px;display:flex;gap:20px;'><div class='panel' style='width:230px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>Week1</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>土台\n食後10分歩行\n起床時刻記録</div></div><div class='panel' style='width:230px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>Week2</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>運動定着\n30分速歩\n月木OFF</div></div><div class='panel' style='width:230px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>Week3</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>質を上げる\n姿勢\n階段\nスクワット</div></div><div class='panel' style='width:230px;height:250px;padding:24px;border-color:#a855f755;'><div style='color:#c084fc;font-size:22px;font-weight:900;'>Week4</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>固定化\n先入れ\n記録\n翌日戻す</div></div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩_食後10分歩く",
+      "title": "今日の1歩は「今夜、食後10分歩く」",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:210px;top:175px;width:860px;height:270px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.28;margin-top:18px;'>今夜、\n食後10分歩く</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>速くなくていい。とにかく歩く。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "もう手遅れなんて、\n言わなくていい。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "warning", "color": "#ff6d00", "label": "E判定" },
+        { "icon": "check", "color": "#38bdf8", "label": "再設計" },
+        { "icon": "graph", "color": "#4ade80", "label": "圧倒的な未来" }
+      ],
+      "footer": "終わりではなくスタート。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "本丸",
+      "title": "長寿の本丸は、\n派手な裏ワザじゃない。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "energy", "color": "#ff6d00", "title": "運動", "text": "短く、細く、切らさない" },
+        { "icon": "check", "color": "#38bdf8", "title": "栄養", "text": "盛るより整える" },
+        { "icon": "graph", "color": "#4ade80", "title": "回復", "text": "睡眠とリズムを守る" }
+      ],
+      "footer": "結局ここへ戻ってくる。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "順番",
+      "title": "未来は追う。\nでも、今日を整える。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "研究", "icon": "energy", "color": "#ff6d00", "text": "学ぶ" },
+        { "label": "実装", "icon": "check", "color": "#38bdf8", "text": "今日やる" },
+        { "label": "変化", "icon": "graph", "color": "#4ade80", "text": "体が変わる" }
+      ],
+      "footer": "順番を間違えない。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "運動",
+      "title": "E判定層向けの現実解は、\n火水金土日30分速歩。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "重い設計",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "長時間1回",
+        "気合いでやる",
+        "1回抜けると止まる"
+      ],
+      "rightTitle": "強い設計",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "30分×高頻度",
+        "月木OFF",
+        "翌日戻りやすい"
+      ],
+      "footer": "運動はイベントじゃない。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "栄養",
+      "title": "E判定層が最初にやるべきは、\n何を飲むかじゃない。",
+      "layout": "checklist",
+      "accent": "#ff6d00",
+      "items": [
+        { "label": "腹八分目", "note": "まず1日1食から", "color": "#ff6d00" },
+        { "label": "夜遅い食事を減らす", "note": "時間を整える", "color": "#38bdf8" },
+        { "label": "野菜・豆・魚・発酵食品", "note": "土台を作る", "color": "#4ade80" }
+      ],
+      "footer": "足し算の前に土台。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "回復",
+      "title": "睡眠不足は、\n食欲と判断力を一緒に壊しやすい。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        { "icon": "warning", "color": "#ff6d00", "label": "睡眠不足" },
+        { "icon": "graph", "color": "#38bdf8", "label": "食欲暴走" },
+        { "icon": "check", "color": "#4ade80", "label": "全部崩れる" }
+      ],
+      "footer": "回復は翌日の行動を守る技術。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "30日",
+      "title": "30日で立て直すなら、\nこの4段階で進める。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "Week1", "text": "土台" },
+        { "icon": "check", "color": "#38bdf8", "title": "Week2", "text": "運動定着" },
+        { "icon": "check", "color": "#4ade80", "title": "Week3-4", "text": "質→固定化" }
+      ],
+      "footer": "最初から全部やらない。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "誤解",
+      "title": "E判定はもう遅い。\nこれは違う。",
+      "layout": "timeline",
+      "accent": "#4ade80",
+      "nodes": [
+        { "label": "E判定", "icon": "warning", "color": "#ff6d00", "text": "気づいた" },
+        { "label": "再設計", "icon": "check", "color": "#38bdf8", "text": "戻し始める" },
+        { "label": "変化", "icon": "graph", "color": "#4ade80", "text": "未来が変わる" }
+      ],
+      "footer": "立て直しのスタート地点。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "本質",
+      "title": "強いのは、\n完璧な人じゃない。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "完璧主義",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "全部やろうとする",
+        "崩れると止まる",
+        "自己否定しやすい"
+      ],
+      "rightTitle": "戻れる人",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "小さく始める",
+        "翌日に戻す",
+        "長く勝ちやすい"
+      ],
+      "footer": "必要なのは戻れる設計。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "今夜、\n食後10分歩く。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "速くなくていい", "text": "まず歩く" },
+        { "icon": "check", "color": "#38bdf8", "title": "血糖と気分の入口", "text": "体が動き始める" },
+        { "icon": "check", "color": "#4ade80", "title": "未来を変える接点", "text": "ここから始まる" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}
+

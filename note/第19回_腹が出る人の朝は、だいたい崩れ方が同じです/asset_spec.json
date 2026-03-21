@@ -1,0 +1,343 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "腹が出る人の朝は",
+      "line2": "だいたい",
+      "line3": "崩れ方が同じ",
+      "eyebrow": "BREAKFAST DESIGN",
+      "badge": "第19回｜朝食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "もち麦・納豆・卵の実装回"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "朝を変えると",
+      "line2": "夜のドカ食いは",
+      "line3": "減らせるか",
+      "eyebrow": "BREAKFAST DESIGN",
+      "badge": "第19回｜朝食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "夜を崩さないために朝を設計する"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "最強食材より",
+      "line2": "最強なのは",
+      "line3": "組み合わせ",
+      "eyebrow": "BREAKFAST DESIGN",
+      "badge": "第19回｜朝食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "食物繊維×発酵×たんぱく質"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_3品の役割分担",
+      "title": "もち麦・納豆・卵は、役割分担で見ると強い",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:170px;width:300px;height:280px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>もち麦</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>食物繊維<br>β-グルカン</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>朝から血糖を暴れさせにくい</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:280px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>納豆</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>発酵食品<br>大豆たんぱく</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>発酵を毎日入れやすい</div></div><div class='panel' style='position:absolute;right:90px;top:170px;width:300px;height:280px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>卵</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>たんぱく質<br>実行しやすい</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>忙しい朝でも成立しやすい</div></div>"
+    },
+    {
+      "name": "figure_02_朝から夜までの連鎖",
+      "title": "朝を整える価値は、夜の崩れ防止で出る",
+      "bodyHtml": "<div style='position:absolute;left:72px;top:180px;display:flex;gap:18px;align-items:center;'><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>朝</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>食物繊維<br>発酵<br>たんぱく質</div></div><div style='font-size:44px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>午前</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>空腹と集中が<br>安定しやすい</div></div><div style='font-size:44px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>昼</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>ドカ食いが<br>減りやすい</div></div><div style='font-size:44px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>間食と<br>ドカ食いが減る</div></div></div>"
+    },
+    {
+      "name": "figure_03_量の目安",
+      "title": "最初の量はこれで十分",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:110px;top:185px;width:300px;height:240px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>もち麦ごはん</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>軽め1杯</div><div class='muted' style='font-size:22px;margin-top:18px;'>150g前後</div></div><div class='panel' style='position:absolute;left:490px;top:185px;width:300px;height:240px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>納豆</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>1パック</div><div class='muted' style='font-size:22px;margin-top:18px;'>40〜50g前後</div></div><div class='panel' style='position:absolute;right:110px;top:185px;width:300px;height:240px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>卵</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>1個</div><div class='muted' style='font-size:22px;margin-top:18px;'>ゆで卵でも卵かけでもOK</div></div>"
+    },
+    {
+      "name": "figure_04_実装3ステップ",
+      "title": "忙しい人向け実装はこの3ステップ",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>STEP 1</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>前夜に<br>準備する</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>冷凍ごはん、納豆、卵をすぐ手に取れる位置へ</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>STEP 2</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>平日5日は<br>固定する</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>変えるのは味と形だけ</div></div><div class='panel' style='position:absolute;right:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>STEP 3</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>朝を逃したら<br>昼で回収</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>もち麦おにぎり、ゆで卵、豆製品で再現</div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩",
+      "title": "今日の1歩は、明日の朝を迷わないこと",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:170px;width:840px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.3;margin-top:20px;'>もち麦ごはん軽め1杯<br>＋納豆1パック<br>＋卵1個</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>まず1日、できたら3日。そこから平日5日へ。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "導入",
+      "title": "腹が出る人の朝は、\nだいたい崩れ方が同じ。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        {
+          "label": "朝",
+          "icon": "warning",
+          "color": "#ff6d00",
+          "text": "朝食を抜く or 菓子パンだけ"
+        },
+        {
+          "label": "昼前",
+          "icon": "clock",
+          "color": "#38bdf8",
+          "text": "空腹が暴れる"
+        },
+        {
+          "label": "昼",
+          "icon": "plate",
+          "color": "#4ade80",
+          "text": "食べすぎる"
+        },
+        {
+          "label": "夜",
+          "icon": "moon",
+          "color": "#ff6d00",
+          "text": "また崩れる"
+        }
+      ],
+      "footer": "今回のテーマは、夜を崩さないために朝を設計すること。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "結論",
+      "title": "最強食材ではなく、\n最強の組み合わせに近い。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "title": "もち麦",
+          "text": "食物繊維を朝に入れやすい"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "title": "納豆",
+          "text": "発酵を毎日入れやすい"
+        },
+        {
+          "icon": "egg",
+          "color": "#4ade80",
+          "title": "卵",
+          "text": "たんぱく質を実装しやすい"
+        }
+      ],
+      "footer": "食物繊維×発酵×たんぱく質。1食で土台を押さえやすい。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "もち麦",
+      "title": "もち麦の強みは、\n朝から血糖を暴れさせにくいこと。",
+      "layout": "stat",
+      "accent": "#ff6d00",
+      "icon": "graph",
+      "value": "β",
+      "unit": "グルカン",
+      "caption": "水溶性食物繊維",
+      "bullets": [
+        "食後血糖の立ち上がりをゆるやかにしやすい",
+        "腸内細菌のエサにもなりやすい",
+        "午前中の安定につながりやすい"
+      ],
+      "note": "最初は白米に1〜3割混ぜるだけでもいい。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "納豆",
+      "title": "納豆の強さは、\n発酵を日常化しやすいこと。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "title": "1パックで完結",
+          "text": "量の迷いが少ない"
+        },
+        {
+          "icon": "plate",
+          "color": "#38bdf8",
+          "title": "買いやすい",
+          "text": "毎日の導入ハードルが低い"
+        },
+        {
+          "icon": "clock",
+          "color": "#4ade80",
+          "title": "続けやすい",
+          "text": "健康習慣は継続できて初めて効く"
+        }
+      ],
+      "footer": "納豆を神格化しない。でも、日常化ツールとしてはかなり強い。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "卵",
+      "title": "卵の強みは、\n朝のたんぱく質を実装しやすいこと。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "egg",
+          "color": "#ff6d00",
+          "label": "ゆで卵"
+        },
+        {
+          "icon": "egg",
+          "color": "#38bdf8",
+          "label": "卵かけ"
+        },
+        {
+          "icon": "egg",
+          "color": "#4ade80",
+          "label": "目玉焼き"
+        }
+      ],
+      "footer": "忙しい朝は、正しい食事より実行できる食事が勝つ。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "本質",
+      "title": "朝を整える価値は、\n夜の崩れ防止で出る。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "label": "朝に3品を入れる"
+        },
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "label": "午前が安定する"
+        },
+        {
+          "icon": "check",
+          "color": "#4ade80",
+          "label": "昼のドカ食いが減る"
+        },
+        {
+          "icon": "moon",
+          "color": "#ff6d00",
+          "label": "夜まで崩れにくい"
+        }
+      ],
+      "footer": "朝食で痩せる、ではない。夜を崩さないために朝を設計する。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "量",
+      "title": "最初の量は、\nこれで十分。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "title": "もち麦ごはん",
+          "text": "軽め1杯、150g前後"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "title": "納豆",
+          "text": "1パック、40〜50g前後"
+        },
+        {
+          "icon": "egg",
+          "color": "#4ade80",
+          "title": "卵",
+          "text": "1個。形は自由"
+        }
+      ],
+      "footer": "最初から理想形を狙わない。まずはテンプレ化。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "誤解",
+      "title": "朝に腸活したから、\n夜は好きに食べていい。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "違う",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "朝食は免罪符ではない",
+        "夜に暴れれば普通に戻る",
+        "保険ではなく崩れ防止"
+      ],
+      "rightTitle": "正しい理解",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "1日を崩しにくくするスタート",
+        "午前と昼を安定させる",
+        "夜の暴走を減らしやすい"
+      ],
+      "footer": "朝食は保険ではない。スタート設計。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "実装",
+      "title": "忙しい人向け実装は、\nこの3ステップ。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "前夜に準備する",
+          "note": "冷凍ごはん、納豆、卵を手前へ。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "平日5日は固定する",
+          "note": "変えるのは味と形だけ。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "崩れたら昼で回収する",
+          "note": "もち麦おにぎり、ゆで卵、豆製品で再現。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "完璧主義で終わらない",
+          "note": "回収ルールがある方が続く。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "回収ルールがあると、1回崩れても終わらない。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "明日の朝を、\n迷わないことから始める。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "label": "もち麦ごはん軽め1杯"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "納豆1パック"
+        },
+        {
+          "icon": "egg",
+          "color": "#4ade80",
+          "label": "卵1個"
+        }
+      ],
+      "footer": "まず1日。できたら3日。そこから平日5日へ。"
+    }
+  ]
+}
+
+

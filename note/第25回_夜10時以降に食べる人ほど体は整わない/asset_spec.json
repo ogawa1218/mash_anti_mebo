@@ -1,0 +1,341 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "夜10時以降に",
+      "line2": "食べる人ほど",
+      "line3": "整いにくい",
+      "eyebrow": "MEAL TIMING",
+      "badge": "第25回｜夜食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "寝る3時間前キッチン終了"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "何を食べるかより",
+      "line2": "先に整えるのは",
+      "line3": "食べ終える時間",
+      "eyebrow": "MEAL TIMING",
+      "badge": "第25回｜夜食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "E判定メタボ男性の実践戦略"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "夜を閉じるだけで",
+      "line2": "翌朝の体は",
+      "line3": "変わりやすい",
+      "eyebrow": "MEAL TIMING",
+      "badge": "第25回｜夜食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "まず7日だけ試す"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_夜遅い食事の負担",
+      "title": "夜遅い食事は、その瞬間だけでなく翌朝まで引っ張りやすい",
+      "bodyHtml": "<div style='position:absolute;left:72px;top:180px;display:flex;gap:18px;align-items:center;'><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>遅い食事が入る</div></div><div style='font-size:44px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>深夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>血糖と血圧が下がりにくい</div></div><div style='font-size:44px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>睡眠</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>質が崩れやすい</div></div><div style='font-size:44px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>翌朝</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>だるい</div></div></div>"
+    },
+    {
+      "name": "figure_02_キッチン終了ルール",
+      "title": "最初の一手は、何を食べるかよりキッチン終了時刻",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:120px;top:185px;width:300px;height:240px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>例</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>23時就寝</div><div class='muted' style='font-size:22px;margin-top:18px;'>を目標にする</div></div><div class='panel' style='position:absolute;left:490px;top:185px;width:300px;height:240px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>逆算</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>20時終了</div><div class='muted' style='font-size:22px;margin-top:18px;'>ここでキッチン終了</div></div><div class='panel' style='position:absolute;right:120px;top:185px;width:300px;height:240px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>狙い</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>夜を閉じる</div><div class='muted' style='font-size:22px;margin-top:18px;'>睡眠と翌朝を軽くする</div></div>"
+    },
+    {
+      "name": "figure_03_遅くなる日の対処",
+      "title": "遅くなる日は、抜くより軽く終える方が現実的",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:86px;top:180px;width:250px;height:220px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>18時前後</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>前倒し補食</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>ゆで卵、おにぎり、豆乳</div></div><div style='position:absolute;left:372px;top:258px;font-size:54px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='position:absolute;left:470px;top:180px;width:250px;height:220px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>帰宅後</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>ドカ食い回避</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>空腹MAXで入らない</div></div><div style='position:absolute;left:756px;top:258px;font-size:54px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='position:absolute;right:86px;top:180px;width:250px;height:220px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>遅い日は</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>軽く終える</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>味噌汁、豆腐、スープ</div></div>"
+    },
+    {
+      "name": "figure_04_実践3ステップ",
+      "title": "忙しい人向け実践は、この3ステップで十分",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>STEP 1</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>終了時刻を<br>先に決める</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>逆算でキッチン終了</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>STEP 2</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>遅い日は<br>前倒し補食</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>18時前後に少し入れる</div></div><div class='panel' style='position:absolute;right:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>STEP 3</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>遅い日は<br>軽く終える</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>ゼロか100かで考えない</div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩",
+      "title": "今日の1歩は、7日間だけ食べ終える時刻を固定すること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:170px;width:840px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.3;margin-top:20px;'>就寝3時間前までに<br>食事を終える</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>何を食べるかの前に、何時までに終えるかを整える。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "夜10時以降に食べる人ほど、\n体は整いにくい。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "title": "夜遅い食事",
+          "text": "翌朝まで引っ張りやすい"
+        },
+        {
+          "icon": "moon",
+          "color": "#38bdf8",
+          "title": "睡眠",
+          "text": "質を崩しやすい"
+        },
+        {
+          "icon": "warning",
+          "color": "#4ade80",
+          "title": "翌日",
+          "text": "食欲も乱れやすい"
+        }
+      ],
+      "footer": "何を食べるかより先に、何時までに食べ終えるか。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "最重要",
+      "title": "まず試すのは、\n寝る3時間前キッチン終了。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "label": "夜を閉じる"
+        },
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "label": "深夜の負担を減らす"
+        },
+        {
+          "icon": "moon",
+          "color": "#4ade80",
+          "label": "翌朝を軽くする"
+        }
+      ],
+      "footer": "完璧な献立より先に、終了時刻を作る。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "仕組み",
+      "title": "夜遅い食事は、\nその瞬間だけの問題じゃない。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        {
+          "label": "夜",
+          "icon": "plate",
+          "color": "#ff6d00",
+          "text": "遅い食事"
+        },
+        {
+          "label": "深夜",
+          "icon": "clock",
+          "color": "#38bdf8",
+          "text": "血糖・血圧が下がりにくい"
+        },
+        {
+          "label": "睡眠",
+          "icon": "moon",
+          "color": "#4ade80",
+          "text": "質が崩れやすい"
+        },
+        {
+          "label": "翌朝",
+          "icon": "warning",
+          "color": "#ff6d00",
+          "text": "だるい"
+        }
+      ],
+      "footer": "だから、食事終了時刻はかなり重要。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "E判定男性",
+      "title": "この層で多いのは、\n夜だけで終わらない崩れ。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "仕事が長引く",
+          "note": "夕食が遅くなる。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "帰宅後に一気に食べる",
+          "note": "食後すぐ休む流れに入る。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "翌朝が重い",
+          "note": "朝食と食欲も崩れる。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "昼も崩れる",
+          "note": "翌日まで引っ張る。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "夜遅い食事は、その夜だけの問題ではない。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "誤解1",
+      "title": "寝る3時間前までに終えれば、\n何を食べてもいい。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "違う",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "総量も質も大事",
+        "時間だけで無敵にはならない",
+        "免罪符ではない"
+      ],
+      "rightTitle": "でも価値はある",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "全部を完璧にできない日でも前進できる",
+        "土台を整えるレバーになる",
+        "始めやすい"
+      ],
+      "footer": "時間ルールは免罪符ではなく、土台を動かすレバー。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "誤解2",
+      "title": "断食時間は、\n長ければ長いほどいい。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "極端",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "無茶な長時間断食を目指す",
+        "生活が回らない",
+        "反動が出やすい"
+      ],
+      "rightTitle": "現実解",
+      "rightIcon": "check",
+      "rightColor": "#38bdf8",
+      "rightItems": [
+        "まず寝る3時間前まで",
+        "ここからで十分",
+        "生活に入れやすい"
+      ],
+      "footer": "いきなり極端に行かない。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "誤解3",
+      "title": "遅くなった日は、\nもう抜いた方がいい。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "抜くと起こりやすい",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "空腹が強すぎる",
+        "翌日にドカ食い",
+        "その後の崩れ"
+      ],
+      "rightTitle": "現実的な選択",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "軽く終える",
+        "重すぎない形にする",
+        "ゼロか100かで考えない"
+      ],
+      "footer": "遅くなった日は、軽く終える。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "実践1",
+      "title": "最初の一手は、\nキッチン終了時刻を決めること。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "title": "23時に寝たい",
+          "text": "なら20時終了"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "title": "逆算する",
+          "text": "先に終える時刻を決める"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "title": "狙い",
+          "text": "だらだら食いを防ぐ"
+        }
+      ],
+      "footer": "終了時刻を曖昧にすると、だらだら食いになりやすい。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "実践2",
+      "title": "遅くなりそうな日は、\n前倒し補食を入れる。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "18時前後"
+        },
+        {
+          "icon": "plate",
+          "color": "#38bdf8",
+          "label": "ゆで卵・おにぎり・豆乳"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "label": "帰宅後のドカ食い回避"
+        }
+      ],
+      "footer": "空腹MAXで夜に入らない。これがかなり効く。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "今夜から7日間、\n就寝3時間前までに食事終了。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "label": "終了時刻を決める"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "7日だけやる"
+        },
+        {
+          "icon": "moon",
+          "color": "#4ade80",
+          "label": "翌朝の軽さを見る"
+        }
+      ],
+      "footer": "何を食べるかの前に、何時までに終えるか。"
+    }
+  ]
+}
+
+

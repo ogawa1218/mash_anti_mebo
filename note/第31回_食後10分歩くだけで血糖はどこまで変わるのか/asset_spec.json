@@ -1,0 +1,226 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "食後10分で",
+      "line2": "血糖は",
+      "line3": "変わり始める",
+      "eyebrow": "POST-MEAL WALK",
+      "badge": "第31回｜血糖対策",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "派手な運動より、まず食後10分"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "食後10分",
+      "line2": "歩くだけで",
+      "line3": "十分強い",
+      "eyebrow": "POST-MEAL WALK",
+      "badge": "第31回｜血糖対策",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "100kg→68kgで効いた最小の習慣"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "痩せたいなら",
+      "line2": "まずは",
+      "line3": "食後10分",
+      "eyebrow": "POST-MEAL WALK",
+      "badge": "第31回｜血糖対策",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "健診値と体脂肪は小さい積み上げで動く"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_食後に座る人と歩く人の午後の流れ",
+      "title": "食後に座るか、10分歩くかで午後の流れは変わる",
+      "bodyHtml": "<div style='position:absolute;left:90px;top:180px;display:flex;gap:28px;'><div class='panel' style='width:480px;height:280px;padding:28px;border-color:#ff6d0055;'><div class='orange' style='font-size:26px;font-weight:900;'>座る</div><div style='font-size:34px;font-weight:900;line-height:1.5;margin-top:18px;'>眠い<br>だるい<br>甘いものが欲しい<br>また崩れる</div></div><div class='panel' style='width:480px;height:280px;padding:28px;border-color:#4ade8055;box-shadow:0 0 34px #4ade8022;'><div class='green' style='font-size:26px;font-weight:900;'>10分歩く</div><div style='font-size:34px;font-weight:900;line-height:1.5;margin-top:18px;'>血糖の波を抑えやすい<br>眠気が軽い<br>次の食事が整いやすい</div></div></div>"
+    },
+    {
+      "name": "figure_02_食後10分歩くと変わること",
+      "title": "食後10分歩くと、血糖・眠気・間食の流れが変わる",
+      "bodyHtml": "<div style='position:absolute;left:105px;top:195px;display:flex;align-items:center;gap:22px;'><div class='panel' style='width:250px;height:170px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>食後に歩く</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:18px;'>筋肉が糖を\n使いやすい</div></div><div style='font-size:52px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='width:250px;height:170px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>血糖の波</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:18px;'>急上昇を\n抑えやすい</div></div><div style='font-size:52px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:250px;height:170px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>午後の体感</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:18px;'>眠気・だるさ・\n間食を減らしやすい</div></div></div>"
+    },
+    {
+      "name": "figure_03_メタボ層に刺さる3つの理由",
+      "title": "メタボ層に食後10分歩行が刺さる理由はこの3つ",
+      "bodyHtml": "<div style='position:absolute;left:92px;top:185px;display:flex;gap:22px;'><div class='panel' style='width:340px;height:240px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>1 時間コストが小さい</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>10分なら\n忙しくても\n差し込みやすい</div></div><div class='panel' style='width:340px;height:240px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>2 難易度が低い</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>ジム不要\n器具不要\n着替え不要</div></div><div class='panel' style='width:340px;height:240px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>3 体感が早い</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>眠気・だるさが\n軽く感じやすい</div></div></div>"
+    },
+    {
+      "name": "figure_04_失敗しない実装3ステップ",
+      "title": "失敗しない食後10分歩行は、この3ステップで作る",
+      "bodyHtml": "<div style='position:absolute;left:96px;top:178px;display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px;width:1090px;'><div class='panel' style='height:270px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>STEP 1</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:18px;'>夕食後だけ\n固定する</div><div class='muted' style='font-size:20px;line-height:1.6;margin-top:18px;'>最初から毎食後は狙わない</div></div><div class='panel' style='height:270px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>STEP 2</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:18px;'>食べたら\nすぐ立つ</div><div class='muted' style='font-size:20px;line-height:1.6;margin-top:18px;'>スマホより先に歩く</div></div><div class='panel' style='height:270px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>STEP 3</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:18px;'>雨の日も\nゼロにしない</div><div class='muted' style='font-size:20px;line-height:1.6;margin-top:18px;'>廊下往復や階段でもOK</div></div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩_夕食後10分歩く",
+      "title": "今日の1歩は、夕食後10分だけ歩くこと",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:180px;width:840px;height:260px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:56px;font-weight:900;line-height:1.25;margin-top:18px;'>今日の夕食後、\n10分だけ歩く</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>速くなくていい。完璧じゃなくていい。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "食後10分歩くだけで、\n血糖の景色は変わり始める。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "plate", "color": "#ff6d00", "label": "食べる" },
+        { "icon": "energy", "color": "#38bdf8", "label": "10分歩く" },
+        { "icon": "graph", "color": "#4ade80", "label": "血糖の波を抑えやすい" }
+      ],
+      "footer": "派手な運動より、まず食後10分。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "100kg時代",
+      "title": "食後に座る。\nそこから全部崩れていた。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        { "label": "食後", "icon": "plate", "color": "#ff6d00", "text": "座る" },
+        { "label": "30分後", "icon": "warning", "color": "#38bdf8", "text": "眠い" },
+        { "label": "その後", "icon": "energy", "color": "#4ade80", "text": "甘いものが欲しい" }
+      ],
+      "footer": "次の崩れは、食後の座りっぱなしから始まる。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "仕組み",
+      "title": "食後10分歩くと、\n筋肉が糖を使いやすい。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "energy", "color": "#ff6d00", "label": "筋肉が動く" },
+        { "icon": "graph", "color": "#38bdf8", "label": "血糖ピークを抑えやすい" },
+        { "icon": "check", "color": "#4ade80", "label": "眠気とだるさが軽い" }
+      ],
+      "footer": "軽い歩行でも成立する。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "逆説",
+      "title": "痩せたい人ほど、\n大きい運動より小さい習慣。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "重い習慣",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "30分以上やらないと意味ない",
+        "ジムに行かないとダメ",
+        "できない日で止まる"
+      ],
+      "rightTitle": "強い習慣",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "食後10分だけ",
+        "夕食後固定",
+        "できない日は次で再開"
+      ],
+      "footer": "完璧主義より復帰速度。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "理由",
+      "title": "メタボ層に刺さる理由は、\nこの3つ。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#38bdf8", "title": "10分でいい", "text": "時間コストが小さい" },
+        { "icon": "check", "color": "#ff6d00", "title": "誰でもできる", "text": "器具も着替えもいらない" },
+        { "icon": "check", "color": "#4ade80", "title": "効いてる感", "text": "眠気とだるさが軽い" }
+      ],
+      "footer": "正しいだけじゃなく、続く。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "実装",
+      "title": "最初は、\n夕食後だけ固定でいい。",
+      "layout": "checklist",
+      "accent": "#ff6d00",
+      "items": [
+        { "label": "毎食後を狙わない", "note": "最初は重い", "color": "#ff6d00" },
+        { "label": "夕食後に固定", "note": "一番崩れやすい時間帯だから", "color": "#38bdf8" },
+        { "label": "食べたらすぐ立つ", "note": "スマホより先に歩く", "color": "#4ade80" }
+      ],
+      "footer": "習慣は、場面とセットにする。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "雨の日",
+      "title": "できない日を作らない。\nゼロにしない方が強い。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        { "icon": "plate", "color": "#ff6d00", "title": "廊下往復", "text": "室内でもOK" },
+        { "icon": "energy", "color": "#38bdf8", "title": "階段ゆっくり", "text": "強度は低くていい" },
+        { "icon": "check", "color": "#4ade80", "title": "10分続ける", "text": "切らさないことが勝ち" }
+      ],
+      "footer": "天気より継続。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "誤解",
+      "title": "10分“しか”ではなく、\n10分を“毎日”。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "もったいない発想",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "10分じゃ意味ない",
+        "強度が低いと無駄",
+        "1回できないと終わり"
+      ],
+      "rightTitle": "勝てる発想",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "ゼロより10分",
+        "軽い歩行でも意味がある",
+        "次の食後で再開"
+      ],
+      "footer": "積み上げは、こういう発想差で決まる。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "今日の1歩",
+      "title": "今日の夕食後、\n10分だけ歩く。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "速くなくていい", "text": "会話できるくらいでOK" },
+        { "icon": "check", "color": "#38bdf8", "title": "夕食後だけ", "text": "最初は1場面固定" },
+        { "icon": "check", "color": "#4ade80", "title": "10分で十分", "text": "小さく始める" }
+      ],
+      "footer": "運動する人ではなく、食後に歩く人を始める。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "締め",
+      "title": "地味で続く方法の方が、\n最終的に強い。",
+      "layout": "timeline",
+      "accent": "#4ade80",
+      "nodes": [
+        { "label": "食後10分", "icon": "energy", "color": "#ff6d00", "text": "小さく始める" },
+        { "label": "次の食事", "icon": "check", "color": "#38bdf8", "text": "崩れにくい" },
+        { "label": "未来の体", "icon": "graph", "color": "#4ade80", "text": "健診値が動き始める" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}
+
+

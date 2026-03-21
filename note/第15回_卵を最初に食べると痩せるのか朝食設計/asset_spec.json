@@ -1,0 +1,279 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "朝の崩れ",
+      "title": "太る流れは\n朝から始まる。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        {
+          "label": "朝",
+          "icon": "plate",
+          "color": "#ff6d00",
+          "text": "菓子パンで軽く済ませる"
+        },
+        {
+          "label": "10時",
+          "icon": "clock",
+          "color": "#38bdf8",
+          "text": "甘い物が欲しくなる"
+        },
+        {
+          "label": "昼",
+          "icon": "energy",
+          "color": "#4ade80",
+          "text": "大盛りで戻そうとする"
+        },
+        {
+          "label": "夕方",
+          "icon": "warning",
+          "color": "#ff6d00",
+          "text": "だるさでまた崩れる"
+        }
+      ],
+      "footer": "卵の価値は、朝そのものより その後の連鎖を止めること。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "研究",
+      "title": "卵朝食の価値は\nその後の暴走を小さくすること。",
+      "layout": "stat",
+      "accent": "#38bdf8",
+      "icon": "graph",
+      "value": "160",
+      "unit": "kcal前後",
+      "caption": "昼食摂取量が少なかった報告",
+      "bullets": [
+        "比較対象はベーグルなど炭水化物中心の朝食。",
+        "ポイントは『卵が偉い』ではなく、空腹の暴走を抑えやすいこと。",
+        "ダイエットは10時、15時、19時に崩れる。朝食はそこに効かせる。"
+      ],
+      "note": "短期の満腹感やその後の摂取量低下をどう使うかが実務。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "線引き",
+      "title": "卵は痩せ薬ではない。\nでも、補助輪にはなる。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "言い過ぎ",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "卵を食べれば勝手に痩せる",
+        "卵だけで体脂肪が落ちる",
+        "3個固定が科学の正解"
+      ],
+      "rightTitle": "現実的な読み方",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "食欲を整えてカロリー赤字を作りやすくする",
+        "減量食や1日の流れと組み合わせて効かせる",
+        "2個中心の研究を土台に個別調整する"
+      ],
+      "footer": "誇張を削るほど、実行しやすい武器になる。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "強み3つ",
+      "title": "卵先食べが\n忙しい人に向く理由。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        {
+          "icon": "egg",
+          "color": "#ff6d00",
+          "title": "たんぱく質",
+          "text": "朝の満足感を作りやすい。菓子パン単独より安定しやすい。"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "title": "順番固定",
+          "text": "先に卵と決めると、甘い物スタートの判断ミスが減る。"
+        },
+        {
+          "icon": "plate",
+          "color": "#4ade80",
+          "title": "再現性",
+          "text": "ゆで卵なら作る、持つ、食べるが全部簡単。"
+        }
+      ],
+      "footer": "理論の強さより、毎朝再現できる設計の強さ。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "個数",
+      "title": "研究の中心は2個。\n3個は実務仮説。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "2個で十分な人",
+      "leftIcon": "egg",
+      "leftColor": "#38bdf8",
+      "leftItems": [
+        "昼前まで安定する",
+        "胃もたれしない",
+        "朝の時間が短い"
+      ],
+      "rightTitle": "3個を試す人",
+      "rightIcon": "energy",
+      "rightColor": "#ff6d00",
+      "rightItems": [
+        "10時に毎回崩れる",
+        "昼まで長く空く",
+        "体格が大きく朝の満足感が足りない"
+      ],
+      "footer": "正解探しではなく、自分の空腹カーブに合わせる。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "調整",
+      "title": "判断基準は\n10時の自分。",
+      "layout": "checklist",
+      "accent": "#4ade80",
+      "items": [
+        {
+          "label": "2個で昼前に崩れる",
+          "note": "3個を1週間だけ試す。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "3個で重い・苦しい",
+          "note": "2個に戻して汁物を足す。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "間食欲が下がる",
+          "note": "その設定が今の正解。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "完璧にできない日がある",
+          "note": "翌朝そのまま再開でいい。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "体重より先に、食欲が反応する。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "失敗例",
+      "title": "卵を追加して安心する。\nここで負ける。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "負けパターン",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "朝に卵を足すだけ",
+        "昼は大盛りのまま",
+        "午後も甘い物でつなぐ"
+      ],
+      "rightTitle": "勝ちパターン",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "朝は卵から入る",
+        "昼の主食が少し減る",
+        "15時の間食が1回減る"
+      ],
+      "footer": "卵そのものではなく、1日の流れが変わるかで見る。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "連鎖",
+      "title": "卵の価値は\n朝で終わらない。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        {
+          "icon": "egg",
+          "color": "#ff6d00",
+          "label": "朝に卵を先に食べる"
+        },
+        {
+          "icon": "plate",
+          "color": "#38bdf8",
+          "label": "昼の主食が少し減る"
+        },
+        {
+          "icon": "clock",
+          "color": "#4ade80",
+          "label": "15時の間食が減る"
+        },
+        {
+          "icon": "moon",
+          "color": "#ff6d00",
+          "label": "夜のスタートが整う"
+        }
+      ],
+      "footer": "1日を1段階マシにする。そこが実務価値。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "注意",
+      "title": "毎日3個固定で\n押し切らない人。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        {
+          "icon": "warning",
+          "color": "#ff6d00",
+          "title": "脂質異常症",
+          "text": "LDL高値や通院中なら、主治医の方針を優先。"
+        },
+        {
+          "icon": "warning",
+          "color": "#38bdf8",
+          "title": "糖尿病",
+          "text": "食事設計は治療と切り離して考えない。"
+        },
+        {
+          "icon": "warning",
+          "color": "#4ade80",
+          "title": "心血管リスク",
+          "text": "自己流で固定せず、個別判断で進める。"
+        }
+      ],
+      "footer": "健康習慣と治療は別。自己流で押し切らない。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "行動",
+      "title": "今夜やることは\n1つだけ。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "卵を1パック買う"
+        },
+        {
+          "icon": "plate",
+          "color": "#38bdf8",
+          "label": "6個だけ茹でる"
+        },
+        {
+          "icon": "clock",
+          "color": "#4ade80",
+          "label": "朝の最初に食べる"
+        },
+        {
+          "icon": "graph",
+          "color": "#ff6d00",
+          "label": "1週間だけ観察する"
+        }
+      ],
+      "footer": "全部変えなくていい。最初の1手だけ変える。"
+    }
+  ]
+}

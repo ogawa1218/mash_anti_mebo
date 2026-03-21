@@ -1,0 +1,225 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "断食は",
+      "line2": "万能じゃ",
+      "line3": "ない",
+      "eyebrow": "FASTING RESET",
+      "badge": "第36回｜断食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "武器にはなる。でも土台にはならない"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "食べない努力",
+      "line2": "より先に",
+      "line3": "夜を整えろ",
+      "eyebrow": "FASTING RESET",
+      "badge": "第36回｜断食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "断食の正しい距離感を持つ"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "断食は",
+      "line2": "補助輪で",
+      "line3": "十分だ",
+      "eyebrow": "FASTING RESET",
+      "badge": "第36回｜断食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "極端さより再現性が勝つ"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_断食の正しい距離感",
+      "title": "断食は「武器」にはなるが「土台」にはならない",
+      "bodyHtml": "<div style='position:absolute;left:110px;top:195px;display:flex;gap:26px;'><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>武器</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>食べすぎ防止\n時間を整える\nだらだら食い減少</div></div><div style='font-size:58px;font-weight:900;color:#38bdf8;margin-top:78px;'>≠</div><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>土台</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>睡眠\n運動\n栄養</div></div><div style='font-size:58px;font-weight:900;color:#4ade80;margin-top:78px;'>→</div><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>正解</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>補助輪として\n使う</div></div></div>"
+    },
+    {
+      "name": "figure_02_最初に整えるのは夜",
+      "title": "最初に整えるべきは「断食時間」ではなく「夜」",
+      "bodyHtml": "<div style='position:absolute;left:120px;top:200px;display:flex;gap:24px;align-items:center;'><div class='panel' style='width:260px;height:180px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>遅い夕食</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>食後すぐ寝る\n夜食も増える</div></div><div style='font-size:52px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:260px;height:180px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>睡眠悪化</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>だるい朝\n食欲が乱れる</div></div><div style='font-size:52px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:320px;height:180px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>先に切る</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>就寝3時間前までに\n食べ終える</div></div></div>"
+    },
+    {
+      "name": "figure_03_断食導入の順番",
+      "title": "断食導入は「夜 → 時間窓 → 睡眠」の順が強い",
+      "bodyHtml": "<div style='position:absolute;left:100px;top:195px;display:flex;gap:22px;'><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>Step1 夜</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>遅い夕食\n夜食\n食後すぐ寝る\nを減らす</div></div><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>Step2 時間窓</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>少し整える\nいきなり16時間\nは不要</div></div><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>Step3 睡眠</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>寝不足前提で\n押し切らない</div></div></div>"
+    },
+    {
+      "name": "figure_04_断食は補助輪",
+      "title": "断食万能論は崩れやすい。土台主役だと戻りやすい",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:180px;width:470px;height:300px;padding:28px;border-color:#ff6d0055;'><div class='orange' style='font-size:28px;font-weight:900;'>断食万能論</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>守れなかった\n↓\n失敗だと思う\n↓\n全部止まる</div></div><div class='panel' style='position:absolute;right:90px;top:180px;width:470px;height:300px;padding:28px;border-color:#4ade8055;box-shadow:0 0 34px #4ade8022;'><div class='green' style='font-size:28px;font-weight:900;'>補助輪として使う</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>今日は無理\n↓\n明日、夜だけ整える\n↓\n戻りやすい</div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩_就寝3時間前ルール",
+      "title": "今日の1歩は「就寝3時間前までに夕食を終える」",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:210px;top:175px;width:860px;height:270px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.28;margin-top:18px;'>今夜だけ、\n就寝3時間前までに夕食を終える</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>断食を頑張る前に、まず夜を整える。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "断食は、\n武器にはなる。でも土台じゃない。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "energy", "color": "#ff6d00", "label": "武器" },
+        { "icon": "warning", "color": "#38bdf8", "label": "万能ではない" },
+        { "icon": "graph", "color": "#4ade80", "label": "土台は別" }
+      ],
+      "footer": "睡眠・運動・栄養が本丸。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "差",
+      "title": "断食がハマる人とハマらない人の差は、\n意志力だけじゃない。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "食事の質", "text": "断食時間だけで判断しない" },
+        { "icon": "check", "color": "#38bdf8", "title": "睡眠", "text": "寝不足だと崩れやすい" },
+        { "icon": "check", "color": "#4ade80", "title": "戻れる設計", "text": "守れない日に差が出る" }
+      ],
+      "footer": "土台がかなり重要。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "本質",
+      "title": "断食の本質は、\n何時間食べないかじゃない。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "夜を整える", "icon": "check", "color": "#ff6d00", "text": "遅い夕食を減らす" },
+        { "label": "睡眠が整う", "icon": "graph", "color": "#38bdf8", "text": "朝が変わる" },
+        { "label": "食欲が整う", "icon": "energy", "color": "#4ade80", "text": "翌日が変わる" }
+      ],
+      "footer": "リズムを整えることが本質。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "夜",
+      "title": "最初に整えるべきは、\n断食時間じゃなく夜です。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "崩れる夜",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "遅い夕食",
+        "食後すぐ寝る",
+        "翌朝だるい"
+      ],
+      "rightTitle": "整う夜",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "就寝3時間前までに終える",
+        "夜食を減らす",
+        "朝が軽くなる"
+      ],
+      "footer": "ここから変える。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "順番",
+      "title": "断食導入の順番は、\n夜→時間窓→睡眠。",
+      "layout": "checklist",
+      "accent": "#ff6d00",
+      "items": [
+        { "label": "Step1 夜を整える", "note": "遅い夕食を減らす", "color": "#ff6d00" },
+        { "label": "Step2 時間窓を整える", "note": "いきなり16時間は不要", "color": "#38bdf8" },
+        { "label": "Step3 睡眠とセット", "note": "寝不足前提で押し切らない", "color": "#4ade80" }
+      ],
+      "footer": "順番を間違えない。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "危険",
+      "title": "断食万能論が危ないのは、\n守れなかった日のダメージが大きいから。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        { "icon": "warning", "color": "#ff6d00", "label": "守れない" },
+        { "icon": "graph", "color": "#38bdf8", "label": "失敗だと思う" },
+        { "icon": "check", "color": "#4ade80", "label": "全部止まる" }
+      ],
+      "footer": "神格化すると折れやすい。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "正解",
+      "title": "断食は主役じゃなく、\n補助輪くらいでちょうどいい。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        { "icon": "energy", "color": "#ff6d00", "title": "主役", "text": "睡眠・運動・栄養" },
+        { "icon": "check", "color": "#38bdf8", "title": "断食", "text": "補助輪として使う" },
+        { "icon": "graph", "color": "#4ade80", "title": "結果", "text": "守れなくても戻りやすい" }
+      ],
+      "footer": "この距離感が強い。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "誤解",
+      "title": "断食時間が長いほど偉い。\nこれは違う。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "長い", "icon": "energy", "color": "#ff6d00", "text": "偉いわけじゃない" },
+        { "label": "続く", "icon": "check", "color": "#38bdf8", "text": "ここが強い" },
+        { "label": "戻れる", "icon": "graph", "color": "#4ade80", "text": "これが本質" }
+      ],
+      "footer": "長さより再現性。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "本質",
+      "title": "極端さより、\n再現性が勝つ。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "極端",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "一時的にはやれる",
+        "守れない日で折れる",
+        "長く続かない"
+      ],
+      "rightTitle": "再現性",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "今日もできる",
+        "崩れても戻れる",
+        "体が前に進む"
+      ],
+      "footer": "ここで結果が分かれる。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "今夜だけ、\n就寝3時間前までに夕食を終える。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "今夜1回でいい", "text": "完璧不要" },
+        { "icon": "check", "color": "#38bdf8", "title": "夜を整える", "text": "断食の前にやる" },
+        { "icon": "check", "color": "#4ade80", "title": "朝が変わる", "text": "翌日の食欲も変わる" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}
+

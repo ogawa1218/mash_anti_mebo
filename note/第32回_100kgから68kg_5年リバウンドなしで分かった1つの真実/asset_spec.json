@@ -1,0 +1,226 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "リバウンドは",
+      "line2": "意志力では",
+      "line3": "防げない",
+      "eyebrow": "REBOUND CONTROL",
+      "badge": "第32回｜維持戦略",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "最強のダイエットは戻る仕組み"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "最強の",
+      "line2": "ダイエットは",
+      "line3": "戻る仕組み",
+      "eyebrow": "REBOUND CONTROL",
+      "badge": "第32回｜維持戦略",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "崩れない人ではなく、戻れる人が勝つ"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "痩せる方法より",
+      "line2": "戻る方法を",
+      "line3": "持て",
+      "eyebrow": "REBOUND CONTROL",
+      "badge": "第32回｜維持戦略",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "体重と起床時刻の記録がセンサーになる"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_リバウンドは戻れない構造",
+      "title": "リバウンドは「崩れること」より「戻れないこと」で起きやすい",
+      "bodyHtml": "<div style='position:absolute;left:110px;top:195px;display:flex;gap:26px;'><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>崩れる</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>飲み会<br>寝不足<br>外食</div></div><div style='font-size:58px;font-weight:900;color:#ff6d00;margin-top:78px;'>→</div><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>放置する</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>もう今週はいいや<br>また来週から</div></div><div style='font-size:58px;font-weight:900;color:#38bdf8;margin-top:78px;'>→</div><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>戻れない</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>3日<br>5日<br>1週間流れる</div></div></div>"
+    },
+    {
+      "name": "figure_02_完璧主義と復帰速度の差",
+      "title": "完璧主義は1回の失敗を広げやすい。復帰速度は逆に被害を小さくする",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:180px;width:470px;height:300px;padding:28px;border-color:#ff6d0055;'><div class='orange' style='font-size:28px;font-weight:900;'>完璧主義</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>1回崩れる<br>↓<br>全部ムダだと思う<br>↓<br>今週ごと流れる</div></div><div class='panel' style='position:absolute;right:90px;top:180px;width:470px;height:300px;padding:28px;border-color:#4ade8055;box-shadow:0 0 34px #4ade8022;'><div class='green' style='font-size:28px;font-weight:900;'>復帰が早い人</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>1回崩れる<br>↓<br>次の食事で戻す<br>↓<br>被害が広がらない</div></div>"
+    },
+    {
+      "name": "figure_03_記録は戻るためのセンサー",
+      "title": "体重と起床時刻は、「どこからズレ始めたか」を見つけるセンサー",
+      "bodyHtml": "<div style='position:absolute;left:120px;top:200px;display:flex;gap:26px;align-items:center;'><div class='panel' style='width:260px;height:180px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>体重</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:18px;'>増え始めたら<br>夜の崩れを見る</div></div><div style='font-size:52px;font-weight:900;color:#38bdf8;'>+</div><div class='panel' style='width:260px;height:180px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>起床時刻</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:18px;'>遅れ始めたら<br>睡眠の乱れを見る</div></div><div style='font-size:52px;font-weight:900;color:#4ade80;'>=</div><div class='panel' style='width:300px;height:180px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>戻るタイミング</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:18px;'>今どこを<br>直せばいいか見える</div></div></div>"
+    },
+    {
+      "name": "figure_04_戻る仕組みの3本柱",
+      "title": "戻る仕組みは、この3本柱で作る",
+      "bodyHtml": "<div style='position:absolute;left:95px;top:190px;display:flex;gap:22px;'><div class='panel' style='width:340px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>1 夜の1ルール</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>夜食はこの1択<br>意思決定を減らす</div></div><div class='panel' style='width:340px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>2 運動を先に予約</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>週2回30分でいい<br>戻る接点を消さない</div></div><div class='panel' style='width:340px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>3 記録を切らさない</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>体重と起床時刻<br>ズレを早く見る</div></div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩_体重と起床時刻",
+      "title": "今日の1歩は、体重と起床時刻を記録すること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:180px;width:840px;height:260px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:54px;font-weight:900;line-height:1.28;margin-top:18px;'>明日の朝、\n体重と起床時刻を記録する</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>戻れる人は、まず自分の位置を把握している。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "最強のダイエットは、\n痩せる方法より戻る仕組み。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "warning", "color": "#ff6d00", "label": "崩れる" },
+        { "icon": "check", "color": "#38bdf8", "label": "戻る" },
+        { "icon": "graph", "color": "#4ade80", "label": "維持できる" }
+      ],
+      "footer": "人間は必ずブレる前提で勝つ。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "過去",
+      "title": "昔の僕は、\n痩せるたびに戻っていた。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        { "label": "頑張る", "icon": "energy", "color": "#38bdf8", "text": "少し痩せる" },
+        { "label": "崩れる", "icon": "warning", "color": "#ff6d00", "text": "また戻る" },
+        { "label": "自己嫌悪", "icon": "graph", "color": "#4ade80", "text": "さらに流れる" }
+      ],
+      "footer": "意志が弱いと思っていた。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "危険",
+      "title": "完璧主義は、\nダイエットだとかなり危ない。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "完璧主義",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "1回崩れると全部ムダ",
+        "また来週からになる",
+        "放置が長くなる"
+      ],
+      "rightTitle": "復帰が早い人",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "次の食事で戻す",
+        "次の日で戻す",
+        "被害を広げない"
+      ],
+      "footer": "勝つのは、戻るのが早い人。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "安全装置",
+      "title": "僕の戻る仕組みは、\nこの3本柱です。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "夜の1ルール", "text": "夜食はこの1択にする" },
+        { "icon": "check", "color": "#38bdf8", "title": "先に予約", "text": "運動をカレンダーに入れる" },
+        { "icon": "check", "color": "#4ade80", "title": "記録", "text": "体重と起床時刻を見る" }
+      ],
+      "footer": "派手じゃない。でも強い。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "夜",
+      "title": "疲れた夜は、\n意思決定を減らした方が勝つ。",
+      "layout": "checklist",
+      "accent": "#ff6d00",
+      "items": [
+        { "label": "夜食はこの1択", "note": "無糖ヨーグルト、味噌汁など", "color": "#ff6d00" },
+        { "label": "迷わない", "note": "疲れた脳に判断をさせない", "color": "#38bdf8" },
+        { "label": "被害を広げない", "note": "ここが防波堤", "color": "#4ade80" }
+      ],
+      "footer": "意志力ではなく設計。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "運動",
+      "title": "時間がある時にやる、は\nだいたいやらない。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "流れる人",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "時間がある時にやる",
+        "結局入らない",
+        "崩れた週がそのまま流れる"
+      ],
+      "rightTitle": "戻れる人",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "先にカレンダーへ",
+        "週2回30分でいい",
+        "戻る接点が残る"
+      ],
+      "footer": "やる気より予約。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "記録",
+      "title": "体重と起床時刻は、\n自分を責める数字じゃない。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "graph", "color": "#ff6d00", "label": "見る" },
+        { "icon": "clock", "color": "#38bdf8", "label": "ズレに気づく" },
+        { "icon": "check", "color": "#4ade80", "label": "戻す" }
+      ],
+      "footer": "記録は、戻るためのセンサー。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "地味",
+      "title": "僕が毎日やっているのは、\nかなり地味です。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        { "icon": "graph", "color": "#ff6d00", "title": "体重を見る", "text": "1分で終わる" },
+        { "icon": "clock", "color": "#38bdf8", "title": "起床時刻を見る", "text": "ズレがわかる" },
+        { "icon": "check", "color": "#4ade80", "title": "記録する", "text": "ここで戻れる" }
+      ],
+      "footer": "小さいから続く。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "本質",
+      "title": "崩れない人が勝つんじゃない。\n戻れる人が勝つ。",
+      "layout": "timeline",
+      "accent": "#4ade80",
+      "nodes": [
+        { "label": "崩れる日", "icon": "warning", "color": "#ff6d00", "text": "誰にでもある" },
+        { "label": "次の日", "icon": "check", "color": "#38bdf8", "text": "戻す" },
+        { "label": "長期", "icon": "graph", "color": "#4ade80", "text": "維持できる" }
+      ],
+      "footer": "5年維持で一番強く思うこと。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "明日の朝、\n体重と起床時刻を記録する。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "1分で終わる", "text": "小さく始める" },
+        { "icon": "check", "color": "#38bdf8", "title": "今の位置がわかる", "text": "ズレを見つける" },
+        { "icon": "check", "color": "#4ade80", "title": "戻る力がつく", "text": "ここから維持が始まる" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}
+
+

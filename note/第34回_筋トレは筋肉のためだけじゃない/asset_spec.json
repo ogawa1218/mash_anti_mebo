@@ -1,0 +1,225 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "筋トレは",
+      "line2": "脳の",
+      "line3": "投資だ",
+      "eyebrow": "BRAIN STRENGTH",
+      "badge": "第34回｜筋トレ習慣",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "40代からの集中力と判断力を守る"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "筋肉だけ",
+      "line2": "鍛えてる",
+      "line3": "わけじゃない",
+      "eyebrow": "BRAIN STRENGTH",
+      "badge": "第34回｜筋トレ習慣",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "スクワット10回が脳のスイッチになる"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "40代こそ",
+      "line2": "筋トレを",
+      "line3": "始めろ",
+      "eyebrow": "BRAIN STRENGTH",
+      "badge": "第34回｜筋トレ習慣",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "脳の重さを変える最小習慣"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_筋トレは脳の投資でもある",
+      "title": "筋トレは「筋肉づくり」だけでなく「脳の土台づくり」にもつながる",
+      "bodyHtml": "<div style='position:absolute;left:110px;top:195px;display:flex;gap:26px;'><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>体</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>筋肉<br>姿勢<br>代謝</div></div><div style='font-size:58px;font-weight:900;color:#38bdf8;margin-top:78px;'>+</div><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>脳</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>集中力<br>判断力<br>自己効力感</div></div><div style='font-size:58px;font-weight:900;color:#4ade80;margin-top:78px;'>=</div><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>日常</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>動ける体と<br>働ける頭</div></div></div>"
+    },
+    {
+      "name": "figure_02_筋トレが脳に効く3つの入り口",
+      "title": "筋トレが脳に効きうる3つの入り口",
+      "bodyHtml": "<div style='position:absolute;left:100px;top:195px;display:flex;gap:22px;'><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>1 刺激</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>体を使う\n神経に刺激が入る</div></div><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>2 達成感</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>やれた感覚が\n自己効力感を上げる</div></div><div class='panel' style='width:320px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>3 連鎖</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>次の食事や睡眠を\n整えやすくする</div></div></div>"
+    },
+    {
+      "name": "figure_03_40代男性に筋トレが合う理由",
+      "title": "40代男性に筋トレが相性いい理由",
+      "bodyHtml": "<div style='position:absolute;left:120px;top:200px;display:flex;gap:24px;align-items:center;'><div class='panel' style='width:260px;height:180px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>忙しい</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>長時間運動は\n入りにくい</div></div><div style='font-size:52px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:260px;height:180px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>短い</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>1〜2分でも\n成立する</div></div><div style='font-size:52px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:320px;height:180px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>強い</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>続きやすく\n戻りやすい</div></div></div>"
+    },
+    {
+      "name": "figure_04_できない日の戻り方",
+      "title": "できない日の正解は「ゼロを小さくする」こと",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:180px;width:470px;height:300px;padding:28px;border-color:#ff6d0055;'><div class='orange' style='font-size:28px;font-weight:900;'>やめる人</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>今日は無理\n↓\n完全ゼロ\n↓\nそのまま止まる</div></div><div class='panel' style='position:absolute;right:90px;top:180px;width:470px;height:300px;padding:28px;border-color:#4ade8055;box-shadow:0 0 34px #4ade8022;'><div class='green' style='font-size:28px;font-weight:900;'>続く人</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>5回でもやる\nor 明日戻すと決める\n↓\n連鎖を切らない</div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩_スクワット10回",
+      "title": "今日の1歩は「今夜スクワット10回×1セット」",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:210px;top:175px;width:860px;height:270px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.28;margin-top:18px;'>今夜、\nスクワット10回×1セット</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>完璧なフォームより、まずやることが先。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "筋トレは、\n筋肉のためだけじゃない。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "energy", "color": "#ff6d00", "label": "体" },
+        { "icon": "check", "color": "#38bdf8", "label": "脳" },
+        { "icon": "graph", "color": "#4ade80", "label": "日常" }
+      ],
+      "footer": "40代からの脳の投資にもなり得る。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "過去",
+      "title": "100kg時代は、\n体だけじゃなく頭も重かった。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        { "label": "朝", "icon": "warning", "color": "#ff6d00", "text": "ぼーっとする" },
+        { "label": "仕事", "icon": "energy", "color": "#38bdf8", "text": "判断が鈍る" },
+        { "label": "夜", "icon": "graph", "color": "#4ade80", "text": "健康習慣が続かない" }
+      ],
+      "footer": "頭が重いと全部きつい。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "理由",
+      "title": "筋トレが脳の投資になり得る\n理由はこの3つ。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "刺激", "text": "体を使うと神経に刺激が入る" },
+        { "icon": "check", "color": "#38bdf8", "title": "達成感", "text": "自己効力感が上がる" },
+        { "icon": "check", "color": "#4ade80", "title": "連鎖", "text": "次の行動を整えやすい" }
+      ],
+      "footer": "筋肉量だけの話じゃない。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "40代",
+      "title": "忙しい40代ほど、\n短い筋トレの価値が大きい。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "重い設計",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "ジム前提",
+        "長時間前提",
+        "天候や予定で止まりやすい"
+      ],
+      "rightTitle": "強い設計",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "家でできる",
+        "1〜2分でできる",
+        "戻りやすい"
+      ],
+      "footer": "忙しい人ほど最小単位が強い。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "最小",
+      "title": "最初の設計は、\nスクワット10回×1セットでいい。",
+      "layout": "checklist",
+      "accent": "#ff6d00",
+      "items": [
+        { "label": "種目はスクワットだけ", "note": "最初から増やさない", "color": "#ff6d00" },
+        { "label": "回数は10回", "note": "1〜2分で終わる", "color": "#38bdf8" },
+        { "label": "タイミング固定", "note": "帰宅後 or 入浴前", "color": "#4ade80" }
+      ],
+      "footer": "小さいから続く。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "失敗",
+      "title": "最初から追い込むと、\nだいたい切れる。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        { "icon": "energy", "color": "#ff6d00", "label": "盛る" },
+        { "icon": "warning", "color": "#38bdf8", "label": "疲れる" },
+        { "icon": "graph", "color": "#4ade80", "label": "嫌になる" }
+      ],
+      "footer": "物足りないくらいがちょうどいい。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "ルール",
+      "title": "できない日のルールを持つと、\n筋トレは切れにくい。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        { "icon": "warning", "color": "#ff6d00", "title": "無理な日", "text": "5回でもOK" },
+        { "icon": "check", "color": "#38bdf8", "title": "ゼロでも", "text": "明日戻せばOK" },
+        { "icon": "graph", "color": "#4ade80", "title": "本質", "text": "復帰が早い継続" }
+      ],
+      "footer": "0か100で考えない。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "本質",
+      "title": "筋トレは、\n次の食事と睡眠まで引っぱる入口。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "今日やる", "icon": "check", "color": "#38bdf8", "text": "前に進んだ感覚" },
+        { "label": "夜", "icon": "graph", "color": "#4ade80", "text": "食事が整いやすい" },
+        { "label": "翌朝", "icon": "energy", "color": "#ff6d00", "text": "次も戻りやすい" }
+      ],
+      "footer": "単発の消費カロリー以上の価値。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "勝ち方",
+      "title": "健康習慣は、\nすごいことをやる人が勝つんじゃない。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "止まる人",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "完璧を狙う",
+        "重くなる",
+        "切れる"
+      ],
+      "rightTitle": "続く人",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "小さく始める",
+        "軽く続ける",
+        "戻りやすい"
+      ],
+      "footer": "小さいことを止めない人が勝つ。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "今夜、\nスクワット10回×1セット。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "フォームはざっくり", "text": "完璧不要" },
+        { "icon": "check", "color": "#38bdf8", "title": "まずやる", "text": "1〜2分で終わる" },
+        { "icon": "check", "color": "#4ade80", "title": "脳に信号が入る", "text": "今日も前に進んだ" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}
+

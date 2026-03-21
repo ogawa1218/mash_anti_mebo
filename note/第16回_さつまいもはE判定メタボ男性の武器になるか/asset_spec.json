@@ -1,0 +1,339 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "さつまいもは",
+      "line2": "E判定メタボの",
+      "line3": "武器になるか",
+      "eyebrow": "SWEET POTATO",
+      "badge": "第16回｜朝食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "意志力ではなく、仕組みで変える"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "ヘルシーだからOK",
+      "line2": "この使い方だと",
+      "line3": "太ります",
+      "eyebrow": "SWEET POTATO",
+      "badge": "第16回｜朝食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "足し算ではなく、置き換え"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "朝の主食を",
+      "line2": "1回変えるだけで",
+      "line3": "崩れにくい",
+      "eyebrow": "SWEET POTATO",
+      "badge": "第16回｜朝食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "血糖・満腹・継続で勝つ"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_さつまいもが効く場所",
+      "title": "さつまいもが効くのは、朝よりその後",
+      "bodyHtml": "<div style='position:absolute;left:90px;top:150px;display:flex;flex-direction:column;gap:20px;'><div class='panel' style='width:980px;padding:18px 24px;font-size:28px;font-weight:800;border-color:#ff6d0055;'>朝：白パン・菓子パンを さつまいも1本へ置換</div><div class='panel' style='width:980px;padding:18px 24px;font-size:28px;font-weight:800;border-color:#38bdf855;'>10時：空腹の暴走が小さくなりやすい</div><div class='panel' style='width:980px;padding:18px 24px;font-size:28px;font-weight:800;border-color:#4ade8055;'>昼：ドカ食いを少し抑えやすい</div><div class='panel' style='width:980px;padding:18px 24px;font-size:28px;font-weight:800;border-color:#38bdf855;'>15時：眠気・間食欲を観察する</div></div><div class='panel' style='position:absolute;right:84px;bottom:72px;width:360px;padding:18px 20px;font-size:18px;line-height:1.7;color:#d1d5db;'>狙うのは食材の魔法ではなく、朝から夕方までの崩れを1段階小さくすること。</div>"
+    },
+    {
+      "name": "figure_02_言えること言えないこと",
+      "title": "さつまいもで、何が言えて何が言えないか",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:70px;top:150px;width:520px;height:360px;'><div style='padding:26px;'><div class='orange' style='font-size:28px;font-weight:900;margin-bottom:16px;'>言えること</div><div style='font-size:24px;line-height:1.8;font-weight:700;'>・白パンより崩れにくい朝を作りやすい<br>・満足感のある置換にしやすい<br>・量を固定しやすい</div></div></div><div class='panel' style='position:absolute;right:70px;top:150px;width:520px;height:360px;'><div style='padding:26px;'><div class='blue' style='font-size:28px;font-weight:900;margin-bottom:16px;'>言えないこと</div><div style='font-size:24px;line-height:1.8;font-weight:700;'>・さつまいもは常に低GI<br>・食べるだけで脂肪が落ちる<br>・量を増やしてもOK</div></div></div><div style='position:absolute;left:130px;right:130px;bottom:74px;text-align:center;font-size:24px;font-weight:800;'>勝負は <span class='orange'>食材</span> ではなく <span class='blue'>置き換え設計</span> で決まる。</div>"
+    },
+    {
+      "name": "figure_03_朝の勝ちパターン",
+      "title": "最初の勝ちパターンはこれだけ",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:94px;top:170px;width:300px;height:250px;border-color:#ff6d0055;'><div style='padding:24px;'><div class='orange' style='font-size:22px;font-weight:900;margin-bottom:10px;'>STEP 1</div><div style='font-size:30px;font-weight:900;line-height:1.3;'>主食を<br>さつまいも1本へ</div></div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:250px;border-color:#38bdf855;'><div style='padding:24px;'><div class='blue' style='font-size:22px;font-weight:900;margin-bottom:10px;'>STEP 2</div><div style='font-size:30px;font-weight:900;line-height:1.3;'>卵1〜2個か<br>ヨーグルト追加</div></div></div><div class='panel' style='position:absolute;right:94px;top:170px;width:300px;height:250px;border-color:#4ade8055;'><div style='padding:24px;'><div class='green' style='font-size:22px;font-weight:900;margin-bottom:10px;'>STEP 3</div><div style='font-size:30px;font-weight:900;line-height:1.3;'>15時の自分を<br>観察する</div></div></div><div style='position:absolute;left:140px;right:140px;bottom:80px;text-align:center;font-size:24px;font-weight:800;'>足すな。<span class='orange'>置き換える</span>。それだけで十分スタートできる。</div>"
+    },
+    {
+      "name": "figure_04_1週間プロトコル",
+      "title": "さつまいも置換 1週間プロトコル",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:82px;top:150px;width:500px;height:138px;border-color:#ff6d0055;'><div style='padding:22px 24px;display:flex;gap:16px;'><div style='width:56px;height:56px;border-radius:50%;background:#ff6d00;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:900;color:#000;'>1</div><div><div style='font-size:28px;font-weight:900;'>Day1-3 朝主食を置換</div><div class='muted' style='font-size:18px;margin-top:6px;'>食後眠気・昼前空腹を記録</div></div></div></div><div class='panel' style='position:absolute;right:82px;top:150px;width:500px;height:138px;border-color:#38bdf855;'><div style='padding:22px 24px;display:flex;gap:16px;'><div style='width:56px;height:56px;border-radius:50%;background:#38bdf8;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:900;color:#000;'>2</div><div><div style='font-size:28px;font-weight:900;'>Day4-5 15時を観察</div><div class='muted' style='font-size:18px;margin-top:6px;'>間食欲・集中力を見る</div></div></div></div><div class='panel' style='position:absolute;left:82px;top:334px;width:500px;height:138px;border-color:#ff6d0055;'><div style='padding:22px 24px;display:flex;gap:16px;'><div style='width:56px;height:56px;border-radius:50%;background:#ff6d00;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:900;color:#000;'>3</div><div><div style='font-size:28px;font-weight:900;'>Day6-7 夕方評価</div><div class='muted' style='font-size:18px;margin-top:6px;'>だるさ・継続しやすさで判定</div></div></div></div><div class='panel' style='position:absolute;right:82px;top:334px;width:500px;height:138px;border-color:#38bdf855;'><div style='padding:22px 24px;display:flex;gap:16px;'><div style='width:56px;height:56px;border-radius:50%;background:#38bdf8;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:900;color:#000;'>4</div><div><div style='font-size:28px;font-weight:900;'>体重より先に体感</div><div class='muted' style='font-size:18px;margin-top:6px;'>10時・15時・夕方の自分を見る</div></div></div></div>"
+    },
+    {
+      "name": "figure_05_向いている人注意が必要な人",
+      "title": "さつまいも置換は誰に向くか",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:76px;top:152px;width:500px;height:360px;'><div style='padding:28px;'><div class='green' style='font-size:28px;font-weight:900;margin-bottom:16px;'>向いている人</div><div style='font-size:24px;line-height:1.8;font-weight:700;'>・朝がパンだけになりやすい<br>・10時や15時に崩れやすい<br>・主食を固定したい<br>・コンビニでも再現したい</div></div></div><div class='panel' style='position:absolute;right:76px;top:152px;width:500px;height:360px;'><div style='padding:28px;'><div class='orange' style='font-size:28px;font-weight:900;margin-bottom:16px;'>注意が必要な人</div><div style='font-size:24px;line-height:1.8;font-weight:700;'>・糖尿病治療中<br>・血糖降下薬を使用中<br>・カリウム制限がある<br>・干しいもで量が増えやすい</div></div></div><div style='position:absolute;left:120px;right:120px;bottom:70px;text-align:center;font-size:22px;font-weight:800;'>迷ったら <span class='blue'>焼きいも1本＋卵</span> から。自己流で押し切らない。</div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "誤解",
+      "title": "さつまいもは武器。\nでも、使い方を間違えると負ける。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "負ける使い方",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "ヘルシーだから量が増える",
+        "パンも食べて、いもも食べる",
+        "夜食に追加する"
+      ],
+      "rightTitle": "勝ちやすい使い方",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "朝の主食を1回置き換える",
+        "量を固定する",
+        "たんぱく質を添える"
+      ],
+      "footer": "危ないのは食材ではなく、量と設計が雑になること。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "線引き",
+      "title": "さつまいも＝低GI。\nこの雑さを捨てる。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        {
+          "icon": "graph",
+          "color": "#38bdf8",
+          "title": "量",
+          "text": "同じ食材でも食べる量で反応は変わる。"
+        },
+        {
+          "icon": "potato",
+          "color": "#ff6d00",
+          "title": "品種",
+          "text": "さつまいもは一枚岩ではない。種類で差が出る。"
+        },
+        {
+          "icon": "plate",
+          "color": "#4ade80",
+          "title": "調理",
+          "text": "焼く、蒸す、加工するで食べやすさも量も動く。"
+        }
+      ],
+      "footer": "だから礼賛ではなく、朝の置き換え設計として使う。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "結論",
+      "title": "武器になる。\nただし置き換え前提。",
+      "layout": "timeline",
+      "accent": "#4ade80",
+      "nodes": [
+        {
+          "label": "朝",
+          "icon": "potato",
+          "color": "#ff6d00",
+          "text": "白パンをさつまいもへ"
+        },
+        {
+          "label": "10時",
+          "icon": "clock",
+          "color": "#38bdf8",
+          "text": "空腹の暴走が小さくなりやすい"
+        },
+        {
+          "label": "昼",
+          "icon": "plate",
+          "color": "#4ade80",
+          "text": "ドカ食いを少し抑えやすい"
+        },
+        {
+          "label": "15時",
+          "icon": "energy",
+          "color": "#ff6d00",
+          "text": "間食欲を観察する"
+        }
+      ],
+      "footer": "脂肪を落とす魔法ではなく、崩れを小さくする設計。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "3ルール",
+      "title": "効かせ方は\nこの3つだけ。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "label": "朝に使う"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "主食置換にする"
+        },
+        {
+          "icon": "egg",
+          "color": "#4ade80",
+          "label": "卵かヨーグルトを添える"
+        }
+      ],
+      "footer": "理論より再現性。最初はコンビニ焼きいもでも十分。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "失敗",
+      "title": "パンも食べる。\nいもも食べる。\nこれで負ける。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "titleSize": 46,
+      "contentTop": 330,
+      "leftTitle": "足し算",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "パンも食べる",
+        "さつまいもも食べる",
+        "カフェラテも足す"
+      ],
+      "rightTitle": "置き換え",
+      "rightIcon": "check",
+      "rightColor": "#38bdf8",
+      "rightItems": [
+        "主食を1つだけ選ぶ",
+        "さつまいも1本で固定する",
+        "総量を増やさない"
+      ],
+      "footer": "勝ち筋はいつも同じ。足すな。置き換えろ。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "量",
+      "title": "最初の量は\n手のひらサイズ1本。",
+      "layout": "stat",
+      "accent": "#4ade80",
+      "icon": "potato",
+      "value": "1",
+      "unit": "本スタート",
+      "caption": "まずは固定して観察する",
+      "bullets": [
+        "健康食だから2本、が一番危ない。",
+        "量の固定が継続を作る。",
+        "量の固定が検証を可能にする。"
+      ],
+      "note": "足りないと感じたら、いきなり増やす前に卵やヨーグルトを添える。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "朝食例",
+      "title": "おすすめ朝食は\nかなりシンプル。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        {
+          "icon": "potato",
+          "color": "#ff6d00",
+          "title": "さつまいも1本",
+          "text": "主食はここで固定。最初は焼きいもで十分。"
+        },
+        {
+          "icon": "egg",
+          "color": "#38bdf8",
+          "title": "卵1〜2個",
+          "text": "満足感を作るたんぱく質として添える。"
+        },
+        {
+          "icon": "check",
+          "color": "#4ade80",
+          "title": "無糖飲料",
+          "text": "甘い飲み物を足して帳消しにしない。"
+        }
+      ],
+      "footer": "最初から完璧な調理は不要。続く形が正義。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "観察",
+      "title": "体重より先に\n15時の自分を見る。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "10時の空腹",
+          "note": "朝食が足りているかを確認。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "15時の間食欲",
+          "note": "崩れやすさが一番出やすい。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "夕方のだるさ",
+          "note": "集中力と疲労感の質を見る。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "仕事中の集中",
+          "note": "体重より先に体感が動く。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "食欲と体感は、その日に反応する。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "注意",
+      "title": "自己流で押し切らない人。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        {
+          "icon": "warning",
+          "color": "#ff6d00",
+          "title": "糖尿病治療中",
+          "text": "血糖の扱いは健康習慣より治療が優先。"
+        },
+        {
+          "icon": "warning",
+          "color": "#38bdf8",
+          "title": "血糖降下薬を使用中",
+          "text": "食べ方変更は主治医の指示と切り離さない。"
+        },
+        {
+          "icon": "warning",
+          "color": "#4ade80",
+          "title": "カリウム制限あり",
+          "text": "自己判断で常食化しない。"
+        }
+      ],
+      "footer": "健康習慣と治療は別。主治医の指示を優先。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "行動",
+      "title": "明日の朝、\n主食を1回だけ変える。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "今夜、焼きいもを買う"
+        },
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "label": "朝の主食と入れ替える"
+        },
+        {
+          "icon": "energy",
+          "color": "#4ade80",
+          "label": "15時の自分を見る"
+        }
+      ],
+      "footer": "全部変えなくていい。まず1回だけ置き換える。"
+    }
+  ]
+}
+
+

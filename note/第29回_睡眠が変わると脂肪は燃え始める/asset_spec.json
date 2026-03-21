@@ -1,0 +1,215 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "4時間睡眠では",
+      "line2": "痩せない",
+      "line3": "理由がある",
+      "eyebrow": "SLEEP & FAT LOSS",
+      "badge": "第29回｜睡眠",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "睡眠が入ると食事と運動は掛け算で効く"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "睡眠が変わると",
+      "line2": "脂肪は",
+      "line3": "燃え始める",
+      "eyebrow": "SLEEP & FAT LOSS",
+      "badge": "第29回｜睡眠",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "4時間睡眠から7時間睡眠で体が動き始めた"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "痩せたいなら",
+      "line2": "もっと頑張る前に",
+      "line3": "まず寝る",
+      "eyebrow": "SLEEP & FAT LOSS",
+      "badge": "第29回｜睡眠",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "睡眠不足は食欲・脂肪・血糖・炎症を荒らしやすい"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_睡眠不足で崩れること",
+      "title": "4時間睡眠で起きやすい崩れは、この4つ",
+      "bodyHtml": "<div style='position:absolute;left:92px;top:185px;display:flex;gap:22px;'><div class='panel' style='width:230px;height:220px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>1</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>食欲が暴走</div></div><div class='panel' style='width:230px;height:220px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>2</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>腹まわりに\n乗りやすい</div></div><div class='panel' style='width:230px;height:220px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>3</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>血糖の波が\n荒れやすい</div></div><div class='panel' style='width:230px;height:220px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>4</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>回復が\n遅くなる</div></div></div>"
+    },
+    {
+      "name": "figure_02_7時間睡眠で回ること",
+      "title": "7時間前後の睡眠で、体と脳の回復が回りやすくなる",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:130px;top:180px;width:410px;height:260px;padding:28px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>前半の睡眠</div><div style='font-size:34px;font-weight:900;line-height:1.45;margin-top:18px;'>体の修復\n筋肉回復\n代謝の土台</div></div><div class='panel' style='position:absolute;right:130px;top:180px;width:410px;height:260px;padding:28px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>後半の睡眠</div><div style='font-size:34px;font-weight:900;line-height:1.45;margin-top:18px;'>脳と食欲の整理\n感情の安定\n集中力の維持</div></div>"
+    },
+    {
+      "name": "figure_03_掛け算の構造",
+      "title": "食事と運動は、睡眠が入ってはじめて掛け算で効く",
+      "bodyHtml": "<div style='position:absolute;left:118px;top:205px;display:flex;align-items:center;gap:26px;'><div class='panel' style='width:250px;height:190px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>食事</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:20px;'>整える材料</div></div><div style='font-size:56px;font-weight:900;color:#ff6d00;'>×</div><div class='panel' style='width:250px;height:190px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>運動</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:20px;'>刺激を入れる</div></div><div style='font-size:56px;font-weight:900;color:#38bdf8;'>×</div><div class='panel' style='width:250px;height:190px;padding:24px;border-color:#4ade8055;box-shadow:0 0 34px #4ade8022;'><div class='green' style='font-size:22px;font-weight:900;'>睡眠</div><div style='font-size:32px;font-weight:900;line-height:1.4;margin-top:20px;'>回復を回す</div></div></div>"
+    },
+    {
+      "name": "figure_04_睡眠改善4つ",
+      "title": "マーシーが効いた睡眠改善は、この4つ",
+      "bodyHtml": "<div style='position:absolute;left:96px;top:178px;display:grid;grid-template-columns:1fr 1fr;gap:22px;width:1088px;'><div class='panel' style='height:130px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:20px;font-weight:900;'>1 寝起き時刻を固定</div><div class='muted' style='font-size:22px;margin-top:16px;'>平日休日のズレを小さくする</div></div><div class='panel' style='height:130px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:20px;font-weight:900;'>2 朝の光を浴びる</div><div class='muted' style='font-size:22px;margin-top:16px;'>体内時計のリセット</div></div><div class='panel' style='height:130px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:20px;font-weight:900;'>3 寝る前の刺激を減らす</div><div class='muted' style='font-size:22px;margin-top:16px;'>カフェイン、光、仕事脳</div></div><div class='panel' style='height:130px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:20px;font-weight:900;'>4 数値化する</div><div class='muted' style='font-size:22px;margin-top:16px;'>時間、スコア、主観を可視化</div></div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩",
+      "title": "今日の1歩は、今夜30分早く布団に入ること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:180px;width:840px;height:260px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:56px;font-weight:900;line-height:1.25;margin-top:18px;'>今夜、いつもより\n30分早く布団に入る</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>もっと頑張る前に、まず寝る。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "逆説",
+      "title": "痩せたいなら、\nまず食事より先に寝る。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "plate", "color": "#ff6d00", "label": "食事" },
+        { "icon": "graph", "color": "#38bdf8", "label": "運動" },
+        { "icon": "sun", "color": "#4ade80", "label": "睡眠" }
+      ],
+      "footer": "掛け算を回す最後の土台。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "睡眠不足",
+      "title": "4時間睡眠で崩れやすいのは、\nこの4つ。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        { "icon": "warning", "color": "#ff6d00", "title": "食欲", "text": "甘いものに引っ張られる" },
+        { "icon": "graph", "color": "#38bdf8", "title": "脂肪", "text": "腹まわりに乗りやすい" },
+        { "icon": "sun", "color": "#4ade80", "title": "回復", "text": "疲れが抜けにくい" }
+      ],
+      "footer": "意志ではなく、体が傾く。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "実体験",
+      "title": "100kgだった頃の僕は、\n意志が弱かったんじゃない。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        { "label": "平均4時間睡眠", "note": "寝る時間も起きる時間も乱れていた", "color": "#ff6d00" },
+        { "label": "食欲が暴走", "note": "15時以降の間食が止まりにくい", "color": "#38bdf8" },
+        { "label": "体が太りやすい方向に傾いていた", "note": "ここが本質", "color": "#4ade80" }
+      ],
+      "footer": "根性論では説明できない。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "変化",
+      "title": "7時間前後寝ると、\nまず朝が変わる。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "目覚め", "icon": "sun", "color": "#38bdf8", "text": "重さが減る" },
+        { "label": "朝食", "icon": "plate", "color": "#ff6d00", "text": "雑にしにくい" },
+        { "label": "日中", "icon": "graph", "color": "#4ade80", "text": "崩れにくい" }
+      ],
+      "footer": "ダイエットは朝から始まっている。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "食欲",
+      "title": "夕方の異常な食欲は、\n根性不足だけじゃない。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "睡眠不足",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "脳疲労が強い",
+        "甘いものに寄る",
+        "夜に崩れやすい"
+      ],
+      "rightTitle": "睡眠が取れる",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "選びやすい",
+        "夜の暴走が減る",
+        "我慢の勝負が減る"
+      ],
+      "footer": "整った状態で選べるかが差になる。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "本質",
+      "title": "食事と運動は、\n睡眠が入ってはじめて掛け算で効く。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        { "icon": "plate", "color": "#ff6d00", "label": "食事を整える" },
+        { "icon": "graph", "color": "#38bdf8", "label": "運動する" },
+        { "icon": "sun", "color": "#4ade80", "label": "回復が回る" }
+      ],
+      "footer": "睡眠が抜けると足し算止まり。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "実装",
+      "title": "僕が効いた睡眠改善は、\nこの4つ。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        { "label": "寝起き時刻を固定", "note": "平日休日のズレを小さく", "color": "#ff6d00" },
+        { "label": "朝の光", "note": "体内時計を整える", "color": "#38bdf8" },
+        { "label": "刺激を減らす", "note": "カフェイン、光、仕事脳", "color": "#4ade80" }
+      ],
+      "footer": "派手じゃない。でも強い。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "40代",
+      "title": "40代男性が睡眠を削ると、\n一気に崩れやすい。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        { "icon": "warning", "color": "#ff6d00", "title": "食欲", "text": "乱れやすい" },
+        { "icon": "graph", "color": "#38bdf8", "title": "血糖", "text": "荒れやすい" },
+        { "icon": "sun", "color": "#4ade80", "title": "回復", "text": "遅れやすい" }
+      ],
+      "footer": "少し寝れば戻る、が通用しにくい時期。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "今日の1歩",
+      "title": "今夜、\nいつもより30分早く布団に入る。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "全部やらない", "text": "1つでいい" },
+        { "icon": "check", "color": "#38bdf8", "title": "30分だけ", "text": "いきなり完璧を狙わない" },
+        { "icon": "check", "color": "#4ade80", "title": "朝を変える", "text": "ここから体感が動く" }
+      ],
+      "footer": "もっと頑張る前に、まず寝る。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "締め",
+      "title": "睡眠が変わると、\n脂肪は燃え始める。",
+      "layout": "timeline",
+      "accent": "#4ade80",
+      "nodes": [
+        { "label": "眠る", "icon": "sun", "color": "#38bdf8", "text": "回復が回る" },
+        { "label": "選べる", "icon": "check", "color": "#4ade80", "text": "食欲が整う" },
+        { "label": "積み上がる", "icon": "graph", "color": "#ff6d00", "text": "体重が動く" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}
+
+

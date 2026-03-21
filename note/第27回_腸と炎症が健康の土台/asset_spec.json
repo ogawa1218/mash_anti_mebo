@@ -1,0 +1,227 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "体重も気分も",
+      "line2": "実は土台で",
+      "line3": "つながっている",
+      "eyebrow": "GUT & INFLAMMATION",
+      "badge": "第｜腸と炎症",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "夜の1択が最初の分岐点"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "健康の土台は",
+      "line2": "腸と",
+      "line3": "炎症管理",
+      "eyebrow": "GUT & INFLAMMATION",
+      "badge": "第｜腸と炎症",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "健診E判定から逆転する夜設計"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "100kgだった僕が",
+      "line2": "最初に変えた",
+      "line3": "夜の1択",
+      "eyebrow": "GUT & INFLAMMATION",
+      "badge": "第｜腸と炎症",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "迷わない仕組みが効いた"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_腸が関わる4領域",
+      "title": "腸は、お腹だけでなく4つの土台に関わっている",
+      "bodyHtml": "<div style='position:absolute;left:80px;top:180px;display:flex;gap:18px;'><div class='panel' style='width:250px;height:220px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>1</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>免疫</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>炎症の高さに関わる</div></div><div class='panel' style='width:250px;height:220px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>2</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>代謝</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>血糖と食欲に影響しやすい</div></div><div class='panel' style='width:250px;height:220px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>3</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>メンタル</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>気分の安定にも関わる</div></div><div class='panel' style='width:250px;height:220px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>4</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>睡眠</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>質にも響きやすい</div></div></div>"
+    },
+    {
+      "name": "figure_02_崩れの連鎖",
+      "title": "腸と炎症が乱れると、夜から翌朝まで連鎖で崩れやすい",
+      "bodyHtml": "<div style='position:absolute;left:78px;top:180px;display:flex;gap:18px;align-items:center;'><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>間食が止まらない</div></div><div style='font-size:44px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>朝</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>だるい、重い</div></div><div style='font-size:44px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>昼</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>ぼんやり、甘いもの</div></div><div style='font-size:44px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>また崩れる</div></div></div>"
+    },
+    {
+      "name": "figure_03_夜の1択",
+      "title": "100kgだった僕が最初に変えたのは、夜の間食を1択に固定すること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:120px;top:185px;width:300px;height:240px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>1択候補</div><div style='font-size:34px;font-weight:900;line-height:1.25;margin-top:20px;'>無糖ヨーグルト<br>＋ナッツ</div><div class='muted' style='font-size:22px;margin-top:18px;'>甘さで暴れにくい</div></div><div class='panel' style='position:absolute;left:490px;top:185px;width:300px;height:240px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>1択候補</div><div style='font-size:34px;font-weight:900;line-height:1.25;margin-top:20px;'>味噌汁<br>＋豆腐</div><div class='muted' style='font-size:22px;margin-top:18px;'>温かく軽く終えやすい</div></div><div class='panel' style='position:absolute;right:120px;top:185px;width:300px;height:240px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>1択候補</div><div style='font-size:34px;font-weight:900;line-height:1.25;margin-top:20px;'>バナナ<br>＋ヨーグルト</div><div class='muted' style='font-size:22px;margin-top:18px;'>疲れていても選びやすい</div></div>"
+    },
+    {
+      "name": "figure_04_設計が効く理由",
+      "title": "効いたのは、食品そのもの以上に「先に決める」ことだった",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>STEP 1</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>夜の1択を<br>先に決める</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>迷わない状態を作る</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>STEP 2</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>疲れた夜でも<br>実行できる</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>判断力が落ちても回る</div></div><div class='panel' style='position:absolute;right:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>STEP 3</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>翌朝が少し<br>整いやすい</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>その連鎖で体重も動く</div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩",
+      "title": "今日の1歩は、今夜の間食を腸にやさしい1択に置き換えること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:170px;width:840px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.3;margin-top:20px;'>今夜の間食を<br>腸にやさしい1択へ</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>完璧より先に、夜に崩れない仕組みを1つ作る。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "体重も気分も睡眠も、\n実は土台でつながっている。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        { "icon": "plate", "color": "#ff6d00", "title": "体重", "text": "食欲と血糖に響く" },
+        { "icon": "graph", "color": "#38bdf8", "title": "気分", "text": "だるさと判断に響く" },
+        { "icon": "moon", "color": "#4ade80", "title": "睡眠", "text": "質にもつながる" }
+      ],
+      "footer": "その土台が、腸と炎症管理。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "共感",
+      "title": "100kgの頃の僕は、\n夜になると間食が止まらなかった。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "plate", "color": "#ff6d00", "label": "夜に食べる" },
+        { "icon": "warning", "color": "#38bdf8", "label": "翌朝だるい" },
+        { "icon": "graph", "color": "#4ade80", "label": "また甘いものに流れる" }
+      ],
+      "footer": "この流れはかなり多い。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "再定義",
+      "title": "夜に崩れるのは、\n意志の弱さより設計不足。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "間違いやすい見方",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "自分がだらしない",
+        "根性が足りない",
+        "我慢できない自分が悪い"
+      ],
+      "rightTitle": "現実的な見方",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "疲れた夜は判断力が落ちる",
+        "腸と炎症が乱れると崩れやすい",
+        "先に設計を変える方が強い"
+      ],
+      "footer": "責めるより、先に設計。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "解説",
+      "title": "腸は、お腹だけの話では終わらない。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        { "label": "免疫", "note": "炎症の高さに関わる。", "color": "#ff6d00" },
+        { "label": "代謝", "note": "血糖と食欲に響きやすい。", "color": "#38bdf8" },
+        { "label": "メンタル", "note": "気分の安定にも関わる。", "color": "#4ade80" },
+        { "label": "睡眠", "note": "質にも影響しやすい。", "color": "#ff6d00" }
+      ],
+      "footer": "腸は、健康のハブ。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "崩れ方",
+      "title": "腸と炎症が乱れると、\n夜から翌朝まで連鎖で崩れる。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        { "label": "夜", "icon": "plate", "color": "#ff6d00", "text": "間食が止まらない" },
+        { "label": "朝", "icon": "warning", "color": "#38bdf8", "text": "だるい、重い" },
+        { "label": "昼", "icon": "graph", "color": "#4ade80", "text": "ぼんやり、甘いもの" },
+        { "label": "夜", "icon": "plate", "color": "#ff6d00", "text": "また崩れる" }
+      ],
+      "footer": "全部つながっている。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "実体験",
+      "title": "最初に変えたのは、\n夜の間食を1択に固定すること。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "ヨーグルト＋ナッツ", "text": "甘さで暴れにくい" },
+        { "icon": "check", "color": "#38bdf8", "title": "味噌汁＋豆腐", "text": "温かく軽く終えやすい" },
+        { "icon": "check", "color": "#4ade80", "title": "バナナ＋ヨーグルト", "text": "疲れていても選びやすい" }
+      ],
+      "footer": "難しいことより、先に1択。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "本質",
+      "title": "効いたのは、\n食品そのもの以上に「先に決める」こと。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "check", "color": "#ff6d00", "label": "夜の1択を決める" },
+        { "icon": "plate", "color": "#38bdf8", "label": "疲れていても実行できる" },
+        { "icon": "sun", "color": "#4ade80", "label": "翌朝が少し整う" }
+      ],
+      "footer": "迷わない設計がかなり効く。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "研究×実装",
+      "title": "1つの食品で全部解決、\nはない。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "誤解",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "ヨーグルトだけでOK",
+        "納豆だけでOK",
+        "サプリ1つで変わる"
+      ],
+      "rightTitle": "現実解",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "小さい改善を積む",
+        "毎日回る設計にする",
+        "完璧より継続を優先する"
+      ],
+      "footer": "小さい1歩を回す方が強い。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "CTA",
+      "title": "今日の1歩は、\n今夜の間食を1択に置き換えること。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        { "icon": "plate", "color": "#ff6d00", "label": "腸にやさしい1択" },
+        { "icon": "check", "color": "#38bdf8", "label": "まず1回やる" },
+        { "icon": "graph", "color": "#4ade80", "label": "夜に崩れない仕組みを作る" }
+      ],
+      "footer": "ここから体は変わり始める。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "完璧な腸活じゃなくていい。\n今夜の1択だけでいい。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "小さく始める", "text": "まず1回でいい" },
+        { "icon": "graph", "color": "#38bdf8", "title": "毎日回す", "text": "仕組みで続ける" },
+        { "icon": "sun", "color": "#4ade80", "title": "体が変わる", "text": "翌朝から少しずつ" }
+      ],
+      "footer": "完璧より、続く設計。"
+    }
+  ]
+}
+

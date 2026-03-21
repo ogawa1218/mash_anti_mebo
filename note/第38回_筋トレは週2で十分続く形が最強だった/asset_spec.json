@@ -1,0 +1,208 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "筋トレは",
+      "line2": "週2で",
+      "line3": "十分だ",
+      "eyebrow": "STRENGTH RESET",
+      "badge": "第38回｜貯筋設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "続く形が最強だった"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "最強なのは",
+      "line2": "完璧メニュー",
+      "line3": "じゃない",
+      "eyebrow": "STRENGTH RESET",
+      "badge": "第38回｜貯筋設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "週2回でも切れなければ勝てる"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "今夜の",
+      "line2": "スクワット",
+      "line3": "10回から",
+      "eyebrow": "STRENGTH RESET",
+      "badge": "第38回｜貯筋設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜E判定から逆転",
+      "note": "1セットの積み上げが未来を作る"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_週2筋トレの位置づけ",
+      "title": "週2筋トレは少ないのではなく、現実に回せる強い設計",
+      "bodyHtml": "<div style='position:absolute;left:95px;top:190px;display:flex;gap:24px;align-items:center;'><div class='panel' style='width:300px;height:240px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>まず必要</div><div style='font-size:34px;font-weight:900;line-height:1.45;margin-top:18px;'>ゼロを\n抜ける\n接触回数</div></div><div style='font-size:56px;font-weight:900;color:#38bdf8;'>+</div><div class='panel' style='width:300px;height:240px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>現実解</div><div style='font-size:34px;font-weight:900;line-height:1.45;margin-top:18px;'>週2回\n20〜30分\n主要筋群</div></div><div style='font-size:56px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:280px;height:240px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>結果</div><div style='font-size:34px;font-weight:900;line-height:1.45;margin-top:18px;'>切れにくい\n積み上がる</div></div></div>"
+    },
+    {
+      "name": "figure_02_理想追求より週2固定",
+      "title": "理想追求ループより、週2固定ループの方が体は変わる",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:175px;width:470px;height:300px;padding:28px;border-color:#ff6d0055;'><div class='orange' style='font-size:28px;font-weight:900;'>理想追求</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>週5で組む\n↓\n崩れる\n↓\n自己嫌悪</div></div><div class='panel' style='position:absolute;right:90px;top:175px;width:470px;height:300px;padding:28px;border-color:#4ade8055;box-shadow:0 0 34px #4ade8022;'><div class='green' style='font-size:28px;font-weight:900;'>週2固定</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>回数を絞る\n↓\n切れなくなる\n↓\n結果が出る</div></div>"
+    },
+    {
+      "name": "figure_03_週2貯筋テンプレ",
+      "title": "忙しい人向けの週2貯筋テンプレ",
+      "bodyHtml": "<div style='position:absolute;left:110px;top:190px;display:flex;gap:22px;'><div class='panel' style='width:290px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>A日 下半身</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>スクワット\nヒンジ系\n10回×1〜2</div></div><div class='panel' style='width:290px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>B日 上半身＋体幹</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>押す\n引く\n支える</div></div><div class='panel' style='width:290px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>運用ルール</div><div style='font-size:30px;font-weight:900;line-height:1.45;margin-top:18px;'>週2回\n20〜30分\n2日連続ゼロ禁止</div></div></div>"
+    },
+    {
+      "name": "figure_04_ifthen設計",
+      "title": "筋トレは戻れる if-then 設計があると切れにくい",
+      "bodyHtml": "<div style='position:absolute;left:95px;top:205px;display:flex;gap:20px;align-items:center;'><div class='panel' style='width:220px;height:170px;padding:20px;border-color:#ff6d0055;'><div class='orange' style='font-size:20px;font-weight:900;'>帰宅したら</div><div style='font-size:26px;font-weight:900;line-height:1.5;margin-top:16px;'>スクワット\n10回</div></div><div style='font-size:46px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:220px;height:170px;padding:20px;border-color:#38bdf855;'><div class='blue' style='font-size:20px;font-weight:900;'>時間がない日</div><div style='font-size:26px;font-weight:900;line-height:1.5;margin-top:16px;'>1種目だけで\n終了</div></div><div style='font-size:46px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:220px;height:170px;padding:20px;border-color:#4ade8055;'><div class='green' style='font-size:20px;font-weight:900;'>サボったら</div><div style='font-size:26px;font-weight:900;line-height:1.5;margin-top:16px;'>翌日5分で\n再開</div></div><div style='font-size:46px;font-weight:900;color:#facc15;'>→</div><div class='panel' style='width:220px;height:170px;padding:20px;border-color:#facc1555;'><div class='yellow' style='font-size:20px;font-weight:900;color:#facc15;'>連鎖が残る</div><div style='font-size:26px;font-weight:900;line-height:1.5;margin-top:16px;'>ゼロが\n切れにくい</div></div></div>"
+    },
+    {
+      "name": "figure_05_今日の1セット",
+      "title": "今日の1歩は、今夜のスクワット10回×1セット",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:180px;top:175px;width:920px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:50px;font-weight:900;line-height:1.28;margin-top:18px;'>今夜、スクワット10回×1セットだけやる</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>完璧不要。まず“やった”を作る。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "筋トレは週2で十分。\n続く形の方が強い。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "energy", "color": "#ff6d00", "label": "まずやる" },
+        { "icon": "graph", "color": "#38bdf8", "label": "週2で固定" },
+        { "icon": "check", "color": "#4ade80", "label": "切れずに積む" }
+      ],
+      "footer": "完璧より継続。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "誤解",
+      "title": "週2は少ない。\nこれは違う。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "主要筋群", "text": "押さえれば価値がある" },
+        { "icon": "check", "color": "#38bdf8", "title": "生活に入る", "text": "再現しやすい" },
+        { "icon": "check", "color": "#4ade80", "title": "結果", "text": "切れずに積める" }
+      ],
+      "footer": "現実解として強い。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "罠",
+      "title": "最適解探しにハマると、\nだいたい止まる。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        { "label": "情報を集める", "icon": "energy", "color": "#ff6d00", "text": "気持ちは上がる" },
+        { "label": "週5で組む", "icon": "graph", "color": "#38bdf8", "text": "理想が膨らむ" },
+        { "label": "崩れる", "icon": "warning", "color": "#4ade80", "text": "自己嫌悪で止まる" }
+      ],
+      "footer": "100kg時代の僕もこれでした。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "実務",
+      "title": "A日 下半身、B日 上半身＋体幹。\nこれで十分。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "A日",
+      "leftIcon": "check",
+      "leftColor": "#ff6d00",
+      "leftItems": ["スクワット", "ヒンジ系", "10回×1〜2"],
+      "rightTitle": "B日",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": ["押す", "引く", "支える"],
+      "footer": "種目は2〜4で十分。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "運用",
+      "title": "週2貯筋の運用ルールは、\n2日連続ゼロを作らないこと。",
+      "layout": "checklist",
+      "accent": "#ff6d00",
+      "items": [
+        { "label": "週2を先に入れる", "note": "カレンダー固定", "color": "#ff6d00" },
+        { "label": "できなければ翌日へ", "note": "スライド可", "color": "#38bdf8" },
+        { "label": "2日連続ゼロ禁止", "note": "連鎖を守る", "color": "#4ade80" }
+      ],
+      "footer": "迷いを減らす。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "if-then",
+      "title": "筋トレも、意志力じゃなく設計です。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        { "icon": "check", "color": "#ff6d00", "label": "着替えたら10回" },
+        { "icon": "check", "color": "#38bdf8", "label": "時間がなければ1種目" },
+        { "icon": "check", "color": "#4ade80", "label": "翌日5分で戻る" }
+      ],
+      "footer": "戻る設計がすべて。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "本質",
+      "title": "最高の1回より、\n戻れる次の1回。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "最高の1回", "text": "勢いで終わりやすい" },
+        { "icon": "check", "color": "#38bdf8", "title": "戻れる1回", "text": "切れずに続く" },
+        { "icon": "check", "color": "#4ade80", "title": "結果", "text": "未来の筋肉が積み上がる" }
+      ],
+      "footer": "ここで差が出る。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "価値",
+      "title": "筋トレは老後の保険だけじゃない。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "疲れにくい", "icon": "energy", "color": "#ff6d00", "text": "日中が軽い" },
+        { "label": "姿勢が整う", "icon": "graph", "color": "#38bdf8", "text": "見た目も変わる" },
+        { "label": "自己効力感", "icon": "check", "color": "#4ade80", "text": "メンタルも安定" }
+      ],
+      "footer": "今の仕事にも効く。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "差",
+      "title": "10年後に差を作るのは、\n派手さより切れなさ。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "盛りすぎ",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": ["最初は燃える", "すぐ崩れる", "自己嫌悪で止まる"],
+      "rightTitle": "週2固定",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": ["現実に回る", "切れにくい", "未来に残る"],
+      "footer": "実務で勝つ形。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "今夜、スクワット10回×1セットだけやる。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "check", "color": "#ff6d00", "title": "完璧不要", "text": "1セットで十分" },
+        { "icon": "check", "color": "#38bdf8", "title": "まずやる", "text": "ゼロを抜ける" },
+        { "icon": "check", "color": "#4ade80", "title": "次につながる", "text": "週2の第一歩" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}

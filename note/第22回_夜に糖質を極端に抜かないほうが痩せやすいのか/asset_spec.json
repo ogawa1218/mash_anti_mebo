@@ -1,0 +1,333 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "夜の糖質は",
+      "line2": "ゼロにしない方が",
+      "line3": "続きやすい",
+      "eyebrow": "NIGHT MEAL DESIGN",
+      "badge": "第22回｜夜食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "E判定メタボ男性の“続けられる”夜食設計"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "夜の主食ゼロで",
+      "line2": "崩れる人は",
+      "line3": "かなり多い",
+      "eyebrow": "NIGHT MEAL DESIGN",
+      "badge": "第22回｜夜食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "量・質・時間で整える"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "勝つのは",
+      "line2": "完璧な制限より",
+      "line3": "崩れない設計",
+      "eyebrow": "NIGHT MEAL DESIGN",
+      "badge": "第22回｜夜食設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "夜の糖質ゼロ礼賛を修正する回"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_夜の糖質ゼロで崩れる流れ",
+      "title": "夜の糖質ゼロで崩れる人は、この流れに入りやすい",
+      "bodyHtml": "<div style='position:absolute;left:72px;top:180px;display:flex;gap:18px;align-items:center;'><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>夕方</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>空腹が強い</div></div><div style='font-size:44px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>糖質ゼロをやる</div></div><div style='font-size:44px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>食後</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>満足感が弱い</div></div><div style='font-size:44px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>深夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>追加で崩れる</div></div></div>"
+    },
+    {
+      "name": "figure_02_適正な夜食設計",
+      "title": "夜はゼロか100ではなく、軽めに整える",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:170px;width:300px;height:280px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>主食</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:18px;'>もち麦ごはん<br>100〜150g</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>玄米、蕎麦、芋類でもOK</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:280px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>たんぱく質</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:18px;'>魚、鶏肉、卵、豆腐</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>満足感を作る本体</div></div><div class='panel' style='position:absolute;right:90px;top:170px;width:300px;height:280px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>補助</div><div style='font-size:34px;font-weight:900;line-height:1.3;margin-top:18px;'>汁物と野菜</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>崩れにくい食後を作りやすい</div></div>"
+    },
+    {
+      "name": "figure_03_避けたい夜の組み合わせ",
+      "title": "避けたいのは、糖質そのものより崩れやすい組み合わせ",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:86px;top:180px;width:250px;height:220px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>ラーメン</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>精製糖質<br>＋脂質</div></div><div style='position:absolute;left:372px;top:258px;font-size:54px;font-weight:900;color:#38bdf8;'>×</div><div class='panel' style='position:absolute;left:470px;top:180px;width:250px;height:220px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>丼大盛り</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>量が過剰に<br>なりやすい</div></div><div style='position:absolute;left:756px;top:258px;font-size:54px;font-weight:900;color:#4ade80;'>×</div><div class='panel' style='position:absolute;right:86px;top:180px;width:250px;height:220px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>菓子パン</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:16px;'>満足感が<br>短い</div></div><div style='position:absolute;left:120px;right:120px;bottom:78px;text-align:center;font-size:24px;font-weight:800;'>「糖質が悪い」ではなく、<span class='orange'>崩れやすい形</span>を減らす方が実務的。</div>"
+    },
+    {
+      "name": "figure_04_実装3ステップ",
+      "title": "忙しい人向け実装は、この3ステップで十分",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>STEP 1</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>白い糖質を<br>少し置き換える</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>白米→もち麦、麺→蕎麦</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>STEP 2</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>夕方に補食を<br>入れておく</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>空腹MAXで夜に入らない</div></div><div class='panel' style='position:absolute;right:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>STEP 3</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>夜のテンプレを<br>固定する</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>主食・たんぱく質・汁物・野菜</div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩",
+      "title": "今日の1歩は、主食ゼロをやめて軽めに整えること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:170px;width:840px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.3;margin-top:20px;'>もち麦ごはん<br>100〜150gにする</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>ゼロではなく、崩れにくい量と質にする。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "導入",
+      "title": "夜の糖質は太る。\nだからゼロにする。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "よくある発想",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "夜の主食を消す",
+        "我慢で乗り切る前提",
+        "短期で数字だけ見る"
+      ],
+      "rightTitle": "現実で多いこと",
+      "rightIcon": "warning",
+      "rightColor": "#38bdf8",
+      "rightItems": [
+        "反動でドカ食い",
+        "深夜のお菓子",
+        "翌朝だるい"
+      ],
+      "footer": "夜の糖質ゼロは、全員の正解ではない。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "結論",
+      "title": "勝つのは、\n完璧な制限より崩れない設計。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        {
+          "icon": "warning",
+          "color": "#ff6d00",
+          "title": "極端ゼロ",
+          "text": "続かない人が多い"
+        },
+        {
+          "icon": "graph",
+          "color": "#38bdf8",
+          "title": "種類と量",
+          "text": "ここを整える"
+        },
+        {
+          "icon": "check",
+          "color": "#4ade80",
+          "title": "継続性",
+          "text": "これが体型を変える"
+        }
+      ],
+      "footer": "極端さより、継続性。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "崩れ方",
+      "title": "E判定メタボ男性は、\nこの流れで崩れやすい。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        {
+          "label": "昼",
+          "icon": "plate",
+          "color": "#ff6d00",
+          "text": "軽すぎる"
+        },
+        {
+          "label": "夕方",
+          "icon": "warning",
+          "color": "#38bdf8",
+          "text": "空腹が強すぎる"
+        },
+        {
+          "label": "夜",
+          "icon": "clock",
+          "color": "#4ade80",
+          "text": "疲れて判断力が落ちる"
+        },
+        {
+          "label": "深夜",
+          "icon": "moon",
+          "color": "#ff6d00",
+          "text": "反動で崩れる"
+        }
+      ],
+      "footer": "意志の問題だけではなく、設計の問題。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "本質",
+      "title": "夜の糖質は、\n悪か善かの二択じゃない。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "label": "軽めに入れる"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "満足感を作る"
+        },
+        {
+          "icon": "moon",
+          "color": "#4ade80",
+          "label": "夜の崩れを減らす"
+        }
+      ],
+      "footer": "抜くか入れるかではなく、崩れにくい形で入れる。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "適正量",
+      "title": "適正な夜の糖質は、\n未精製寄りを軽めに。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "title": "ごはん",
+          "text": "もち麦・玄米を100〜150g"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "title": "麺",
+          "text": "蕎麦を選ぶ"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "title": "芋類",
+          "text": "手のひらサイズ1つ前後"
+        }
+      ],
+      "footer": "ゼロではなく、軽めに整える。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "誤解1",
+      "title": "夜に糖質を食べると、\nすぐ体脂肪になる。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "単純化しすぎ",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "時間帯だけで全部は決まらない",
+        "本体は1日の総量",
+        "積み重ねで体脂肪は決まる"
+      ],
+      "rightTitle": "実務ではこう考える",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "量を整える",
+        "質を選ぶ",
+        "崩れない形にする"
+      ],
+      "footer": "時間帯の善悪より、総量と設計。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "誤解2",
+      "title": "糖質は抜けば抜くほど\n早く痩せる。",
+      "layout": "stat",
+      "accent": "#38bdf8",
+      "icon": "warning",
+      "value": "×",
+      "unit": "全員の正解ではない",
+      "caption": "短期の数字と長期の継続は別",
+      "bullets": [
+        "水分変動も大きい",
+        "続かなければ意味がない",
+        "反動食いが出る人も多い"
+      ],
+      "note": "早く落ちるより、崩れない方が長期では強い。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "誤解3",
+      "title": "夜の糖質は、\n量を気にせず食べていい。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "崩れやすい形",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "ラーメン",
+        "丼大盛り",
+        "菓子パンやスイーツ"
+      ],
+      "rightTitle": "現実的な形",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "軽めのもち麦ごはん",
+        "たんぱく質をつける",
+        "汁物と野菜を足す"
+      ],
+      "footer": "糖質が悪いのではなく、崩れやすい食べ方がきつい。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "実装",
+      "title": "忙しい人向け実装は、\nこの3ステップ。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "白い糖質を少し置き換える",
+          "note": "白米→もち麦、麺→蕎麦。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "夕方に補食を入れる",
+          "note": "ゆで卵、無糖ヨーグルト、ナッツ少量。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "夜のテンプレを固定する",
+          "note": "主食・たんぱく質・汁物・野菜。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "空腹MAXで夜に入らない",
+          "note": "これだけで崩れがかなり減る。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "極端な制限より、迷わない夜を作る。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "今夜の主食をゼロにせず、\n軽めに整える。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "label": "もち麦ごはん100〜150g"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "たんぱく質1品"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "label": "汁物と野菜"
+        }
+      ],
+      "footer": "完璧な制限より、崩れにくい夜食設計へ。"
+    }
+  ]
+}
+
+

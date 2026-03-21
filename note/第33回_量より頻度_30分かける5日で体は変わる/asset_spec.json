@@ -1,0 +1,226 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "量より",
+      "line2": "頻度で",
+      "line3": "勝て",
+      "eyebrow": "WALKING SYSTEM",
+      "badge": "第33回｜運動設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "30分×5日が戻れる運動設計"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "30分×5日で",
+      "line2": "体は",
+      "line3": "変わる",
+      "eyebrow": "WALKING SYSTEM",
+      "badge": "第33回｜運動設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "長い1回より短い高頻度"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "運動は",
+      "line2": "戻れる人が",
+      "line3": "勝つ",
+      "eyebrow": "WALKING SYSTEM",
+      "badge": "第33回｜運動設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜5年維持",
+      "note": "火水金土日30分速歩"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_週末まとめ型の失敗パターン",
+      "title": "週末まとめ型は、平日ゼロとセットになりやすい",
+      "bodyHtml": "<div style='position:absolute;left:110px;top:190px;display:flex;gap:26px;'><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>平日</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>疲れてできない<br>後回しにする</div></div><div style='font-size:58px;font-weight:900;color:#ff6d00;margin-top:78px;'>→</div><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>週末</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>まとめて頑張る<br>でも予定が入る</div></div><div style='font-size:58px;font-weight:900;color:#38bdf8;margin-top:78px;'>→</div><div class='panel' style='width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>結果</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>今週ゼロ<br>また来週から</div></div></div>"
+    },
+    {
+      "name": "figure_02_頻度が戻る接点を増やす",
+      "title": "長い1回より、短い複数回のほうが戻る接点が多い",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:90px;top:180px;width:470px;height:300px;padding:28px;border-color:#ff6d0055;'><div class='orange' style='font-size:28px;font-weight:900;'>週1回型</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>1回抜ける<br>↓<br>その週ゼロ<br>↓<br>戻りにくい</div></div><div class='panel' style='position:absolute;right:90px;top:180px;width:470px;height:300px;padding:28px;border-color:#4ade8055;box-shadow:0 0 34px #4ade8022;'><div class='green' style='font-size:28px;font-weight:900;'>週5回型</div><div style='font-size:30px;font-weight:900;line-height:1.7;margin-top:18px;'>1回抜ける<br>↓<br>翌日また戻せる<br>↓<br>流れが切れにくい</div></div>"
+    },
+    {
+      "name": "figure_03_火水金土日30分テンプレ",
+      "title": "火水金土日30分速歩。月木OFFの運動テンプレ",
+      "bodyHtml": "<div style='position:absolute;left:90px;top:200px;display:flex;gap:18px;'><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#66666655;'><div class='muted' style='font-size:20px;font-weight:900;'>月</div><div style='font-size:34px;font-weight:900;margin-top:48px;'>OFF</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#38bdf855;'><div class='blue' style='font-size:20px;font-weight:900;'>火</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分<br>速歩</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#38bdf855;'><div class='blue' style='font-size:20px;font-weight:900;'>水</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分<br>速歩</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#66666655;'><div class='muted' style='font-size:20px;font-weight:900;'>木</div><div style='font-size:34px;font-weight:900;margin-top:48px;'>OFF</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#ff6d0055;'><div class='orange' style='font-size:20px;font-weight:900;'>金</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分<br>速歩</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#4ade8055;'><div class='green' style='font-size:20px;font-weight:900;'>土</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分<br>速歩</div></div><div class='panel' style='width:130px;height:200px;padding:18px;border-color:#4ade8055;'><div class='green' style='font-size:20px;font-weight:900;'>日</div><div style='font-size:28px;font-weight:900;line-height:1.5;margin-top:34px;'>30分<br>速歩</div></div></div>"
+    },
+    {
+      "name": "figure_04_無理な日の戻り方",
+      "title": "無理な日の正解は、「外に出るだけ」で連鎖を切らないこと",
+      "bodyHtml": "<div style='position:absolute;left:120px;top:200px;display:flex;gap:24px;align-items:center;'><div class='panel' style='width:280px;height:190px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>無理な日</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>歩けない<br>時間がない</div></div><div style='font-size:52px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:280px;height:190px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>最低ライン</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>外に出るだけ<br>5分でもOK</div></div><div style='font-size:52px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:280px;height:190px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>翌日</div><div style='font-size:32px;font-weight:900;line-height:1.45;margin-top:18px;'>通常メニューへ<br>すぐ戻す</div></div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩_30分速歩を予定化",
+      "title": "今日の1歩は、「火水金土日30分速歩」を先に予定化すること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:210px;top:175px;width:860px;height:270px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.28;margin-top:18px;'>来週のカレンダーに\n火水金土日 30分速歩を入れる</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>時間ができたらやる、ではなく先に生活へ埋め込む。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "量より頻度。\n30分×5日のほうが勝ちやすい。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "clock", "color": "#ff6d00", "label": "短い" },
+        { "icon": "check", "color": "#38bdf8", "label": "戻りやすい" },
+        { "icon": "graph", "color": "#4ade80", "label": "続く" }
+      ],
+      "footer": "忙しい人ほど、長い1回より短い高頻度。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "失敗",
+      "title": "昔の僕は、\n週末まとめてやるかゼロかだった。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        { "label": "平日", "icon": "warning", "color": "#ff6d00", "text": "疲れてゼロ" },
+        { "label": "週末", "icon": "energy", "color": "#38bdf8", "text": "まとめて頑張る" },
+        { "label": "結果", "icon": "graph", "color": "#4ade80", "text": "続かない" }
+      ],
+      "footer": "イベント化すると崩れやすい。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "テンプレ",
+      "title": "今の結論は、\n火水金土日30分速歩。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "clock", "color": "#ff6d00", "title": "月", "text": "OFF" },
+        { "icon": "check", "color": "#38bdf8", "title": "火水", "text": "30分速歩" },
+        { "icon": "graph", "color": "#4ade80", "title": "金土日", "text": "30分速歩" }
+      ],
+      "footer": "月木は抜いて、戻りやすくする。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "理由",
+      "title": "頻度が強いのは、\n戻る接点が増えるから。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "週1回型",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "1回抜けるとその週ゼロ",
+        "戻るきっかけが少ない",
+        "イベント化しやすい"
+      ],
+      "rightTitle": "週5回型",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "1回抜けても明日戻せる",
+        "接点が多い",
+        "生活に埋め込みやすい"
+      ],
+      "footer": "復帰のしやすさが差になる。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "重要",
+      "title": "最初から盛らない。\n速歩だけで完成でいい。",
+      "layout": "checklist",
+      "accent": "#ff6d00",
+      "items": [
+        { "label": "まずは速歩だけ", "note": "最初から階段も筋トレも足さない", "color": "#ff6d00" },
+        { "label": "余裕がある日だけ追加", "note": "坂道、階段、スクワット10回", "color": "#38bdf8" },
+        { "label": "70点で切らさない", "note": "毎日100点は狙わない", "color": "#4ade80" }
+      ],
+      "footer": "継続は軽さで決まる。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "無理な日",
+      "title": "本当に強いのは、\nできない日のルールを持つこと。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        { "icon": "warning", "color": "#ff6d00", "label": "無理" },
+        { "icon": "check", "color": "#38bdf8", "label": "外に出るだけ" },
+        { "icon": "graph", "color": "#4ade80", "label": "翌日戻る" }
+      ],
+      "footer": "ゼロを完全なゼロにしない。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "ルール",
+      "title": "1日抜けてもいい。\nでも2日連続でやめない。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        { "icon": "warning", "color": "#ff6d00", "title": "1日抜ける", "text": "普通にある" },
+        { "icon": "check", "color": "#38bdf8", "title": "翌日戻る", "text": "ここが勝負" },
+        { "icon": "graph", "color": "#4ade80", "title": "連鎖を切らない", "text": "これで続く" }
+      ],
+      "footer": "完璧さより復帰速度。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "変化",
+      "title": "運動した日としない日の差が減ると、\n食欲も気分も暴れにくくなる。",
+      "layout": "timeline",
+      "accent": "#38bdf8",
+      "nodes": [
+        { "label": "頻度が上がる", "icon": "check", "color": "#38bdf8", "text": "生活に戻る" },
+        { "label": "波が整う", "icon": "graph", "color": "#4ade80", "text": "気分と食欲" },
+        { "label": "維持しやすい", "icon": "energy", "color": "#ff6d00", "text": "リバウンドしにくい" }
+      ],
+      "footer": "運動は脂肪だけの話じゃない。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "勝利サイン",
+      "title": "「歩かないと気持ち悪い」\nここまで来たら勝ち。",
+      "layout": "compare",
+      "accent": "#4ade80",
+      "leftTitle": "意志力期",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "やる気がある日だけ動く",
+        "重い予定になる",
+        "抜けると止まる"
+      ],
+      "rightTitle": "習慣期",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "歩くのが普通になる",
+        "やらないと落ち着かない",
+        "生活の一部になる"
+      ],
+      "footer": "そこまで行けばかなり強い。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "来週のカレンダーに、\n火水金土日30分速歩を入れる。",
+      "layout": "cards",
+      "accent": "#38bdf8",
+      "cards": [
+        { "icon": "clock", "color": "#ff6d00", "title": "まず枠を押さえる", "text": "時間ができたらやるにしない" },
+        { "icon": "check", "color": "#38bdf8", "title": "内容は完璧不要", "text": "速歩だけでいい" },
+        { "icon": "graph", "color": "#4ade80", "title": "戻れる人になる", "text": "ここから維持が始まる" }
+      ],
+      "footer": "詳しくはnoteで深掘り。"
+    }
+  ]
+}
+
+

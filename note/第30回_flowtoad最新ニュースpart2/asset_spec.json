@@ -1,0 +1,334 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "flowtoad",
+      "line2": "最新ニュース",
+      "line3": "part2",
+      "eyebrow": "LONGEVITY NEWS",
+      "badge": "第30回｜特別版",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "未来を追い、今日を整える"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "flowtoad",
+      "line2": "最新ニュース",
+      "line3": "part2",
+      "eyebrow": "LONGEVITY NEWS",
+      "badge": "第30回｜特別版",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "未来インパクトと実践優先度を分ける"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "flowtoad",
+      "line2": "最新ニュース",
+      "line3": "part2",
+      "eyebrow": "LONGEVITY NEWS",
+      "badge": "第30回｜特別版",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "夜食を減らす、食事で整える、週3回刺激"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_未来インパクトと実践優先度",
+      "title": "不老長寿ニュースは2軸で整理すると強い",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:80px;top:150px;width:1120px;height:420px;'><div style='position:absolute;left:50%;top:0;bottom:0;width:2px;background:rgba(255,255,255,.12);'></div><div style='position:absolute;left:0;right:0;top:50%;height:2px;background:rgba(255,255,255,.12);'></div><div style='position:absolute;left:36px;top:24px;font-size:22px;font-weight:800;color:#9ca3af;'>今日の実践優先度 ↑</div><div style='position:absolute;right:32px;bottom:18px;font-size:22px;font-weight:800;color:#9ca3af;'>未来インパクト →</div><div class='panel' style='position:absolute;left:70px;top:70px;width:430px;height:120px;border-color:#4ade8055;'><div style='padding:18px 20px;'><div class='green' style='font-size:24px;font-weight:900;'>今すぐやるゾーン</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:10px;'>睡眠<br>食事<br>運動</div></div></div><div class='panel' style='position:absolute;right:70px;top:70px;width:430px;height:120px;border-color:#38bdf855;'><div style='padding:18px 20px;'><div class='blue' style='font-size:24px;font-weight:900;'>二刀流ゾーン</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:10px;'>腸内細菌研究<br>断食の時間設計</div></div></div><div class='panel' style='position:absolute;left:70px;bottom:70px;width:430px;height:120px;border-color:#ff6d0055;'><div style='padding:18px 20px;'><div class='orange' style='font-size:24px;font-weight:900;'>知識として追うゾーン</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:10px;'>ラパマイシン<br>新規老化介入薬</div></div></div><div class='panel' style='position:absolute;right:70px;bottom:70px;width:430px;height:120px;border-color:#ff6d0055;box-shadow:0 0 36px #ff6d0022;'><div style='padding:18px 20px;'><div class='orange' style='font-size:24px;font-weight:900;'>未来インパクト最大</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:10px;'>部分的若返り<br>遺伝子治療</div></div></div></div>"
+    },
+    {
+      "name": "figure_02_睡眠は親玉",
+      "title": "睡眠は、他の行動全部の成功率を上げる親玉",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:220px;border-color:#38bdf855;display:flex;flex-direction:column;align-items:center;justify-content:center;'><div class='blue' style='font-size:30px;font-weight:900;'>睡眠</div><div style='font-size:56px;font-weight:900;margin-top:10px;'>7h</div><div class='muted' style='font-size:18px;margin-top:8px;'>土台の土台</div></div><div class='panel' style='position:absolute;left:90px;top:170px;width:250px;height:170px;border-color:#ff6d0055;'><div style='padding:24px;'><div class='orange' style='font-size:24px;font-weight:900;'>食欲安定</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:12px;'>夜のドカ食いを<br>減らしやすい</div></div></div><div class='panel' style='position:absolute;right:90px;top:170px;width:250px;height:170px;border-color:#4ade8055;'><div style='padding:24px;'><div class='green' style='font-size:24px;font-weight:900;'>運動実行</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:12px;'>日中に<br>動きやすい</div></div></div><div class='panel' style='position:absolute;left:240px;bottom:100px;width:250px;height:170px;border-color:#38bdf855;'><div style='padding:24px;'><div class='blue' style='font-size:24px;font-weight:900;'>集中力</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:12px;'>仕事も判断も<br>崩れにくい</div></div></div><div class='panel' style='position:absolute;right:240px;bottom:100px;width:250px;height:170px;border-color:#ff6d0055;'><div style='padding:24px;'><div class='orange' style='font-size:24px;font-weight:900;'>回復</div><div style='font-size:28px;font-weight:900;line-height:1.4;margin-top:12px;'>翌日に戻る力を<br>作る</div></div></div>"
+    },
+    {
+      "name": "figure_03_腸の実装4本柱",
+      "title": "腸活の正体は、派手な菌名より4本柱",
+      "bodyHtml": "<div style='position:absolute;left:88px;top:170px;display:flex;gap:20px;'><div class='panel' style='width:250px;height:260px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>1</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:14px;'>食物繊維を<br>増やす</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>もち麦、豆、海藻、野菜、果物</div></div><div class='panel' style='width:250px;height:260px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>2</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:14px;'>発酵食品を<br>入れる</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>納豆、味噌、ヨーグルトなど</div></div><div class='panel' style='width:250px;height:260px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>3</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:14px;'>超加工食品を<br>減らす</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>腸に入る原料を変える</div></div><div class='panel' style='width:250px;height:260px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>4</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:14px;'>食べる時間を<br>整える</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:16px;'>腸の24時間アラームを乱しにくい</div></div></div>"
+    },
+    {
+      "name": "figure_04_断食研究の正しい距離感",
+      "title": "断食研究の最新整理：時間だけでは足りない",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:80px;top:170px;width:520px;height:320px;'><div style='padding:28px;'><div class='blue' style='font-size:28px;font-weight:900;margin-bottom:14px;'>効きやすいところ</div><div style='font-size:26px;line-height:1.8;font-weight:700;'>・食べる時間を整える<br>・間食を減らす<br>・夜食を減らす<br>・体内リズムを整えやすい</div></div></div><div class='panel' style='position:absolute;right:80px;top:170px;width:520px;height:320px;'><div style='padding:28px;'><div class='orange' style='font-size:28px;font-weight:900;margin-bottom:14px;'>過信しないところ</div><div style='font-size:26px;line-height:1.8;font-weight:700;'>・時間だけで脂肪が大きく落ちる<br>・食の質が悪くても帳消し<br>・総量を無視していい</div></div></div><div style='position:absolute;left:140px;right:140px;bottom:72px;text-align:center;font-size:24px;font-weight:800;'>断食は<span class='blue'>武器</span>。でも<span class='orange'>万能薬ではない</span>。</div>"
+    },
+    {
+      "name": "figure_05_今日からの3アクション",
+      "title": "ニュースを“知った”で終わらせない3アクション",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:100px;top:180px;width:300px;height:240px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>ACTION 1</div><div style='font-size:34px;font-weight:900;line-height:1.35;margin-top:16px;'>夜食を<br>1回減らす</div></div><div class='panel' style='position:absolute;left:490px;top:180px;width:300px;height:240px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>ACTION 2</div><div style='font-size:34px;font-weight:900;line-height:1.35;margin-top:16px;'>たんぱく質は<br>食事で整える</div></div><div class='panel' style='position:absolute;right:100px;top:180px;width:300px;height:240px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>ACTION 3</div><div style='font-size:34px;font-weight:900;line-height:1.35;margin-top:16px;'>週3回だけ<br>刺激を入れる</div></div><div style='position:absolute;left:140px;right:140px;bottom:72px;text-align:center;font-size:24px;font-weight:800;'>未来は追う。今日の体は、<span class='green'>この3つ</span>で変える。</div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "不老長寿ニュースは\n2軸で整理すると強い。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "未来インパクト最大",
+      "leftIcon": "energy",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "部分的若返り",
+        "遺伝子治療",
+        "老化介入薬"
+      ],
+      "rightTitle": "今日の実効性最大",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "睡眠",
+        "腸の原料を変える食事",
+        "毎日ちょっと運動"
+      ],
+      "footer": "未来を追う。でも今日の1歩は地味に積む。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "TOP1",
+      "title": "部分的若返り研究。\n時代は動いた、でもまだ入口。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "titleSize": 44,
+      "contentTop": 320,
+      "leftTitle": "言い過ぎ",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "人が全身若返る治療が完成",
+        "もう誰でも受けられる",
+        "今すぐ体に返ってくる"
+      ],
+      "rightTitle": "現実的な理解",
+      "rightIcon": "check",
+      "rightColor": "#38bdf8",
+      "rightItems": [
+        "主戦場はまだ前臨床",
+        "標的を絞る領域から前進",
+        "未来インパクトは最大級"
+      ],
+      "footer": "熱い。でも距離感を間違えない。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "TOP2",
+      "title": "一番すぐ効くのは\nまだ睡眠です。",
+      "layout": "stat",
+      "accent": "#4ade80",
+      "icon": "moon",
+      "value": "7",
+      "unit": "時間目標",
+      "caption": "土台の土台",
+      "bullets": [
+        "食欲を乱しにくい",
+        "代謝を崩しにくい",
+        "中心性肥満リスクも抑えやすい"
+      ],
+      "note": "派手さはない。でも実効性は最上位。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "TOP3",
+      "title": "睡眠は、運動の実行率まで上げる。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        {
+          "icon": "moon",
+          "color": "#38bdf8",
+          "label": "眠れる"
+        },
+        {
+          "icon": "energy",
+          "color": "#4ade80",
+          "label": "日中に動ける"
+        },
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "夜も崩れにくい"
+        },
+        {
+          "icon": "graph",
+          "color": "#38bdf8",
+          "label": "体が変わる"
+        }
+      ],
+      "footer": "運動メニューを増やす前に、就寝時刻を固定する。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "TOP4-6",
+      "title": "腸は、ただの消化袋じゃない。\n代謝の司令室だ。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "titleSize": 44,
+      "contentTop": 320,
+      "cards": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "title": "食物繊維",
+          "text": "腸に入る原料をまず変える。"
+        },
+        {
+          "icon": "plate",
+          "color": "#38bdf8",
+          "title": "発酵食品",
+          "text": "納豆、味噌、ヨーグルトを日常へ。"
+        },
+        {
+          "icon": "clock",
+          "color": "#4ade80",
+          "title": "食べる時間",
+          "text": "腸の24時間アラームも整える。"
+        }
+      ],
+      "footer": "菌名を追う前に、食卓の原料を変える。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "TOP7",
+      "title": "毎日ちょっと動く。\nこれがまだ強い。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "朝10分歩く"
+        },
+        {
+          "icon": "plate",
+          "color": "#38bdf8",
+          "label": "食後10分歩く"
+        },
+        {
+          "icon": "energy",
+          "color": "#4ade80",
+          "label": "週2回だけ筋トレ"
+        }
+      ],
+      "footer": "地味だから続く。続くから効く。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "TOP8",
+      "title": "断食は武器。\nでも万能薬ではない。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "効きやすい",
+      "leftIcon": "check",
+      "leftColor": "#4ade80",
+      "leftItems": [
+        "間食を減らす",
+        "夜食を減らす",
+        "体内リズムを整える"
+      ],
+      "rightTitle": "過信しない",
+      "rightIcon": "warning",
+      "rightColor": "#ff6d00",
+      "rightItems": [
+        "時間だけで脂肪は全部落ちない",
+        "食の質は帳消しにならない",
+        "総量を無視できない"
+      ],
+      "footer": "上手く使う。信仰しない。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "TOP9",
+      "title": "ラパマイシンは期待大。\nでも距離感が命。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "希望",
+      "leftIcon": "energy",
+      "leftColor": "#4ade80",
+      "leftItems": [
+        "動物ではかなり有望",
+        "人でも入口は見えつつある",
+        "老化介入薬として注目"
+      ],
+      "rightTitle": "注意",
+      "rightIcon": "warning",
+      "rightColor": "#ff6d00",
+      "rightItems": [
+        "自己判断で飛びつかない",
+        "副作用や併用を無視しない",
+        "生活土台を飛ばさない"
+      ],
+      "footer": "将来性は高い。今の優先は土台。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "今日の1歩",
+      "title": "ニュースを体の変化に変える\n3アクション。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "夜食を1回減らす",
+          "note": "完璧な断食より、まずここから。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "たんぱく質は食事で整える",
+          "note": "卵、豆腐、魚、納豆を土台にする。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "週3回は少し刺激を入れる",
+          "note": "歩行を土台に、HIITや筋トレを混ぜる。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "まず1週間だけ続ける",
+          "note": "ニュースを知識で終わらせない。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "知るだけじゃなく、やる。ここから差が出る。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "まとめ",
+      "title": "最強戦略は、\n未来を追いながら今日を整えること。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "energy",
+          "color": "#ff6d00",
+          "label": "未来技術を追う"
+        },
+        {
+          "icon": "moon",
+          "color": "#38bdf8",
+          "label": "今日の睡眠を整える"
+        },
+        {
+          "icon": "plate",
+          "color": "#4ade80",
+          "label": "食事を整える"
+        },
+        {
+          "icon": "graph",
+          "color": "#ff6d00",
+          "label": "体が変わる"
+        }
+      ],
+      "footer": "今夜は夜食を1回減らす。まずそこから。"
+    }
+  ]
+}
+
+

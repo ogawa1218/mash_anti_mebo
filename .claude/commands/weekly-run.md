@@ -65,11 +65,18 @@
 
 ---
 
-### STEP 4｜Phase 3：図解生成
+### STEP 4｜Phase 3：素材生成
 
+**4-1. 図解生成**
 `/illustrate` を実行。
 - 今週のnote記事から図解5枚（note用・X用）を生成
 - Podcast用サムネイル（正方形1080×1080）を1枚生成
+
+**4-2. noteサムネイル生成**
+`/note-thumbnail` を実行。
+- 今週公開するnote記事のタイトル/テーマを引数に渡す
+- 3案（問いかけ型・結果型・共感型）を生成
+- 保存先：`note/images/YYYYMMDD_[topic]/thumbnail*.png`
 
 ---
 
@@ -110,6 +117,10 @@
 ### 図解（/illustrate）
 - 生成枚数：〇枚
 - 保存先：images/YYYYMMDD_[topic]/
+
+### noteサムネイル（/note-thumbnail）
+- 生成案数：3案（問いかけ型・結果型・共感型）
+- 保存先：images/YYYYMMDD_[topic]/thumbnail*.png
 
 ---
 
@@ -159,6 +170,7 @@
 ・note記事：[N]本（drafts/に保存）
 ・Podcast台本：1本（Podcast/台本/に保存）
 ・図解PNG：[N]枚（images/に保存）
+・noteサムネイル：3案（images/YYYYMMDD_[topic]/thumbnail*.png）
 
 週次レポート：weekly_reports/weekly_report_YYYYMMDD.md
 

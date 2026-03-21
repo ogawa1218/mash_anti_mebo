@@ -1,0 +1,339 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "24時間で見えた",
+      "line2": "長寿の近道は",
+      "line3": "地味だった",
+      "eyebrow": "LONGEVITY NEWS",
+      "badge": "第23回｜長寿ニュース",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "食べる時間と筋肉が本丸"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "まず変えるのは",
+      "line2": "食べる時間と",
+      "line3": "筋肉です",
+      "eyebrow": "LONGEVITY NEWS",
+      "badge": "第23回｜長寿ニュース",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "E判定メタボ男性の実践戦略"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "派手な若返りより",
+      "line2": "今日効くのは",
+      "line3": "この2つ",
+      "eyebrow": "LONGEVITY NEWS",
+      "badge": "第23回｜長寿ニュース",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "食事時間 × 筋力維持"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_長寿の近道2本柱",
+      "title": "今日いちばん効く長寿の近道は、この2本柱",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:150px;top:180px;width:380px;height:240px;padding:28px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>柱1</div><div style='font-size:44px;font-weight:900;line-height:1.3;margin-top:20px;'>食べる時間</div><div class='muted' style='font-size:22px;line-height:1.6;margin-top:18px;'>就寝3時間前にキッチン終了</div></div><div class='panel' style='position:absolute;right:150px;top:180px;width:380px;height:240px;padding:28px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>柱2</div><div style='font-size:44px;font-weight:900;line-height:1.3;margin-top:20px;'>筋肉を守る</div><div class='muted' style='font-size:22px;line-height:1.6;margin-top:18px;'>脂肪を減らしながら筋力維持</div></div>"
+    },
+    {
+      "name": "figure_02_夜を閉じる意味",
+      "title": "夜を閉じるだけで、翌朝までの流れが変わりやすい",
+      "bodyHtml": "<div style='position:absolute;left:72px;top:180px;display:flex;gap:18px;align-items:center;'><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>食べ終える時間を作る</div></div><div style='font-size:44px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>深夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>血糖と血圧の負担を減らしやすい</div></div><div style='font-size:44px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>翌朝</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>だるさが減りやすい</div></div><div style='font-size:44px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>翌日</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>食欲も崩れにくい</div></div></div>"
+    },
+    {
+      "name": "figure_03_筋肉を守る最小スタート",
+      "title": "筋肉を守る最小スタートは、これで十分",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>STEP 1</div><div style='font-size:34px;font-weight:900;line-height:1.35;margin-top:16px;'>椅子立ち<br>5回</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>週2回でOK</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>STEP 2</div><div style='font-size:34px;font-weight:900;line-height:1.35;margin-top:16px;'>壁腕立て<br>10回</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>器具はいらない</div></div><div class='panel' style='position:absolute;right:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>STEP 3</div><div style='font-size:34px;font-weight:900;line-height:1.35;margin-top:16px;'>回路を<br>切らない</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>完璧より継続</div></div>"
+    },
+    {
+      "name": "figure_04_長寿は総合点",
+      "title": "長寿は、裏ワザ1個ではなく総合点で決まる",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:190px;top:180px;width:900px;height:270px;padding:34px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>LIFE'S ESSENTIAL 8 の考え方</div><div style='display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-top:24px;'><div class='panel' style='padding:14px 16px;border-color:#ff6d0044;font-size:26px;font-weight:900;text-align:center;'>睡眠</div><div class='panel' style='padding:14px 16px;border-color:#38bdf844;font-size:26px;font-weight:900;text-align:center;'>運動</div><div class='panel' style='padding:14px 16px;border-color:#4ade8044;font-size:26px;font-weight:900;text-align:center;'>食事</div><div class='panel' style='padding:14px 16px;border-color:#ff6d0044;font-size:26px;font-weight:900;text-align:center;'>禁煙</div><div class='panel' style='padding:14px 16px;border-color:#38bdf844;font-size:26px;font-weight:900;text-align:center;'>血圧</div><div class='panel' style='padding:14px 16px;border-color:#4ade8044;font-size:26px;font-weight:900;text-align:center;'>脂質</div><div class='panel' style='padding:14px 16px;border-color:#ff6d0044;font-size:26px;font-weight:900;text-align:center;'>血糖</div><div class='panel' style='padding:14px 16px;border-color:#38bdf844;font-size:26px;font-weight:900;text-align:center;'>体重</div></div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩",
+      "title": "今日の1歩は、今夜から7日間のキッチン終了時刻",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:170px;width:840px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.3;margin-top:20px;'>就寝3時間前に<br>キッチン終了</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>まずは7日。食事内容より先に、食べ終える時間を作る。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "長寿の近道は、\n食べる時間と筋肉でした。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "title": "食べる時間",
+          "text": "夜を閉じる"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "title": "筋肉",
+          "text": "落とさない"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "title": "現実解",
+          "text": "今日から変えやすい"
+        }
+      ],
+      "footer": "派手な若返り医療より先に、ここを整える。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "最重要",
+      "title": "まず強いのは、\n就寝3時間前に食べ終えること。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "label": "夜を閉じる"
+        },
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "label": "深夜の負担を減らしやすい"
+        },
+        {
+          "icon": "moon",
+          "color": "#4ade80",
+          "label": "睡眠リズムも整えやすい"
+        }
+      ],
+      "footer": "断食を神格化するより、夜に食べ続けないこと。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "夜",
+      "title": "E判定メタボ男性は、\n夜の崩れが本丸です。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        {
+          "label": "帰宅",
+          "icon": "clock",
+          "color": "#ff6d00",
+          "text": "遅い"
+        },
+        {
+          "label": "体",
+          "icon": "warning",
+          "color": "#38bdf8",
+          "text": "疲れている"
+        },
+        {
+          "label": "食事",
+          "icon": "plate",
+          "color": "#4ade80",
+          "text": "つい食べる"
+        },
+        {
+          "label": "翌朝",
+          "icon": "moon",
+          "color": "#ff6d00",
+          "text": "だるい"
+        }
+      ],
+      "footer": "食べる内容の前に、食べ終える時間を作る。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "本丸",
+      "title": "長寿の本丸は、\n筋肉を落とさないこと。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        {
+          "icon": "graph",
+          "color": "#ff6d00",
+          "title": "血糖",
+          "text": "受け皿になる"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "title": "代謝",
+          "text": "ハブになる"
+        },
+        {
+          "icon": "energy",
+          "color": "#4ade80",
+          "title": "加齢",
+          "text": "崩れにくくする"
+        }
+      ],
+      "footer": "体重だけ落とすのではなく、脂肪を減らしながら筋肉を守る。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "最小スタート",
+      "title": "筋トレは、\nここからで十分です。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "椅子立ち5回"
+        },
+        {
+          "icon": "plate",
+          "color": "#38bdf8",
+          "label": "壁腕立て10回"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "label": "週2回"
+        }
+      ],
+      "footer": "器具なし、ジムなし。まず筋肉を使う回路を切らない。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "5分",
+      "title": "完璧な運動じゃなくていい。\nゼロを抜けることが大事。",
+      "layout": "stat",
+      "accent": "#38bdf8",
+      "icon": "clock",
+      "value": "5",
+      "unit": "分でも価値",
+      "caption": "中強度以上を少し足す",
+      "bullets": [
+        "速歩でもいい",
+        "階段でもいい",
+        "少し息が上がれば十分スタート"
+      ],
+      "note": "運動の理想より、現実にやれる最小単位。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "実装",
+      "title": "運動は、\n生活に埋め込むと残る。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "歯磨き前"
+        },
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "label": "速歩5分"
+        },
+        {
+          "icon": "check",
+          "color": "#4ade80",
+          "label": "歯磨き後"
+        }
+      ],
+      "footer": "気分でやると消える。固定すると残る。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "総合点",
+      "title": "長寿は、\n裏ワザ1個で勝つ話じゃない。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "睡眠",
+          "note": "食欲と運動の土台。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "食事時間",
+          "note": "夜を閉じる。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "筋トレ",
+          "note": "筋肉を守る。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "禁煙",
+          "note": "人によっては最優先。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "今週は全部ではなく、3つに絞る方が続く。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "腸",
+      "title": "腸は、\n老化の交差点です。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "title": "食事",
+          "text": "だけの話ではない"
+        },
+        {
+          "icon": "moon",
+          "color": "#38bdf8",
+          "title": "睡眠・運動",
+          "text": "ともつながる"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "title": "実務",
+          "text": "発酵食品＋食物繊維"
+        }
+      ],
+      "footer": "高級な腸活より、続く腸活。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "今夜から7日間、\n就寝3時間前にキッチン終了。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "plate",
+          "color": "#ff6d00",
+          "label": "夕食を終える"
+        },
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "label": "夜を閉じる"
+        },
+        {
+          "icon": "moon",
+          "color": "#4ade80",
+          "label": "翌朝を軽くする"
+        }
+      ],
+      "footer": "長寿の近道は、こういう地味な一手から始まる。"
+    }
+  ]
+}
+
+

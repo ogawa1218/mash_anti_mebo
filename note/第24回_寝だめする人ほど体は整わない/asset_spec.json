@@ -1,0 +1,332 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "寝だめするほど",
+      "line2": "体はむしろ",
+      "line3": "整いにくい",
+      "eyebrow": "SLEEP REGULARITY",
+      "badge": "第｜睡眠規則性",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "起床時刻固定が先"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "最初に固定するのは",
+      "line2": "寝る時間より",
+      "line3": "起きる時間",
+      "eyebrow": "SLEEP REGULARITY",
+      "badge": "第｜睡眠規則性",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "E判定メタボ男性の長寿戦略"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "休日の寝だめが",
+      "line2": "月曜を",
+      "line3": "壊している",
+      "eyebrow": "SLEEP REGULARITY",
+      "badge": "第｜睡眠規則性",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "社会的ジェットラグを修正する回"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_寝だめで崩れる流れ",
+      "title": "寝だめは、回復だけでなくリズム崩れも作りやすい",
+      "bodyHtml": "<div style='position:absolute;left:72px;top:180px;display:flex;gap:18px;align-items:center;'><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>平日</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>早起きで無理する</div></div><div style='font-size:44px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>休日</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>遅くまで寝る</div></div><div style='font-size:44px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>日曜夜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>寝つきにくい</div></div><div style='font-size:44px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='width:210px;height:210px;padding:22px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>月曜</div><div style='font-size:30px;font-weight:900;line-height:1.35;margin-top:18px;'>朝が地獄</div></div></div>"
+    },
+    {
+      "name": "figure_02_起床時刻固定の意味",
+      "title": "最初に固定すべきは、寝る時刻より起きる時刻",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:140px;top:180px;width:420px;height:240px;padding:28px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>起床時刻固定</div><div style='font-size:42px;font-weight:900;line-height:1.3;margin-top:18px;'>平日も休日も<br>大きくズラさない</div><div class='muted' style='font-size:20px;line-height:1.6;margin-top:18px;'>6:30でも7:00でもいい。まず決める。</div></div><div style='position:absolute;left:604px;top:260px;font-size:60px;font-weight:900;color:#ff6d00;'>→</div><div class='panel' style='position:absolute;right:140px;top:180px;width:420px;height:240px;padding:28px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>体内時計</div><div style='font-size:42px;font-weight:900;line-height:1.3;margin-top:18px;'>夜の眠気と<br>朝のだるさが整いやすい</div><div class='muted' style='font-size:20px;line-height:1.6;margin-top:18px;'>起床時刻固定と朝の光はセット。</div></div>"
+    },
+    {
+      "name": "figure_03_社会的ジェットラグ",
+      "title": "社会的ジェットラグは、海外に行かなくても起きる",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:120px;top:185px;width:300px;height:240px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;'>平日</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>6:30起床</div><div class='muted' style='font-size:22px;margin-top:18px;'>仕事で固定</div></div><div class='panel' style='position:absolute;left:490px;top:185px;width:300px;height:240px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;'>休日</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>9:30起床</div><div class='muted' style='font-size:22px;margin-top:18px;'>寝だめでズレる</div></div><div class='panel' style='position:absolute;right:120px;top:185px;width:300px;height:240px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;'>結果</div><div style='font-size:40px;font-weight:900;line-height:1.25;margin-top:20px;'>体内時計がズレる</div><div class='muted' style='font-size:22px;margin-top:18px;'>時差ボケのような状態</div></div>"
+    },
+    {
+      "name": "figure_04_実践3ステップ",
+      "title": "忙しい人向け実践は、この3ステップで十分",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;'>STEP 1</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>起床時刻を<br>先に決める</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>平日も休日も大きくズラさない</div></div><div class='panel' style='position:absolute;left:490px;top:170px;width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;'>STEP 2</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>起きたら<br>光を入れる</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>カーテン、ベランダ、外出</div></div><div class='panel' style='position:absolute;right:92px;top:170px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;'>STEP 3</div><div style='font-size:32px;font-weight:900;line-height:1.35;margin-top:16px;'>夜は眠くなったら寝る</div><div class='muted' style='font-size:18px;line-height:1.6;margin-top:18px;'>最初から寝る時刻を縛りすぎない</div></div>"
+    },
+    {
+      "name": "figure_05_今日の1歩",
+      "title": "今日の1歩は、3日間だけ起床時刻を固定すること",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:220px;top:170px;width:840px;height:280px;padding:36px;border-color:#38bdf855;box-shadow:0 0 36px #38bdf822;'><div class='blue' style='font-size:24px;font-weight:900;'>TODAY'S ACTION</div><div style='font-size:52px;font-weight:900;line-height:1.3;margin-top:20px;'>平日も休日も<br>同じ時刻に起きる</div><div class='muted' style='font-size:24px;line-height:1.7;margin-top:22px;'>まず3日。数字より、朝のラクさと夜の眠気を観察する。</div></div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "結論",
+      "title": "寝だめする人ほど、\n体は整いにくい。",
+      "layout": "cards",
+      "accent": "#ff6d00",
+      "cards": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "title": "平日",
+          "text": "寝不足"
+        },
+        {
+          "icon": "moon",
+          "color": "#38bdf8",
+          "title": "休日",
+          "text": "寝だめ"
+        },
+        {
+          "icon": "warning",
+          "color": "#4ade80",
+          "title": "結果",
+          "text": "月曜が重い"
+        }
+      ],
+      "footer": "睡眠は量だけでなく、規則性も重要。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "本質",
+      "title": "本当に大事なのは、\n同じリズムで起きること。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "label": "起床時刻をそろえる"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "体内時計が整いやすい"
+        },
+        {
+          "icon": "moon",
+          "color": "#4ade80",
+          "label": "夜の眠気も整いやすい"
+        }
+      ],
+      "footer": "量だけではなく、規則性。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "社会的ジェットラグ",
+      "title": "体の中だけ、\n時差ボケになる。",
+      "layout": "timeline",
+      "accent": "#ff6d00",
+      "nodes": [
+        {
+          "label": "平日",
+          "icon": "clock",
+          "color": "#ff6d00",
+          "text": "6:30起床"
+        },
+        {
+          "label": "休日",
+          "icon": "moon",
+          "color": "#38bdf8",
+          "text": "9:30起床"
+        },
+        {
+          "label": "夜",
+          "icon": "warning",
+          "color": "#4ade80",
+          "text": "寝つきにくい"
+        },
+        {
+          "label": "月曜",
+          "icon": "graph",
+          "color": "#ff6d00",
+          "text": "朝が重い"
+        }
+      ],
+      "footer": "海外に行っていなくても、体内時計はズレる。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "研究",
+      "title": "長く寝たかだけじゃなく、\n同じリズムで起きていたか。",
+      "layout": "stat",
+      "accent": "#4ade80",
+      "icon": "graph",
+      "value": "規則性",
+      "unit": "が重要",
+      "caption": "UK Biobank の加速度計研究",
+      "bullets": [
+        "睡眠の規則性が高い人ほど",
+        "全死亡、心血管死亡、がん死亡リスクが低い関連",
+        "量だけでは見えない差がある"
+      ],
+      "note": "睡眠時間は大事。そのうえでリズムも見る。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "E判定男性",
+      "title": "この層で多いのは、\n睡眠だけで終わらない崩れ。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "朝がだるい",
+          "note": "起きるだけで重い。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "朝食が雑になる",
+          "note": "食欲の出方もズレる。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "甘いものとカフェインに寄る",
+          "note": "日中の立て直しが雑になる。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "また夜が崩れる",
+          "note": "睡眠、食欲、体重が全部つながる。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "だから、起床時刻固定は睡眠だけの話ではない。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "誤解1",
+      "title": "とにかく長く寝れば、\n健康になる。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "半分正しい",
+      "leftIcon": "check",
+      "leftColor": "#4ade80",
+      "leftItems": [
+        "睡眠時間は大事",
+        "短すぎる睡眠は不利",
+        "量は無視できない"
+      ],
+      "rightTitle": "でも足りない",
+      "rightIcon": "warning",
+      "rightColor": "#ff6d00",
+      "rightItems": [
+        "休日だけ長く寝ても整いにくい",
+        "リズムが崩れていたら不利",
+        "量と規則性の両方が必要"
+      ],
+      "footer": "最初に固定しやすいのは、リズム。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "誤解2",
+      "title": "休日の寝だめで、\n平日の寝不足は全部回収できる。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "感覚では",
+      "leftIcon": "check",
+      "leftColor": "#4ade80",
+      "leftItems": [
+        "少し回復した感じがする",
+        "寝た満足感はある"
+      ],
+      "rightTitle": "代償として",
+      "rightIcon": "warning",
+      "rightColor": "#ff6d00",
+      "rightItems": [
+        "日曜夜に寝つきにくい",
+        "月曜朝が重くなる",
+        "次の1週間を崩しやすい"
+      ],
+      "footer": "回復のつもりが、次週を壊すことがある。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "実践1",
+      "title": "最初に固定すべきは、\n寝る時間より起きる時間。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "title": "6:30",
+          "text": "でもいい"
+        },
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "title": "7:00",
+          "text": "でもいい"
+        },
+        {
+          "icon": "check",
+          "color": "#4ade80",
+          "title": "重要",
+          "text": "平日も休日も大きくズラさない"
+        }
+      ],
+      "footer": "現実に守れそうな時刻を、まず決める。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "実践2",
+      "title": "起床時刻固定は、\n朝の光とセットです。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "カーテンを開ける"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "ベランダに出る"
+        },
+        {
+          "icon": "check",
+          "color": "#4ade80",
+          "label": "通勤で外に出る"
+        }
+      ],
+      "footer": "朝の光は、体内時計の最重要トリガーの1つ。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "今日の1歩",
+      "title": "明日から3日間、\n平日も休日も同じ時刻に起きる。",
+      "layout": "flow",
+      "accent": "#4ade80",
+      "steps": [
+        {
+          "icon": "clock",
+          "color": "#ff6d00",
+          "label": "起床時刻を決める"
+        },
+        {
+          "icon": "check",
+          "color": "#38bdf8",
+          "label": "3日だけ続ける"
+        },
+        {
+          "icon": "graph",
+          "color": "#4ade80",
+          "label": "朝のラクさを見る"
+        }
+      ],
+      "footer": "寝だめで整えるのをやめて、起きる時間で整える。"
+    }
+  ]
+}
+

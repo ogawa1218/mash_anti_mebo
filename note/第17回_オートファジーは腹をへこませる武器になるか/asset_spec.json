@@ -1,0 +1,338 @@
+{
+  "brand": {
+    "fontUrl": "file:///C:/Windows/Fonts/NotoSansJP-VF.ttf",
+    "playwrightPath": "C:/Users/masas/product/2nd-Brain/Health_app/node_modules/playwright",
+    "chromePath": "C:/Program Files/Google/Chrome/Application/chrome.exe",
+    "portraitPath": "C:/Users/masas/product/2nd-Brain/04_アウトプット/Longevity/note/Image/portrait_marcy.png"
+  },
+  "thumbnails": [
+    {
+      "name": "thumbnail_a",
+      "line1": "オートファジーは",
+      "line2": "腹をへこませる",
+      "line3": "武器になるか",
+      "eyebrow": "AUTOPHAGY",
+      "badge": "第17回｜断食と睡眠設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "断食より先に、睡眠を整える"
+    },
+    {
+      "name": "thumbnail_b",
+      "line1": "16時間断食",
+      "line2": "それだけでは",
+      "line3": "痩せません",
+      "eyebrow": "AUTOPHAGY",
+      "badge": "第17回｜断食と睡眠設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "魔法の境界線ではない"
+    },
+    {
+      "name": "thumbnail_c",
+      "line1": "断食より先に",
+      "line2": "固定すべきは",
+      "line3": "睡眠です",
+      "eyebrow": "AUTOPHAGY",
+      "badge": "第17回｜断食と睡眠設計",
+      "footerName": "マーシー",
+      "footerSub": "100kg→68kg(-32kg)｜Sub3 Runner",
+      "note": "スーツぶかぶかへの現実設計"
+    }
+  ],
+  "figures": [
+    {
+      "name": "figure_01_オートファジーを腹の話に翻訳",
+      "title": "オートファジーを腹の話に翻訳するとこうなる",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:78px;top:160px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;margin-bottom:12px;'>入力過多</div><div style='font-size:28px;font-weight:900;line-height:1.45;'>夜遅い食事<br>寝不足<br>だらだら間食</div></div><div style='position:absolute;left:422px;top:248px;font-size:54px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='position:absolute;left:500px;top:160px;width:300px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;margin-bottom:12px;'>処理優先</div><div style='font-size:28px;font-weight:900;line-height:1.45;'>ずっと食べる<br>空腹感が乱れる<br>夜食へ流れる</div></div><div style='position:absolute;left:844px;top:248px;font-size:54px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='position:absolute;right:78px;top:160px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:24px;font-weight:900;margin-bottom:12px;'>現実解</div><div style='font-size:28px;font-weight:900;line-height:1.45;'>食事間隔を取る<br>夜食を減らす<br>睡眠を守る</div></div><div style='position:absolute;left:120px;right:120px;bottom:72px;text-align:center;font-size:24px;font-weight:800;'>神秘化するな。<span class='orange'>掃除の時間</span>を生活の中に確保する。</div>"
+    },
+    {
+      "name": "figure_02_12h14h16hの考え方",
+      "title": "12時間・14時間・16時間の現実的な考え方",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:82px;top:158px;width:320px;height:300px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:24px;font-weight:900;margin-bottom:14px;'>12時間</div><div style='font-size:34px;font-weight:900;line-height:1.35;'>まず整える</div><div class='muted' style='font-size:20px;line-height:1.7;margin-top:18px;'>夜食を止める<br>生活リズムを戻す<br>ほぼ全員が始めやすい</div></div><div class='panel' style='position:absolute;left:480px;top:138px;width:320px;height:340px;padding:24px;border-color:#4ade8055;box-shadow:0 0 36px #4ade8022;'><div class='green' style='font-size:24px;font-weight:900;margin-bottom:14px;'>14時間</div><div style='font-size:34px;font-weight:900;line-height:1.35;'>変わる人が増える</div><div class='muted' style='font-size:20px;line-height:1.7;margin-top:18px;'>間食が減る<br>空腹感が整う<br>実務ではかなり強い</div></div><div class='panel' style='position:absolute;right:82px;top:158px;width:320px;height:300px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:24px;font-weight:900;margin-bottom:14px;'>16時間</div><div style='font-size:34px;font-weight:900;line-height:1.35;'>合う人には武器</div><div class='muted' style='font-size:20px;line-height:1.7;margin-top:18px;'>魔法ではない<br>無理なら押さない<br>続く人だけ採用</div></div><div style='position:absolute;left:120px;right:120px;bottom:70px;text-align:center;font-size:24px;font-weight:800;'>16時間が偉いのではない。<span class='green'>続く時間</span>が正解。</div>"
+    },
+    {
+      "name": "figure_03_合う人合わない人",
+      "title": "朝食を遅らせる型が合う人・合わない人",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:70px;top:150px;width:520px;height:360px;'><div style='padding:28px;'><div class='green' style='font-size:28px;font-weight:900;margin-bottom:16px;'>合いやすい人</div><div style='font-size:24px;line-height:1.8;font-weight:700;'>・朝は空腹が弱い<br>・朝食で眠くなりやすい<br>・午前中に集中したい<br>・昼前の菓子パン習慣を切りたい</div></div></div><div class='panel' style='position:absolute;right:70px;top:150px;width:520px;height:360px;'><div style='padding:28px;'><div class='orange' style='font-size:28px;font-weight:900;margin-bottom:16px;'>合いにくい人</div><div style='font-size:24px;line-height:1.8;font-weight:700;'>・空腹でふらつく<br>・朝から立ち仕事が重い<br>・朝のパフォーマンスが落ちる<br>・治療中で医学的に注意が必要</div></div></div><div style='position:absolute;left:110px;right:110px;bottom:72px;text-align:center;font-size:22px;font-weight:800;'>時間を真似するな。<span class='blue'>生活にハマるか</span>で決める。</div>"
+    },
+    {
+      "name": "figure_04_夜の設計",
+      "title": "腹を変える人が先に整えるのは夜",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:88px;top:168px;width:300px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;margin-bottom:10px;'>失敗</div><div style='font-size:30px;font-weight:900;line-height:1.35;'>夜をゼロ固定<br>→ 22時に崩れる</div></div><div style='position:absolute;left:430px;top:250px;font-size:54px;font-weight:900;color:#38bdf8;'>→</div><div class='panel' style='position:absolute;left:510px;top:148px;width:300px;height:290px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;margin-bottom:10px;'>現実解</div><div style='font-size:30px;font-weight:900;line-height:1.35;'>夕食で<br>主食を適量<br>夜食に流れない</div></div><div style='position:absolute;left:852px;top:250px;font-size:54px;font-weight:900;color:#4ade80;'>→</div><div class='panel' style='position:absolute;right:88px;top:168px;width:300px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;margin-bottom:10px;'>結果</div><div style='font-size:30px;font-weight:900;line-height:1.35;'>睡眠が崩れにくい<br>翌日の食欲も安定</div></div><div style='position:absolute;left:120px;right:120px;bottom:70px;text-align:center;font-size:24px;font-weight:800;'>夜の目的は<span class='orange'>ゼロ化</span>ではなく、<span class='green'>夜食を防ぐこと</span>。</div>"
+    },
+    {
+      "name": "figure_05_飲み会の勝ちパターン",
+      "title": "飲み会で崩れても、翌日に戻れる人が勝つ",
+      "bodyHtml": "<div class='panel' style='position:absolute;left:84px;top:164px;width:330px;height:250px;padding:24px;border-color:#ff6d0055;'><div class='orange' style='font-size:22px;font-weight:900;margin-bottom:12px;'>STEP 1</div><div style='font-size:32px;font-weight:900;line-height:1.35;'>酒は<br>最初の1杯だけ</div></div><div class='panel' style='position:absolute;left:475px;top:164px;width:330px;height:250px;padding:24px;border-color:#38bdf855;'><div class='blue' style='font-size:22px;font-weight:900;margin-bottom:12px;'>STEP 2</div><div style='font-size:32px;font-weight:900;line-height:1.35;'>デザートは<br>触らない</div></div><div class='panel' style='position:absolute;right:84px;top:164px;width:330px;height:250px;padding:24px;border-color:#4ade8055;'><div class='green' style='font-size:22px;font-weight:900;margin-bottom:12px;'>STEP 3</div><div style='font-size:32px;font-weight:900;line-height:1.35;'>帰りは<br>歩いて帰る</div></div><div style='position:absolute;left:110px;right:110px;bottom:74px;text-align:center;font-size:24px;font-weight:800;'>完璧主義ではなく、<span class='blue'>翌日に戻れる設計</span>が勝ち筋。</div>"
+    }
+  ],
+  "xCards": [
+    {
+      "name": "x_card_01",
+      "kicker": "誤解",
+      "title": "16時間断食。\nそれだけでは勝てない。",
+      "layout": "compare",
+      "accent": "#ff6d00",
+      "leftTitle": "雑な理解",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "16時間なら自動で痩せる",
+        "時間だけ守ればいい",
+        "寝不足でも関係ない"
+      ],
+      "rightTitle": "現実的な理解",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "断食は入口にすぎない",
+        "夜食と睡眠も含めて設計する",
+        "続けられる時間が正解"
+      ],
+      "footer": "腹を変える勝負は、時間だけでは決まらない。"
+    },
+    {
+      "name": "x_card_02",
+      "kicker": "翻訳",
+      "title": "オートファジーを\n腹の話に翻訳する。",
+      "layout": "flow",
+      "accent": "#38bdf8",
+      "steps": [
+        {
+          "icon": "warning",
+          "color": "#ff6d00",
+          "label": "ずっと食べる"
+        },
+        {
+          "icon": "plate",
+          "color": "#38bdf8",
+          "label": "夜食が増える"
+        },
+        {
+          "icon": "moon",
+          "color": "#4ade80",
+          "label": "睡眠が崩れる"
+        },
+        {
+          "icon": "graph",
+          "color": "#ff6d00",
+          "label": "腹が戻る"
+        }
+      ],
+      "footer": "掃除の時間を作る生活設計が本体。"
+    },
+    {
+      "name": "x_card_03",
+      "kicker": "実務",
+      "title": "12時間。\n14時間。\n16時間。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "cards": [
+        {
+          "icon": "clock",
+          "color": "#38bdf8",
+          "title": "12時間",
+          "text": "夜食を止めて、まず整える。"
+        },
+        {
+          "icon": "energy",
+          "color": "#4ade80",
+          "title": "14時間",
+          "text": "変わる人が増える、実務の本命。"
+        },
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "title": "16時間",
+          "text": "合う人には武器。でも全員には押さない。"
+        }
+      ],
+      "footer": "16時間が偉いのではない。続く時間が正解。"
+    },
+    {
+      "name": "x_card_04",
+      "kicker": "相性",
+      "title": "朝食を遅らせる型。\n合う人と合わない人。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "leftTitle": "合いやすい人",
+      "leftIcon": "check",
+      "leftColor": "#4ade80",
+      "leftItems": [
+        "朝は空腹が弱い",
+        "朝食で眠くなる",
+        "午前中に集中したい"
+      ],
+      "rightTitle": "無理しない人",
+      "rightIcon": "warning",
+      "rightColor": "#ff6d00",
+      "rightItems": [
+        "空腹でふらつく",
+        "朝の仕事が重い",
+        "治療中で注意が必要"
+      ],
+      "footer": "時間を真似するな。生活にハマるかで決める。"
+    },
+    {
+      "name": "x_card_05",
+      "kicker": "土台",
+      "title": "腹を変えたいなら\n断食より先に睡眠。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "moon",
+          "color": "#ff6d00",
+          "label": "睡眠不足"
+        },
+        {
+          "icon": "warning",
+          "color": "#38bdf8",
+          "label": "夜食が増える"
+        },
+        {
+          "icon": "clock",
+          "color": "#4ade80",
+          "label": "翌日も眠い"
+        },
+        {
+          "icon": "graph",
+          "color": "#ff6d00",
+          "label": "腹が戻る"
+        }
+      ],
+      "footer": "最短ルートは、まず寝る時刻を固定すること。"
+    },
+    {
+      "name": "x_card_06",
+      "kicker": "夜",
+      "title": "夜の炭水化物ゼロ。\nそれが正義とは限らない。",
+      "layout": "compare",
+      "accent": "#38bdf8",
+      "titleSize": 44,
+      "contentTop": 322,
+      "leftTitle": "失敗パターン",
+      "leftIcon": "warning",
+      "leftColor": "#ff6d00",
+      "leftItems": [
+        "夕食を削りすぎる",
+        "22時にお菓子へ流れる",
+        "睡眠まで崩れる"
+      ],
+      "rightTitle": "現実解",
+      "rightIcon": "check",
+      "rightColor": "#4ade80",
+      "rightItems": [
+        "夕食で主食を適量入れる",
+        "夜食の暴走を防ぐ",
+        "翌日の食欲を安定させる"
+      ],
+      "footer": "夜の目的はゼロ化ではなく、夜食を防ぐこと。"
+    },
+    {
+      "name": "x_card_07",
+      "kicker": "飲み会",
+      "title": "飲み会の勝ちパターンは\n3つだけ。",
+      "layout": "flow",
+      "accent": "#ff6d00",
+      "steps": [
+        {
+          "icon": "check",
+          "color": "#ff6d00",
+          "label": "最初の1杯だけ"
+        },
+        {
+          "icon": "warning",
+          "color": "#38bdf8",
+          "label": "デザートは触らない"
+        },
+        {
+          "icon": "clock",
+          "color": "#4ade80",
+          "label": "帰りは歩く"
+        }
+      ],
+      "footer": "本質は、翌日に戻れる設計にしていること。"
+    },
+    {
+      "name": "x_card_08",
+      "kicker": "本質",
+      "title": "崩れない人が勝つ。\nではない。",
+      "layout": "stat",
+      "accent": "#4ade80",
+      "icon": "graph",
+      "value": "1",
+      "unit": "日で戻す",
+      "caption": "被害を週末まで広げない",
+      "bullets": [
+        "イベントはゼロにできない。",
+        "でも、翌日に戻るルールは作れる。",
+        "戻れる人の方が、長期では強い。"
+      ],
+      "note": "断食でも睡眠でも同じ。完璧主義より復帰力。"
+    },
+    {
+      "name": "x_card_09",
+      "kicker": "今日の1歩",
+      "title": "今日からやるのは\n睡眠7時間の設計。",
+      "layout": "checklist",
+      "accent": "#38bdf8",
+      "items": [
+        {
+          "label": "寝る時刻を決める",
+          "note": "最初に固定すべきはここ。",
+          "color": "#ff6d00"
+        },
+        {
+          "label": "夜食の入り口を減らす",
+          "note": "22時以降のだらだら食いを止める。",
+          "color": "#38bdf8"
+        },
+        {
+          "label": "まず12時間を作る",
+          "note": "16時間より先に土台を整える。",
+          "color": "#4ade80"
+        },
+        {
+          "label": "翌日に戻る",
+          "note": "崩れてもその日に自己嫌悪で終わらない。",
+          "color": "#ff6d00"
+        }
+      ],
+      "footer": "断食を盛る前に、生活を固定する。"
+    },
+    {
+      "name": "x_card_10",
+      "kicker": "安全",
+      "title": "断食が合わない人もいる。\nここは押し切らない。",
+      "layout": "cards",
+      "accent": "#4ade80",
+      "titleSize": 44,
+      "contentTop": 316,
+      "cards": [
+        {
+          "icon": "warning",
+          "color": "#ff6d00",
+          "title": "糖尿病治療中",
+          "text": "食事間隔の変更は主治医の指示を優先。"
+        },
+        {
+          "icon": "warning",
+          "color": "#38bdf8",
+          "title": "服薬中・妊娠中",
+          "text": "自己流で断食を始めない。"
+        },
+        {
+          "icon": "warning",
+          "color": "#4ade80",
+          "title": "摂食障害の既往",
+          "text": "断食より先に安全性の確認が必要。"
+        }
+      ],
+      "footer": "不安がある人は、まず睡眠改善から。"
+    }
+  ]
+}
+
+
