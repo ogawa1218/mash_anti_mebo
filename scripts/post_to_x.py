@@ -3,23 +3,32 @@
 X投稿支援スクリプト
 
 使い方:
-    python scripts/post_to_x.py note/20260310_トピック名/ --url https://note.com/longevity_navi/n/xxxxx
+    python scripts/post_to_x.py note/第N回_トピック名/ --url https://note.com/longevity_navi/n/xxxxx
 
 機能:
-    - X告知文を読み込み
+    - X投稿ファイルを自動検出（*X投稿*.md）
     - noteURLを自動挿入
     - 投稿テキストを1つずつ表示
     - コピペしやすい形式で出力
 """
 
 import sys
+import re
 import argparse
 from pathlib import Path
 import time
 
+def find_x_file(note_dir: Path) -> Path:
+    """X投稿ファイルを自動検出（*X投稿*.md または *X告知文*.md）"""
+    for pattern in ["*X投稿*.md", "*X告知文*.md", "*x_post*.md"]:
+        matches = list(note_dir.glob(pattern))
+        if matches:
+            return matches[0]
+    return None
+
 def load_x_posts(note_dir: Path, note_url: str):
     """
-    X告知文を読み込み、noteURLを挿入
+    X投稿ファイルを読み込み、noteURLを挿入
 
     Args:
         note_dir: noteディレクトリのパス
@@ -27,27 +36,75 @@ def load_x_posts(note_dir: Path, note_url: str):
 
     Returns:
         dict: {
-            'single': 1投稿版,
+            'single': CTAポスト（最終投稿）,
             'thread': [1/10, 2/10, ..., 10/10]
         }
     """
-    x_file = note_dir / "X告知文.md"
+    x_file = find_x_file(note_dir)
 
-    if not x_file.exists():
-        print(f"❌ エラー: {x_file} が見つかりません")
+    if x_file is None:
+        print(f"❌ エラー: {note_dir} にX投稿ファイルが見つかりません")
+        print("  対象: *X投稿*.md, *X告知文*.md")
         sys.exit(1)
+
+    print(f"📄 ファイル検出: {x_file.name}")
 
     with open(x_file, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # 1投稿版を抽出
-    single_match = content.split("## 1投稿版")[1].split("---")[0]
-    single_post = single_match.strip().replace("[note URL]", note_url)
+    # 形式A: ## 投稿N/10｜テーマ + コードブロック（最新形式）
+    thread_posts = _parse_thread_format(content)
 
-    # 10連スレッドを抽出
+    # 形式B: ## 10連スレッド版 + ### N/10（旧形式）
+    if not thread_posts and "## 10連スレッド版" in content:
+        thread_posts = _parse_legacy_format(content)
+
+    if not thread_posts:
+        print("❌ エラー: X投稿の形式を認識できませんでした")
+        sys.exit(1)
+
+    # noteURL置換（プレースホルダー → 指定URL、ベースURL → 指定URL、なければ末尾追記）
+    last = thread_posts[-1]
+    base_url = "https://note.com/longevity_navi"
+    if "[note URL]" in last:
+        thread_posts[-1] = last.replace("[note URL]", note_url)
+    elif base_url in last and note_url != base_url:
+        thread_posts[-1] = last.replace(base_url, note_url)
+    elif note_url not in last:
+        thread_posts[-1] = last + f"\n{note_url}"
+
+    # 1投稿版 = ## 1投稿版セクション があれば使用、なければ最終投稿を流用
+    single_post = _parse_single(content, note_url) or thread_posts[-1]
+
+    return {
+        'single': single_post,
+        'thread': thread_posts
+    }
+
+def _parse_thread_format(content: str) -> list:
+    """形式A: ## 投稿N/10｜テーマ + ```コードブロック```"""
+    posts = []
+    # セクション見出しでスプリット
+    sections = re.split(r'\n## 投稿\d+/\d+', content)
+    if len(sections) <= 1:
+        return []
+    for section in sections[1:]:  # 最初はヘッダー部分
+        # コードブロック内のテキストを抽出
+        code_match = re.search(r'```\n(.*?)```', section, re.DOTALL)
+        if code_match:
+            posts.append(code_match.group(1).strip())
+        else:
+            # コードブロックなしの場合は見出し直後のテキストを使用
+            text = re.sub(r'^[|\n\-]+', '', section).strip()
+            text = text.split('\n---')[0].strip()
+            if text:
+                posts.append(text)
+    return posts
+
+def _parse_legacy_format(content: str) -> list:
+    """形式B: ## 10連スレッド版 + ### N/10"""
     thread_section = content.split("## 10連スレッド版")[1]
-    thread_posts = []
-
+    posts = []
     for i in range(1, 11):
         marker = f"### {i}/10"
         if marker in thread_section:
@@ -55,18 +112,16 @@ def load_x_posts(note_dir: Path, note_url: str):
             end = thread_section.find("---", start)
             if end == -1:
                 end = len(thread_section)
-
             post = thread_section[start:end].strip()
-            # 最後の投稿にnoteURL挿入
-            if i == 10:
-                post = post.replace("[note URL]", note_url)
+            posts.append(post)
+    return posts
 
-            thread_posts.append(post)
-
-    return {
-        'single': single_post,
-        'thread': thread_posts
-    }
+def _parse_single(content: str, note_url: str) -> str | None:
+    """## 1投稿版 セクションがあれば抽出"""
+    if "## 1投稿版" not in content:
+        return None
+    text = content.split("## 1投稿版")[1].split("---")[0].strip()
+    return text.replace("[note URL]", note_url)
 
 def display_single_post(post: str):
     """1投稿版を表示"""
@@ -142,7 +197,7 @@ def main():
         sys.exit(1)
 
     # X投稿を読み込み
-    print(f"📖 X告知文を読み込み中... {note_dir}")
+    print(f"📖 X投稿ファイルを検索中... {note_dir}")
     posts = load_x_posts(note_dir, args.url)
 
     # 1投稿版を表示
