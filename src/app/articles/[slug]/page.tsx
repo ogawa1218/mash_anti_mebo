@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import CTASection from "@/components/CTASection";
 import PointBox from "@/components/PointBox";
 import Link from "next/link";
+import episodes from "@/data/episodes";
 
 // サンプル記事データ（実際はCMSやMDXから取得）
 const articleData: Record<
@@ -91,6 +92,37 @@ const articleData: Record<
     },
 };
 
+// エピソードデータからスタブ記事を生成
+const episodeArticleData = Object.fromEntries(
+    episodes.map((ep) => [
+        ep.slug,
+        {
+            title: `第${ep.episodeNumber}回｜${ep.title}`,
+            date: ep.date,
+            category: ep.category,
+            content: (
+                <>
+                    <p>{ep.excerpt}</p>
+                    <PointBox>
+                        <p>
+                            <strong>この記事はPodcast「Longevity Navigator」第{ep.episodeNumber}回の内容をnote記事化したものです。</strong>
+                        </p>
+                    </PointBox>
+                    <h2>内容は準備中です</h2>
+                    <p>
+                        詳細な記事コンテンツは順次公開予定です。
+                        <br />
+                        stand.fmでPodcastをお聴きいただけます。
+                    </p>
+                </>
+            ),
+        },
+    ])
+);
+
+// 全記事データをマージ
+const allArticleData = { ...articleData, ...episodeArticleData };
+
 // メタデータ生成
 export async function generateMetadata({
     params,
@@ -98,7 +130,7 @@ export async function generateMetadata({
     params: Promise<{ slug: string }>;
 }): Promise<Metadata> {
     const { slug } = await params;
-    const article = articleData[slug];
+    const article = allArticleData[slug];
 
     if (!article) {
         return {
@@ -118,7 +150,7 @@ export default async function ArticlePage({
     params: Promise<{ slug: string }>;
 }) {
     const { slug } = await params;
-    const article = articleData[slug];
+    const article = allArticleData[slug];
 
     // 記事が見つからない場合
     if (!article) {

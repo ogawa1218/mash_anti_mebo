@@ -1,6 +1,7 @@
 import ArticleCard from "./ArticleCard";
+import episodes from "@/data/episodes";
 
-// サンプル記事データ
+// サンプル記事データ（既存の6本）
 const sampleArticles = [
     {
         slug: "how-to-start-diet-for-metabo",
@@ -53,16 +54,19 @@ const sampleArticles = [
 ];
 
 export default function ArticleList() {
+    // 最新エピソード（第31回以降）を新着として表示
+    const latestEpisodes = episodes.slice(-6).reverse();
+
     return (
         <section className="bg-gray-50 py-12 md:py-16">
             <div className="mx-auto max-w-6xl px-4">
                 <h2 className="mb-8 text-center text-xl font-bold text-gray-900 md:text-2xl">
-                    新着記事
+                    新着エピソード
                 </h2>
 
                 <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                    {sampleArticles.map((article) => (
-                        <ArticleCard key={article.slug} {...article} />
+                    {latestEpisodes.map((episode) => (
+                        <ArticleCard key={episode.slug} {...episode} />
                     ))}
                 </div>
 
