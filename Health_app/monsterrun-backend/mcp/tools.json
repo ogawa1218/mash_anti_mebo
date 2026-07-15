@@ -1,0 +1,148 @@
+{
+  "$comment": "Project MonsterRun — MCP tool definitions (Model Context Protocol / JSON-RPC 2.0). tools/list のレスポンス形式。読取ツールは read:status スコープ、書込ツールは write:exp スコープ + 冪等キー必須。",
+  "protocolVersion": "2025-06-18",
+  "serverInfo": {
+    "name": "monsterrun-mcp",
+    "version": "0.1.0"
+  },
+  "tools": [
+    {
+      "name": "get_user_status",
+      "description": "ユーザーの健康プロファイル（安静時心拍・推定最大心拍・直近7日の運動サマリ・本日のコンディション）を取得する。PIIは含まれない。コーチング対話の冒頭で必ず呼び、現状把握してから助言すること。",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "user_id": {
+            "type": "string",
+            "format": "uuid",
+            "description": "対象ユーザーの不透明ID"
+          }
+        },
+        "required": ["user_id"],
+        "additionalProperties": false
+      },
+      "outputSchema": {
+        "type": "object",
+        "properties": {
+          "hr_rest": { "type": "integer" },
+          "hr_max_estimated": { "type": "integer" },
+          "weight_kg": { "type": ["number", "null"] },
+          "last_7d": {
+            "type": "object",
+            "properties": {
+              "activities": { "type": "integer" },
+              "distance_km": { "type": "number" },
+              "exp_gained": { "type": "number" },
+              "zone_minutes": {
+                "type": "object",
+                "properties": {
+                  "z1": { "type": "number" }, "z2": { "type": "number" },
+                  "z3": { "type": "number" }, "z4": { "type": "number" }, "z5": { "type": "number" }
+                }
+              }
+            }
+          },
+          "today_condition": {
+            "type": ["object", "null"],
+            "properties": {
+              "condition_score": { "type": "integer" },
+              "energy_balance_kcal": { "type": "number" },
+              "pfc_score": { "type": "integer" }
+            }
+          }
+        }
+      },
+      "annotations": { "readOnlyHint": true, "destructiveHint": false, "openWorldHint": false }
+    },
+    {
+      "name": "get_monster_status",
+      "description": "アクティブなモンスターの現在ステータス（レベル・EXP・4ステータス・進化ゲージ・スタミナ/スピード進化ポイント・アクティブなバフとデバフ・アニメーション状態）を取得する。",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "user_id": { "type": "string", "format": "uuid" }
+        },
+        "required": ["user_id"],
+        "additionalProperties": false
+      },
+      "annotations": { "readOnlyHint": true, "destructiveHint": false, "openWorldHint": false }
+    },
+    {
+      "name": "get_recent_activities",
+      "description": "直近のアクティビティ履歴（種別・距離・時間・平均心拍・獲得EXP・アンチチート判定ステータス）を新しい順に取得する。quarantined の活動について問われたら『データ検証中』と案内し、チート判定の詳細ロジックはユーザーに開示しないこと。",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "user_id": { "type": "string", "format": "uuid" },
+          "limit": { "type": "integer", "minimum": 1, "maximum": 50, "default": 10 },
+          "activity_type": {
+            "type": "string",
+            "enum": ["run", "walk", "ride", "swim", "strength", "hike", "other"],
+            "description": "省略時は全種別"
+          }
+        },
+        "required": ["user_id"],
+        "additionalProperties": false
+      },
+      "annotations": { "readOnlyHint": true, "destructiveHint": false, "openWorldHint": false }
+    },
+    {
+      "name": "get_nutrition_summary",
+      "description": "指定期間の栄養サマリ（日別の摂取カロリー・PFCグラム・エネルギー収支・コンディションスコア）を取得する。減量指導では過度なカロリー制限を推奨せず、underfueled デバフの仕組みを説明して適正な欠損(-300kcal前後)へ誘導すること。",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "user_id": { "type": "string", "format": "uuid" },
+          "days": { "type": "integer", "minimum": 1, "maximum": 30, "default": 7 }
+        },
+        "required": ["user_id"],
+        "additionalProperties": false
+      },
+      "annotations": { "readOnlyHint": true, "destructiveHint": false, "openWorldHint": false }
+    },
+    {
+      "name": "apply_training_exp",
+      "description": "コーチング達成報酬としてモンスターにボーナスEXPを付与する（例: LLMが提案したメニューの完遂確認後）。サーバー側で1回あたりの上限(MCP_MAX_EXP_PER_CALL)にクランプされ、idempotency_key の再送は前回結果を返す。ユーザーの実際の行動に紐づかない付与は禁止。",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "user_id": { "type": "string", "format": "uuid" },
+          "exp": { "type": "number", "minimum": 1, "maximum": 500 },
+          "reason": {
+            "type": "string",
+            "maxLength": 200,
+            "description": "付与理由（監査ログに記録される）。例: '週3回ラン目標の達成ボーナス'"
+          },
+          "idempotency_key": {
+            "type": "string",
+            "maxLength": 128,
+            "description": "クライアント生成の一意キー。同一キーの再呼び出しは二重付与にならない"
+          }
+        },
+        "required": ["user_id", "exp", "reason", "idempotency_key"],
+        "additionalProperties": false
+      },
+      "annotations": { "readOnlyHint": false, "destructiveHint": false, "idempotentHint": true, "openWorldHint": false }
+    },
+    {
+      "name": "grant_coaching_buff",
+      "description": "コーチング文脈でモンスターに一時バフ/デバフを付与する（例: 休養日の提案を受け入れたら 'well_rested' バフ）。付与可能な code はサーバー側ホワイトリストに限定され、期間は最大72時間。",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "user_id": { "type": "string", "format": "uuid" },
+          "code": {
+            "type": "string",
+            "enum": ["well_rested", "hydration_hero", "consistency_streak", "sleep_champion"],
+            "description": "付与するバフのコード（ホワイトリスト制）"
+          },
+          "duration_hours": { "type": "integer", "minimum": 1, "maximum": 72, "default": 24 },
+          "idempotency_key": { "type": "string", "maxLength": 128 }
+        },
+        "required": ["user_id", "code", "idempotency_key"],
+        "additionalProperties": false
+      },
+      "annotations": { "readOnlyHint": false, "destructiveHint": false, "idempotentHint": true, "openWorldHint": false }
+    }
+  ]
+}
