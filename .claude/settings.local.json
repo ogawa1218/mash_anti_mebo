@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "Bash(python -X utf8 generate_thumbnail.py)",
-      "WebSearch"
+      "WebSearch",
+      "mcp__Claude_Code_Remote__send_later"
     ]
   }
 }
